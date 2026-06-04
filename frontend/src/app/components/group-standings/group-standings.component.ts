@@ -12,6 +12,7 @@ import { PredictionService } from '../../services/prediction.service';
 })
 export class GroupStandingsComponent implements OnInit {
   groupStandings: any[] = [];
+  bestThirdPlacedTeams: any[] = [];
   loading = false;
   error = '';
 
@@ -31,18 +32,18 @@ export class GroupStandingsComponent implements OnInit {
   };
 
   groupNames: any = {
-    A: 'Groupe A',
-    B: 'Groupe B',
-    C: 'Groupe C',
-    D: 'Groupe D',
-    E: 'Groupe E',
-    F: 'Groupe F',
-    G: 'Groupe G',
-    H: 'Groupe H',
-    I: 'Groupe I',
-    J: 'Groupe J',
-    K: 'Groupe K',
-    L: 'Groupe L'
+    A: 'Group A',
+    B: 'Group B',
+    C: 'Group C',
+    D: 'Group D',
+    E: 'Group E',
+    F: 'Group F',
+    G: 'Group G',
+    H: 'Group H',
+    I: 'Group I',
+    J: 'Group J',
+    K: 'Group K',
+    L: 'Group L'
   };
 
   constructor(private predictionService: PredictionService) {}
@@ -55,6 +56,7 @@ export class GroupStandingsComponent implements OnInit {
     this.loading = true;
     this.error = '';
     this.groupStandings = [];
+    this.bestThirdPlacedTeams = [];
 
     this.predictionService.getGroupStandings().subscribe({
       next: (data) => {
@@ -63,6 +65,8 @@ export class GroupStandingsComponent implements OnInit {
         } else if (data.groups) {
           this.groupStandings = Object.values(data.groups) as any[];
         }
+
+        this.buildBestThirdPlacedRanking();
         this.loading = false;
       },
       error: (err) => {
@@ -71,6 +75,38 @@ export class GroupStandingsComponent implements OnInit {
         this.loading = false;
       }
     });
+  }
+
+  buildBestThirdPlacedRanking() {
+    this.bestThirdPlacedTeams = this.groupStandings
+      .map((group) => {
+        const thirdTeam = group.teams?.[2];
+
+        if (!thirdTeam) return null;
+
+        const goalsFor = Number(thirdTeam.goals_for || 0);
+        const goalsAgainst = Number(thirdTeam.goals_against || 0);
+
+        return {
+          ...thirdTeam,
+          group: group.group,
+          goal_difference: goalsFor - goalsAgainst,
+          fair_play_points: Number(thirdTeam.fair_play_points || thirdTeam.fairPlayPoints || 0)
+        };
+      })
+      .filter(Boolean)
+      .sort((a, b) =>
+        Number(b.points || 0) - Number(a.points || 0) ||
+        Number(b.goal_difference || 0) - Number(a.goal_difference || 0) ||
+        Number(b.goals_for || 0) - Number(a.goals_for || 0) ||
+        Number(a.fair_play_points || 0) - Number(b.fair_play_points || 0) ||
+        String(a.group).localeCompare(String(b.group))
+      )
+      .map((team, index) => ({
+        ...team,
+        thirdRank: index + 1,
+        qualifiedAsThird: index < 8
+      }));
   }
 
   getGroupEmoji(group: string): string {
@@ -87,5 +123,9 @@ export class GroupStandingsComponent implements OnInit {
 
   getThirdPlace(teams: any[]): any {
     return teams[2];
+  }
+
+  getGoalDifference(team: any): number {
+    return Number(team.goals_for || 0) - Number(team.goals_against || 0);
   }
 }
