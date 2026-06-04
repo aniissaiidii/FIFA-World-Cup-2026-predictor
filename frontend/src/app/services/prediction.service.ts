@@ -37,4 +37,8 @@ export class PredictionService {
   generatePredictions(): Observable<any> {
     return this.http.get(`${this.apiUrl}/generate-predictions`);
   }
+
+  getGroupStandings(): Observable<any> {
+    return this.http.get(`${this.apiUrl}/group-standings`);
+  }
 }

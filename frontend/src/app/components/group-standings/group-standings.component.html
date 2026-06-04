@@ -1,0 +1,103 @@
+<section class="group-standings-container">
+  <div class="standings-hero">
+    <div>
+      <span class="hero-badge">World Cup 2026</span>
+      <h1>Poules & Qualification</h1>
+      <p>Classement simulé des 12 groupes avec qualifiés directs et potentiels troisièmes.</p>
+    </div>
+
+    <div class="hero-mini-card">
+      <strong>48</strong>
+      <span>Teams</span>
+    </div>
+  </div>
+
+  <div *ngIf="loading" class="state-card loading">
+    <span>⏳</span>
+    <p>Génération des prédictions et classements...</p>
+  </div>
+
+  <div *ngIf="error" class="state-card error-message">
+    <span>!</span>
+    <p>{{ error }}</p>
+    <button (click)="loadGroupStandings()">Réessayer</button>
+  </div>
+
+  <div *ngIf="!loading && !error && groupStandings.length > 0" class="legend">
+    <div><span class="dot qualified-dot"></span> Qualifiés directs</div>
+    <div><span class="dot third-dot"></span> Potentiel 3ème</div>
+  </div>
+
+  <div *ngIf="!loading && !error && groupStandings.length > 0" class="groups-grid">
+    <article *ngFor="let group of groupStandings" class="group-card">
+      <div class="group-header">
+        <div>
+          <span>Group stage</span>
+          <h2>{{ getGroupEmoji(group.group) }} {{ getGroupName(group.group) }}</h2>
+        </div>
+
+        <strong>{{ group.group }}</strong>
+      </div>
+
+      <div class="teams-list">
+        <div
+          *ngFor="let team of group.teams; let idx = index"
+          class="team-row"
+          [class.qualified]="idx < 2"
+          [class.third-place]="idx === 2"
+        >
+          <div class="rank-pill">{{ team.rank }}</div>
+
+          <div class="team-main">
+            <h3>{{ team.name }}</h3>
+
+            <div class="team-stats">
+              <span>PJ <b>{{ team.played }}</b></span>
+              <span>V <b>{{ team.wins }}</b></span>
+              <span>N <b>{{ team.draws }}</b></span>
+              <span>D <b>{{ team.losses }}</b></span>
+              <span>BP <b>{{ team.goals_for }}</b></span>
+              <span>BC <b>{{ team.goals_against }}</b></span>
+              <span>
+                DF
+                <b
+                  [class.positive]="team.goals_for - team.goals_against > 0"
+                  [class.negative]="team.goals_for - team.goals_against < 0"
+                >
+                  {{ team.goals_for - team.goals_against >= 0 ? '+' : '' }}{{ team.goals_for - team.goals_against }}
+                </b>
+              </span>
+            </div>
+          </div>
+
+          <div class="points-box">
+            <strong>{{ team.points }}</strong>
+            <span>pts</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="qualification-info">
+        <p>
+          <span class="qualified-badge">Qualifiés</span>
+          <strong>
+            <ng-container *ngFor="let team of getQualifiedTeams(group.teams); let last = last">
+              {{ team.name }}<span *ngIf="!last">, </span>
+            </ng-container>
+          </strong>
+        </p>
+
+        <p *ngIf="getThirdPlace(group.teams)" class="third-info">
+          <span class="third-badge">3ème</span>
+          <strong>{{ getThirdPlace(group.teams).name }}</strong>
+        </p>
+      </div>
+    </article>
+  </div>
+
+  <div *ngIf="!loading && !error && groupStandings.length === 0" class="state-card no-data">
+    <span>📊</span>
+    <p>Aucune donnée disponible</p>
+    <button (click)="loadGroupStandings()">Charger les prédictions</button>
+  </div>
+</section>

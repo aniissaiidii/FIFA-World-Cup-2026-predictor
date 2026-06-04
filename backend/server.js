@@ -395,6 +395,99 @@ app.get('/api/ranking', (req, res) => {
 
   res.json(ranking);
 });
+
+app.get('/api/group-standings', (req, res) => {
+  const matches = generateGroupMatches();
+  const predictions = matches.map(match => predictMatch(match.team1, match.team2));
+
+  // Initialize group standings
+  const groupStandings = {};
+  Object.keys(groups).forEach(groupLetter => {
+    groupStandings[groupLetter] = {
+      group: groupLetter,
+      teams: groups[groupLetter].map(team => ({
+        name: showName(team),
+        played: 0,
+        wins: 0,
+        draws: 0,
+        losses: 0,
+        goals_for: 0,
+        goals_against: 0,
+        points: 0
+      }))
+    };
+  });
+
+  // Process predictions to build standings
+  predictions.forEach(pred => {
+    // Find which group this match belongs to
+    let matchGroup = null;
+    Object.entries(groups).forEach(([letter, teams]) => {
+      const displayTeams = teams.map(t => showName(t));
+      if (displayTeams.includes(pred.team1) && displayTeams.includes(pred.team2)) {
+        matchGroup = letter;
+      }
+    });
+
+    if (!matchGroup) return;
+
+    const group = groupStandings[matchGroup];
+    const team1 = group.teams.find(t => t.name === pred.team1);
+    const team2 = group.teams.find(t => t.name === pred.team2);
+
+    if (!team1 || !team2) return;
+
+    // Parse score
+    const [goals1, goals2] = pred.predicted_score.split(' - ').map(Number);
+
+    // Update played matches
+    team1.played++;
+    team2.played++;
+
+    // Update goals
+    team1.goals_for += goals1;
+    team1.goals_against += goals2;
+    team2.goals_for += goals2;
+    team2.goals_against += goals1;
+
+    // Update result
+    if (goals1 > goals2) {
+      team1.wins++;
+      team1.points += 3;
+      team2.losses++;
+    } else if (goals2 > goals1) {
+      team2.wins++;
+      team2.points += 3;
+      team1.losses++;
+    } else {
+      team1.draws++;
+      team1.points += 1;
+      team2.draws++;
+      team2.points += 1;
+    }
+  });
+
+  // Sort teams in each group by points, then by goal difference
+  Object.keys(groupStandings).forEach(groupLetter => {
+    groupStandings[groupLetter].teams.sort((a, b) => {
+      const aDiff = a.goals_for - a.goals_against;
+      const bDiff = b.goals_for - b.goals_against;
+      return b.points - a.points || bDiff - aDiff;
+    });
+
+    // Add rank
+    groupStandings[groupLetter].teams.forEach((team, index) => {
+      team.rank = index + 1;
+    });
+  });
+
+  res.json({
+    model_version: MODEL_VERSION,
+    groups: groupStandings,
+    all_groups: Object.values(groupStandings).sort((a, b) => a.group.localeCompare(b.group))
+  });
+});
+
 app.get('/api/health', (req, res) => {
   res.json({
     ok: true,
