@@ -1,0 +1,2211 @@
+date,team,opponent,goals_for,goals_against,result,competition
+2024-06-04,Australia,Switzerland,1,1,D,Continental Championship
+2024-06-04,Spain,Germany,0,1,L,Continental Championship
+2024-06-05,Egypt,Ghana,2,0,W,Continental Championship
+2024-06-05,South Africa,Cape Verde,1,1,D,World Cup Qualifier
+2024-06-05,Portugal,France,1,0,W,International Friendly
+2024-06-06,Curaçao,Norway,1,1,D,World Cup Qualifier
+2024-06-06,Ecuador,Canada,2,1,W,World Cup Qualifier
+2024-06-06,Morocco,Iran,2,1,W,Continental Championship
+2024-06-07,Belgium,Ecuador,0,3,L,World Cup Qualifier
+2024-06-07,Saudi Arabia,Uruguay,1,1,W,International Friendly
+2024-06-07,Qatar,United States,1,2,W,Continental Championship
+2024-06-08,Iraq,Algeria,2,0,W,International Friendly
+2024-06-08,Austria,Haiti,1,1,D,Continental Championship
+2024-06-08,Saudi Arabia,Tunisia,2,2,D,International Friendly
+2024-06-08,Algeria,Canada,3,0,W,Continental Championship
+2024-06-09,Morocco,Uruguay,2,1,W,International Friendly
+2024-06-09,Algeria,Türkiye,3,1,W,World Cup Qualifier
+2024-06-10,Ivory Coast,Argentina,0,2,L,Continental Championship
+2024-06-10,Australia,Belgium,1,1,D,Continental Championship
+2024-06-11,Belgium,Argentina,2,3,L,Continental Championship
+2024-06-11,Iraq,Colombia,0,3,L,World Cup Qualifier
+2024-06-11,Türkiye,Norway,3,1,W,World Cup Qualifier
+2024-06-12,Curaçao,South Africa,2,2,L,Continental Championship
+2024-06-12,Algeria,England,0,3,L,International Friendly
+2024-06-12,Tunisia,Croatia,0,2,L,World Cup Qualifier
+2024-06-12,Tunisia,Brazil,1,1,L,World Cup Qualifier
+2024-06-13,Croatia,Türkiye,0,0,D,Continental Championship
+2024-06-13,Algeria,Iran,1,1,L,Continental Championship
+2024-06-13,South Korea,Netherlands,0,1,L,World Cup Qualifier
+2024-06-13,Algeria,Australia,2,3,L,World Cup Qualifier
+2024-06-14,France,Japan,1,1,D,Continental Championship
+2024-06-14,Qatar,Paraguay,2,0,W,Continental Championship
+2024-06-14,Tunisia,Curaçao,3,3,D,World Cup Qualifier
+2024-06-14,Iran,South Africa,1,1,D,International Friendly
+2024-06-15,Sweden,Uruguay,1,3,L,Continental Championship
+2024-06-17,Argentina,Bosnia and Herzegovina,1,2,W,International Friendly
+2024-06-17,Australia,Portugal,0,2,L,Continental Championship
+2024-06-17,Brazil,Argentina,4,1,W,World Cup Qualifier
+2024-06-17,Canada,Australia,2,1,W,World Cup Qualifier
+2024-06-18,England,Türkiye,1,1,W,Continental Championship
+2024-06-19,Germany,England,3,1,W,Continental Championship
+2024-06-20,Uruguay,Croatia,1,4,L,International Friendly
+2024-06-20,South Africa,New Zealand,3,0,W,International Friendly
+2024-06-21,Spain,DR Congo,1,0,W,International Friendly
+2024-06-22,DR Congo,Cape Verde,2,0,W,World Cup Qualifier
+2024-06-22,Ivory Coast,Czech Republic,1,1,D,International Friendly
+2024-06-23,Morocco,England,1,1,W,World Cup Qualifier
+2024-06-23,Jordan,Uruguay,1,1,D,Continental Championship
+2024-06-23,Ghana,Jordan,1,1,W,World Cup Qualifier
+2024-06-23,Ghana,Colombia,1,0,W,World Cup Qualifier
+2024-06-23,Croatia,Curaçao,2,0,W,International Friendly
+2024-06-23,Argentina,England,0,2,L,World Cup Qualifier
+2024-06-23,Morocco,Ivory Coast,1,3,L,International Friendly
+2024-06-24,Egypt,Ghana,2,1,W,World Cup Qualifier
+2024-06-24,Iran,Türkiye,1,1,D,Continental Championship
+2024-06-25,Australia,Norway,0,0,D,Continental Championship
+2024-06-25,Iraq,Morocco,0,0,D,World Cup Qualifier
+2024-06-25,Germany,Ghana,1,0,W,World Cup Qualifier
+2024-06-26,Norway,Paraguay,1,1,D,World Cup Qualifier
+2024-06-26,Portugal,Türkiye,0,1,L,World Cup Qualifier
+2024-06-27,Spain,Algeria,2,0,W,World Cup Qualifier
+2024-06-27,Panama,Cape Verde,2,2,L,International Friendly
+2024-06-27,Switzerland,Uruguay,3,2,W,Continental Championship
+2024-06-27,New Zealand,Ivory Coast,0,2,L,Continental Championship
+2024-06-28,Egypt,South Korea,1,0,W,Continental Championship
+2024-06-28,Ghana,Canada,1,0,W,Continental Championship
+2024-06-28,Jordan,Ghana,2,1,W,International Friendly
+2024-06-29,Australia,Austria,2,2,W,Continental Championship
+2024-06-29,Ivory Coast,Spain,0,0,D,International Friendly
+2024-06-30,France,United States,1,1,W,International Friendly
+2024-07-01,Senegal,South Africa,2,2,L,Continental Championship
+2024-07-01,South Africa,Uzbekistan,1,1,D,World Cup Qualifier
+2024-07-02,Qatar,Spain,0,0,D,World Cup Qualifier
+2024-07-02,Argentina,Uzbekistan,3,1,W,Continental Championship
+2024-07-02,Croatia,Argentina,2,2,D,International Friendly
+2024-07-03,Uruguay,Türkiye,1,0,W,Continental Championship
+2024-07-03,Sweden,Colombia,1,1,D,International Friendly
+2024-07-03,Norway,Panama,1,0,W,World Cup Qualifier
+2024-07-04,Uruguay,Japan,1,0,W,Continental Championship
+2024-07-04,England,Japan,2,0,W,Continental Championship
+2024-07-04,Egypt,Morocco,0,0,D,Continental Championship
+2024-07-05,DR Congo,Egypt,1,1,L,International Friendly
+2024-07-05,Brazil,Cape Verde,3,0,W,World Cup Qualifier
+2024-07-06,Switzerland,Algeria,0,0,D,International Friendly
+2024-07-06,Japan,Ghana,2,4,L,International Friendly
+2024-07-06,Colombia,Argentina,1,1,L,International Friendly
+2024-07-06,Iran,Cape Verde,3,0,W,Continental Championship
+2024-07-07,Morocco,Colombia,3,3,D,Continental Championship
+2024-07-07,New Zealand,Portugal,3,2,W,International Friendly
+2024-07-07,Belgium,France,1,0,W,Continental Championship
+2024-07-07,Curaçao,Haiti,3,1,W,Continental Championship
+2024-07-07,Canada,Spain,0,2,L,World Cup Qualifier
+2024-07-08,Iraq,Austria,1,0,W,International Friendly
+2024-07-08,England,Panama,2,0,W,World Cup Qualifier
+2024-07-08,Argentina,South Africa,2,2,D,International Friendly
+2024-07-09,Egypt,Iran,2,1,W,Continental Championship
+2024-07-09,Türkiye,Ivory Coast,0,3,L,International Friendly
+2024-07-10,Uruguay,Scotland,1,0,W,Continental Championship
+2024-07-10,Croatia,Belgium,1,3,L,International Friendly
+2024-07-10,Colombia,Algeria,3,3,D,Continental Championship
+2024-07-10,Curaçao,Morocco,1,3,L,Continental Championship
+2024-07-10,Qatar,Paraguay,2,2,W,International Friendly
+2024-07-10,Algeria,England,1,1,W,Continental Championship
+2024-07-10,Bosnia and Herzegovina,Türkiye,0,1,L,International Friendly
+2024-07-11,South Korea,Morocco,0,1,L,World Cup Qualifier
+2024-07-12,Ghana,Uzbekistan,1,1,D,International Friendly
+2024-07-12,South Africa,United States,3,1,W,Continental Championship
+2024-07-12,Ivory Coast,Scotland,3,0,W,International Friendly
+2024-07-12,Argentina,United States,1,1,W,Continental Championship
+2024-07-12,South Korea,Ivory Coast,0,1,L,World Cup Qualifier
+2024-07-13,Tunisia,Iraq,2,1,W,International Friendly
+2024-07-13,Norway,Jordan,2,1,W,Continental Championship
+2024-07-14,Ghana,United States,2,2,W,World Cup Qualifier
+2024-07-14,Spain,Japan,1,1,W,Continental Championship
+2024-07-15,Belgium,DR Congo,1,1,W,Continental Championship
+2024-07-15,Germany,South Korea,1,0,W,Continental Championship
+2024-07-15,Türkiye,Ecuador,4,1,W,International Friendly
+2024-07-15,Croatia,Ghana,3,0,W,Continental Championship
+2024-07-16,France,Egypt,3,0,W,World Cup Qualifier
+2024-07-16,Switzerland,Croatia,3,0,W,International Friendly
+2024-07-16,France,Germany,0,0,D,World Cup Qualifier
+2024-07-16,Canada,Uruguay,1,2,W,World Cup Qualifier
+2024-07-16,Türkiye,Algeria,2,2,W,Continental Championship
+2024-07-16,Colombia,Brazil,1,2,L,Continental Championship
+2024-07-17,Belgium,Austria,1,1,W,World Cup Qualifier
+2024-07-17,Iran,Scotland,3,3,D,International Friendly
+2024-07-18,Czech Republic,Egypt,2,2,D,World Cup Qualifier
+2024-07-18,Qatar,DR Congo,1,1,L,World Cup Qualifier
+2024-07-18,Brazil,England,1,1,D,World Cup Qualifier
+2024-07-18,Spain,Cape Verde,1,0,W,International Friendly
+2024-07-19,Canada,Saudi Arabia,2,2,W,International Friendly
+2024-07-20,England,Algeria,1,4,L,International Friendly
+2024-07-20,New Zealand,South Africa,1,1,D,World Cup Qualifier
+2024-07-20,Austria,Qatar,1,1,D,Continental Championship
+2024-07-20,Iraq,Brazil,1,1,L,International Friendly
+2024-07-20,Canada,Austria,1,1,L,World Cup Qualifier
+2024-07-20,Czech Republic,Portugal,1,3,L,International Friendly
+2024-07-21,Croatia,New Zealand,1,1,D,International Friendly
+2024-07-21,Cape Verde,Algeria,2,0,W,World Cup Qualifier
+2024-07-21,Türkiye,England,2,2,D,World Cup Qualifier
+2024-07-22,Japan,France,1,1,D,Continental Championship
+2024-07-22,Portugal,Australia,1,2,W,World Cup Qualifier
+2024-07-22,United States,Bosnia and Herzegovina,1,1,D,World Cup Qualifier
+2024-07-22,Czech Republic,Japan,3,3,D,Continental Championship
+2024-07-23,Tunisia,Iraq,2,0,W,Continental Championship
+2024-07-23,Netherlands,Portugal,1,0,W,Continental Championship
+2024-07-23,United States,Tunisia,0,0,D,Continental Championship
+2024-07-23,Colombia,England,0,2,L,World Cup Qualifier
+2024-07-23,South Korea,France,1,1,D,World Cup Qualifier
+2024-07-24,United States,Colombia,2,0,W,Continental Championship
+2024-07-24,Panama,Bosnia and Herzegovina,2,0,W,International Friendly
+2024-07-25,Portugal,Haiti,1,1,D,World Cup Qualifier
+2024-07-25,Scotland,Portugal,3,0,W,International Friendly
+2024-07-25,South Korea,Ghana,0,2,L,Continental Championship
+2024-07-25,England,Morocco,2,1,W,International Friendly
+2024-07-25,Spain,Canada,2,0,W,International Friendly
+2024-07-25,Iran,Colombia,1,1,D,World Cup Qualifier
+2024-07-26,Norway,Iraq,2,2,W,International Friendly
+2024-07-26,Haiti,Iran,1,0,W,Continental Championship
+2024-07-26,Switzerland,Czech Republic,3,0,W,Continental Championship
+2024-07-26,Portugal,Ivory Coast,3,0,W,Continental Championship
+2024-07-27,Morocco,Colombia,0,2,L,World Cup Qualifier
+2024-07-27,Brazil,Senegal,1,1,D,World Cup Qualifier
+2024-07-27,South Korea,Sweden,2,0,W,Continental Championship
+2024-07-27,Croatia,Brazil,1,2,L,World Cup Qualifier
+2024-07-27,England,Bosnia and Herzegovina,1,1,L,International Friendly
+2024-07-28,Portugal,Australia,2,1,W,International Friendly
+2024-07-29,Portugal,Belgium,1,0,W,International Friendly
+2024-07-30,United States,Australia,3,0,W,World Cup Qualifier
+2024-07-30,Ecuador,Belgium,0,1,L,International Friendly
+2024-07-30,Ghana,Ecuador,2,2,D,International Friendly
+2024-07-30,Panama,Switzerland,0,3,L,World Cup Qualifier
+2024-07-31,Sweden,Canada,2,2,W,International Friendly
+2024-07-31,Iran,Qatar,0,1,L,Continental Championship
+2024-07-31,Uzbekistan,Canada,1,1,D,World Cup Qualifier
+2024-07-31,Ivory Coast,Curaçao,3,1,W,Continental Championship
+2024-08-01,South Korea,Ivory Coast,3,2,W,International Friendly
+2024-08-01,Egypt,South Korea,0,2,L,Continental Championship
+2024-08-01,France,Qatar,1,0,W,International Friendly
+2024-08-01,Ghana,Argentina,1,1,D,International Friendly
+2024-08-01,Ivory Coast,United States,2,0,W,International Friendly
+2024-08-02,Canada,Brazil,3,1,W,World Cup Qualifier
+2024-08-02,DR Congo,Belgium,1,1,L,World Cup Qualifier
+2024-08-03,Australia,Senegal,1,1,D,World Cup Qualifier
+2024-08-03,Colombia,Qatar,1,1,D,Continental Championship
+2024-08-04,Japan,Bosnia and Herzegovina,2,0,W,Continental Championship
+2024-08-04,Jordan,Haiti,2,0,W,World Cup Qualifier
+2024-08-04,New Zealand,Uzbekistan,1,4,L,World Cup Qualifier
+2024-08-04,Colombia,Mexico,0,1,L,International Friendly
+2024-08-04,New Zealand,South Africa,0,2,L,World Cup Qualifier
+2024-08-04,Morocco,France,0,3,L,International Friendly
+2024-08-05,Algeria,South Africa,1,1,D,World Cup Qualifier
+2024-08-05,Colombia,Cape Verde,2,2,D,Continental Championship
+2024-08-06,Canada,Paraguay,2,0,W,World Cup Qualifier
+2024-08-06,Curaçao,Croatia,1,1,L,International Friendly
+2024-08-08,France,Mexico,1,2,W,World Cup Qualifier
+2024-08-08,Panama,Germany,0,1,L,World Cup Qualifier
+2024-08-08,Australia,Haiti,1,1,D,Continental Championship
+2024-08-08,Morocco,Czech Republic,1,4,L,Continental Championship
+2024-08-08,Bosnia and Herzegovina,Iraq,2,0,W,Continental Championship
+2024-08-08,Ghana,Norway,2,3,L,Continental Championship
+2024-08-08,Qatar,Netherlands,2,2,W,Continental Championship
+2024-08-09,Saudi Arabia,Paraguay,1,0,W,International Friendly
+2024-08-09,Türkiye,Jordan,3,1,W,International Friendly
+2024-08-09,Switzerland,Japan,0,3,L,Continental Championship
+2024-08-09,Uzbekistan,South Africa,1,0,W,International Friendly
+2024-08-09,South Africa,Australia,2,2,L,Continental Championship
+2024-08-10,Scotland,Colombia,0,3,L,World Cup Qualifier
+2024-08-10,Czech Republic,Germany,2,2,D,International Friendly
+2024-08-10,Colombia,Jordan,1,2,W,International Friendly
+2024-08-10,Algeria,Switzerland,3,2,W,International Friendly
+2024-08-10,Egypt,Argentina,1,1,D,International Friendly
+2024-08-11,Iraq,France,1,4,L,Continental Championship
+2024-08-11,South Africa,Japan,2,2,D,World Cup Qualifier
+2024-08-12,New Zealand,South Korea,0,2,L,Continental Championship
+2024-08-12,Cape Verde,Austria,0,0,D,World Cup Qualifier
+2024-08-12,Belgium,Japan,1,2,L,International Friendly
+2024-08-12,Croatia,United States,1,0,W,World Cup Qualifier
+2024-08-12,Portugal,Ivory Coast,1,1,D,International Friendly
+2024-08-12,Ivory Coast,Czech Republic,1,4,L,World Cup Qualifier
+2024-08-13,Spain,Norway,1,0,W,International Friendly
+2024-08-14,Scotland,Cape Verde,2,2,D,World Cup Qualifier
+2024-08-14,DR Congo,Egypt,3,1,W,International Friendly
+2024-08-15,Saudi Arabia,England,1,1,W,World Cup Qualifier
+2024-08-15,Iran,Uzbekistan,1,1,D,International Friendly
+2024-08-15,Türkiye,South Korea,2,0,W,Continental Championship
+2024-08-15,Spain,Australia,1,0,W,International Friendly
+2024-08-15,Tunisia,Ghana,3,3,D,International Friendly
+2024-08-16,Haiti,Colombia,0,0,D,World Cup Qualifier
+2024-08-16,Tunisia,Brazil,1,1,D,Continental Championship
+2024-08-16,Paraguay,Uzbekistan,2,4,L,Continental Championship
+2024-08-16,Egypt,Ivory Coast,3,0,W,Continental Championship
+2024-08-16,Iraq,Colombia,0,1,L,World Cup Qualifier
+2024-08-17,DR Congo,Algeria,1,1,D,World Cup Qualifier
+2024-08-17,Ivory Coast,Iraq,3,0,W,World Cup Qualifier
+2024-08-18,Jordan,DR Congo,0,0,D,World Cup Qualifier
+2024-08-18,Qatar,Panama,1,2,W,International Friendly
+2024-08-19,Algeria,Switzerland,1,3,L,World Cup Qualifier
+2024-08-20,Iraq,South Africa,2,2,W,Continental Championship
+2024-08-20,Cape Verde,Brazil,2,2,W,World Cup Qualifier
+2024-08-20,South Africa,United States,2,0,W,Continental Championship
+2024-08-21,Senegal,Japan,1,1,W,Continental Championship
+2024-08-21,Croatia,Argentina,2,1,W,Continental Championship
+2024-08-21,Austria,Haiti,3,3,D,Continental Championship
+2024-08-22,Sweden,Türkiye,0,2,L,World Cup Qualifier
+2024-08-22,Ghana,Senegal,0,1,L,International Friendly
+2024-08-22,Sweden,Brazil,1,1,D,International Friendly
+2024-08-23,Brazil,Uruguay,1,1,W,Continental Championship
+2024-08-23,Switzerland,Germany,0,2,L,World Cup Qualifier
+2024-08-24,Cape Verde,Scotland,2,2,L,World Cup Qualifier
+2024-08-24,Cape Verde,Argentina,3,3,D,World Cup Qualifier
+2024-08-24,Uzbekistan,Netherlands,0,3,L,Continental Championship
+2024-08-25,Netherlands,Argentina,2,2,L,World Cup Qualifier
+2024-08-25,Spain,Uzbekistan,0,0,D,Continental Championship
+2024-08-25,Curaçao,Mexico,2,2,L,International Friendly
+2024-08-25,Uruguay,Bosnia and Herzegovina,1,2,W,International Friendly
+2024-08-25,Iraq,South Korea,0,2,L,Continental Championship
+2024-08-26,Croatia,Uzbekistan,4,0,W,World Cup Qualifier
+2024-08-26,Argentina,Sweden,2,0,W,Continental Championship
+2024-08-26,Morocco,Portugal,3,0,W,World Cup Qualifier
+2024-08-27,Iran,Norway,2,0,W,International Friendly
+2024-08-28,Ivory Coast,New Zealand,2,1,L,World Cup Qualifier
+2024-08-28,Algeria,Panama,2,0,W,Continental Championship
+2024-08-28,Egypt,DR Congo,1,3,L,World Cup Qualifier
+2024-08-29,Cape Verde,Croatia,0,1,L,International Friendly
+2024-08-30,Ghana,DR Congo,2,0,W,International Friendly
+2024-08-30,DR Congo,South Korea,1,0,W,Continental Championship
+2024-08-30,Egypt,Netherlands,2,3,L,World Cup Qualifier
+2024-08-31,Canada,England,0,3,L,International Friendly
+2024-08-31,Australia,Panama,1,1,D,Continental Championship
+2024-08-31,Ivory Coast,United States,1,2,L,Continental Championship
+2024-08-31,Germany,DR Congo,0,0,D,World Cup Qualifier
+2024-09-01,Egypt,Canada,1,2,L,World Cup Qualifier
+2024-09-01,Bosnia and Herzegovina,Egypt,0,3,L,International Friendly
+2024-09-02,Bosnia and Herzegovina,Türkiye,2,2,L,Continental Championship
+2024-09-02,Colombia,Curaçao,0,1,L,World Cup Qualifier
+2024-09-02,Senegal,Scotland,2,2,D,World Cup Qualifier
+2024-09-02,Austria,Brazil,2,0,W,International Friendly
+2024-09-02,Norway,Iran,1,0,W,World Cup Qualifier
+2024-09-03,England,Japan,0,0,D,International Friendly
+2024-09-03,Czech Republic,Argentina,0,1,L,World Cup Qualifier
+2024-09-03,Switzerland,Iran,2,1,L,International Friendly
+2024-09-04,Türkiye,Argentina,1,1,W,Continental Championship
+2024-09-04,Haiti,Jordan,0,2,L,Continental Championship
+2024-09-04,Norway,South Africa,2,0,W,Continental Championship
+2024-09-04,Türkiye,Sweden,1,0,W,World Cup Qualifier
+2024-09-04,Germany,England,2,2,W,Continental Championship
+2024-09-04,Ecuador,Egypt,1,1,D,International Friendly
+2024-09-05,Colombia,Egypt,1,1,D,International Friendly
+2024-09-05,Paraguay,Uruguay,1,0,W,International Friendly
+2024-09-05,Senegal,Netherlands,0,1,L,International Friendly
+2024-09-06,DR Congo,Brazil,1,2,L,International Friendly
+2024-09-06,Ghana,Argentina,1,1,D,International Friendly
+2024-09-06,Cape Verde,Sweden,0,0,D,Continental Championship
+2024-09-06,Qatar,Cape Verde,1,1,L,World Cup Qualifier
+2024-09-06,Brazil,Canada,1,0,W,World Cup Qualifier
+2024-09-07,Morocco,Bosnia and Herzegovina,1,1,W,World Cup Qualifier
+2024-09-07,Cape Verde,Iraq,0,0,D,International Friendly
+2024-09-08,New Zealand,Croatia,1,0,W,World Cup Qualifier
+2024-09-08,Netherlands,Scotland,1,1,D,World Cup Qualifier
+2024-09-08,Tunisia,Algeria,1,1,D,World Cup Qualifier
+2024-09-08,Saudi Arabia,Paraguay,2,0,W,World Cup Qualifier
+2024-09-09,Ghana,Austria,1,1,D,International Friendly
+2024-09-10,Mexico,Czech Republic,1,1,D,International Friendly
+2024-09-10,Egypt,Morocco,2,0,W,International Friendly
+2024-09-10,Iraq,Australia,0,0,D,Continental Championship
+2024-09-11,Panama,England,1,0,W,World Cup Qualifier
+2024-09-11,Egypt,Bosnia and Herzegovina,3,3,D,World Cup Qualifier
+2024-09-11,Bosnia and Herzegovina,Austria,1,2,L,International Friendly
+2024-09-11,Austria,Australia,1,0,W,International Friendly
+2024-09-13,Ghana,Portugal,1,1,D,International Friendly
+2024-09-13,Japan,South Korea,1,1,D,World Cup Qualifier
+2024-09-13,Spain,Ecuador,2,0,W,Continental Championship
+2024-09-13,Saudi Arabia,Cape Verde,0,0,D,World Cup Qualifier
+2024-09-13,Austria,Ivory Coast,1,0,W,World Cup Qualifier
+2024-09-14,South Africa,Sweden,1,1,D,International Friendly
+2024-09-14,Saudi Arabia,Argentina,0,0,D,International Friendly
+2024-09-14,Iran,Scotland,2,2,L,World Cup Qualifier
+2024-09-14,Croatia,Spain,1,1,D,International Friendly
+2024-09-15,Australia,Panama,3,0,W,Continental Championship
+2024-09-15,Curaçao,France,2,0,W,World Cup Qualifier
+2024-09-15,Uzbekistan,Türkiye,2,0,W,World Cup Qualifier
+2024-09-15,DR Congo,Australia,1,1,L,Continental Championship
+2024-09-15,Ghana,Qatar,1,1,W,International Friendly
+2024-09-15,Saudi Arabia,Uzbekistan,1,0,W,World Cup Qualifier
+2024-09-16,Tunisia,Panama,0,2,L,International Friendly
+2024-09-16,Germany,Portugal,1,0,W,Continental Championship
+2024-09-17,Australia,Brazil,0,1,L,International Friendly
+2024-09-17,Morocco,Netherlands,2,2,L,Continental Championship
+2024-09-17,Tunisia,Morocco,1,3,L,World Cup Qualifier
+2024-09-18,Belgium,Ecuador,0,0,D,Continental Championship
+2024-09-19,Brazil,Australia,1,0,W,International Friendly
+2024-09-19,Senegal,Spain,0,1,L,World Cup Qualifier
+2024-09-19,Switzerland,Qatar,3,1,W,World Cup Qualifier
+2024-09-19,Ghana,Argentina,0,4,L,World Cup Qualifier
+2024-09-19,France,Ghana,1,1,D,International Friendly
+2024-09-20,France,Qatar,2,0,W,International Friendly
+2024-09-20,Spain,Norway,0,0,D,International Friendly
+2024-09-20,Iran,Uruguay,0,1,L,International Friendly
+2024-09-21,Iraq,Curaçao,3,0,W,Continental Championship
+2024-09-21,South Korea,Canada,1,1,D,World Cup Qualifier
+2024-09-21,Haiti,Canada,3,2,W,World Cup Qualifier
+2024-09-22,Saudi Arabia,Haiti,2,2,D,International Friendly
+2024-09-22,Tunisia,Belgium,3,0,W,International Friendly
+2024-09-22,Canada,Iraq,1,1,D,International Friendly
+2024-09-23,Croatia,Cape Verde,1,1,W,World Cup Qualifier
+2024-09-23,Saudi Arabia,Mexico,1,0,W,International Friendly
+2024-09-23,Ecuador,Algeria,0,0,D,Continental Championship
+2024-09-23,Ecuador,Switzerland,1,1,L,Continental Championship
+2024-09-23,Brazil,Morocco,0,3,L,Continental Championship
+2024-09-24,United States,Egypt,3,0,W,World Cup Qualifier
+2024-09-24,France,South Africa,1,1,D,Continental Championship
+2024-09-24,Ivory Coast,Portugal,1,0,W,International Friendly
+2024-09-24,Bosnia and Herzegovina,Cape Verde,0,1,L,World Cup Qualifier
+2024-09-24,Jordan,Sweden,0,0,D,Continental Championship
+2024-09-25,Australia,Tunisia,1,1,D,Continental Championship
+2024-09-25,Iraq,Ivory Coast,1,1,D,Continental Championship
+2024-09-25,Haiti,Spain,1,4,L,Continental Championship
+2024-09-26,Panama,Spain,0,2,L,Continental Championship
+2024-09-26,Germany,New Zealand,3,0,W,International Friendly
+2024-09-27,DR Congo,Spain,0,0,D,Continental Championship
+2024-09-27,Netherlands,Tunisia,1,1,W,International Friendly
+2024-09-27,Senegal,Brazil,1,1,W,International Friendly
+2024-09-27,Argentina,South Africa,1,1,D,Continental Championship
+2024-09-27,Uruguay,Spain,1,1,W,World Cup Qualifier
+2024-09-27,Curaçao,Croatia,1,1,D,Continental Championship
+2024-09-28,DR Congo,Spain,2,4,L,Continental Championship
+2024-09-28,Türkiye,Iran,4,0,W,International Friendly
+2024-09-29,Uzbekistan,Norway,1,4,L,International Friendly
+2024-09-29,Spain,Ivory Coast,1,0,W,World Cup Qualifier
+2024-09-29,Haiti,Paraguay,0,1,L,International Friendly
+2024-09-29,Iran,Uzbekistan,0,0,D,Continental Championship
+2024-09-30,United States,DR Congo,0,1,L,Continental Championship
+2024-09-30,Algeria,Brazil,0,0,D,World Cup Qualifier
+2024-09-30,Egypt,Croatia,0,2,L,International Friendly
+2024-09-30,Morocco,Portugal,2,2,D,World Cup Qualifier
+2024-10-01,Norway,Austria,3,0,W,Continental Championship
+2024-10-01,France,Uzbekistan,1,2,W,Continental Championship
+2024-10-02,Japan,Sweden,3,3,D,Continental Championship
+2024-10-02,Egypt,Czech Republic,0,0,D,World Cup Qualifier
+2024-10-02,Switzerland,Portugal,3,2,W,World Cup Qualifier
+2024-10-03,Qatar,Brazil,2,0,W,International Friendly
+2024-10-03,Argentina,Japan,1,1,D,International Friendly
+2024-10-03,Uzbekistan,Haiti,0,0,D,Continental Championship
+2024-10-03,Egypt,Paraguay,1,1,D,Continental Championship
+2024-10-04,Netherlands,Ivory Coast,2,2,W,World Cup Qualifier
+2024-10-04,Haiti,DR Congo,0,1,L,International Friendly
+2024-10-04,Uzbekistan,United States,2,2,D,Continental Championship
+2024-10-05,South Korea,Austria,0,2,L,World Cup Qualifier
+2024-10-05,Bosnia and Herzegovina,Ivory Coast,2,1,W,International Friendly
+2024-10-05,United States,Türkiye,0,1,L,Continental Championship
+2024-10-05,Germany,Ivory Coast,3,0,W,Continental Championship
+2024-10-05,Paraguay,Iraq,2,3,L,Continental Championship
+2024-10-05,Sweden,Austria,1,1,D,World Cup Qualifier
+2024-10-06,Germany,Switzerland,1,1,W,International Friendly
+2024-10-06,Croatia,Australia,4,1,W,Continental Championship
+2024-10-06,Qatar,France,2,2,D,World Cup Qualifier
+2024-10-06,Uruguay,Iraq,2,0,W,International Friendly
+2024-10-07,Paraguay,Iraq,1,1,D,International Friendly
+2024-10-07,Tunisia,Portugal,0,1,L,International Friendly
+2024-10-07,Ivory Coast,Argentina,1,1,D,World Cup Qualifier
+2024-10-08,Croatia,Japan,2,0,W,Continental Championship
+2024-10-08,Canada,South Africa,1,1,L,International Friendly
+2024-10-08,United States,Saudi Arabia,3,0,W,Continental Championship
+2024-10-08,Uzbekistan,South Korea,2,0,W,Continental Championship
+2024-10-09,Spain,Japan,2,1,W,International Friendly
+2024-10-09,Spain,Saudi Arabia,1,1,D,World Cup Qualifier
+2024-10-09,Croatia,Tunisia,2,2,W,International Friendly
+2024-10-09,Sweden,Curaçao,2,0,W,World Cup Qualifier
+2024-10-10,Ivory Coast,Mexico,0,0,D,Continental Championship
+2024-10-11,Senegal,Ghana,1,1,D,International Friendly
+2024-10-11,Iraq,Sweden,1,1,W,Continental Championship
+2024-10-11,Senegal,Croatia,2,1,W,International Friendly
+2024-10-11,Czech Republic,Scotland,1,1,L,International Friendly
+2024-10-12,Portugal,France,2,1,W,International Friendly
+2024-10-12,South Africa,Argentina,3,0,W,International Friendly
+2024-10-12,Jordan,Tunisia,0,0,D,World Cup Qualifier
+2024-10-12,Czech Republic,Qatar,2,1,W,World Cup Qualifier
+2024-10-13,New Zealand,Croatia,1,2,L,Continental Championship
+2024-10-13,Ghana,Uzbekistan,1,1,D,Continental Championship
+2024-10-13,Panama,England,1,0,W,Continental Championship
+2024-10-14,Croatia,Qatar,2,2,D,Continental Championship
+2024-10-15,Haiti,Ivory Coast,0,2,L,Continental Championship
+2024-10-15,Iran,Uruguay,0,3,L,World Cup Qualifier
+2024-10-15,Czech Republic,Argentina,0,0,D,World Cup Qualifier
+2024-10-15,Japan,Ghana,1,1,D,Continental Championship
+2024-10-15,Türkiye,Croatia,1,1,W,World Cup Qualifier
+2024-10-16,DR Congo,Egypt,3,2,W,International Friendly
+2024-10-16,Tunisia,Colombia,2,1,L,World Cup Qualifier
+2024-10-16,South Africa,United States,1,1,W,Continental Championship
+2024-10-16,Uzbekistan,Haiti,1,1,D,Continental Championship
+2024-10-17,Iran,Cape Verde,3,0,W,International Friendly
+2024-10-17,Switzerland,Belgium,1,1,D,World Cup Qualifier
+2024-10-18,Tunisia,Algeria,2,1,W,International Friendly
+2024-10-18,Egypt,Panama,3,0,W,International Friendly
+2024-10-18,Türkiye,Senegal,1,1,D,International Friendly
+2024-10-18,Iraq,Ivory Coast,1,1,D,Continental Championship
+2024-10-19,Uzbekistan,Scotland,1,0,W,International Friendly
+2024-10-20,Qatar,Morocco,0,3,L,World Cup Qualifier
+2024-10-21,Uruguay,England,2,0,W,International Friendly
+2024-10-22,Iran,Netherlands,2,2,D,International Friendly
+2024-10-22,Uzbekistan,Brazil,0,2,L,World Cup Qualifier
+2024-10-22,Australia,South Africa,0,2,L,Continental Championship
+2024-10-23,Jordan,Portugal,2,1,W,International Friendly
+2024-10-23,United States,Curaçao,1,0,W,International Friendly
+2024-10-24,Iran,Bosnia and Herzegovina,3,1,W,World Cup Qualifier
+2024-10-24,Switzerland,Egypt,2,2,W,International Friendly
+2024-10-24,Morocco,South Korea,1,1,D,World Cup Qualifier
+2024-10-25,Senegal,Canada,1,1,D,International Friendly
+2024-10-25,Haiti,Scotland,1,4,L,International Friendly
+2024-10-25,South Africa,South Korea,1,0,W,Continental Championship
+2024-10-26,Iran,Belgium,1,0,W,World Cup Qualifier
+2024-10-26,Germany,Uzbekistan,3,1,W,International Friendly
+2024-10-26,Portugal,DR Congo,1,2,W,International Friendly
+2024-10-26,Morocco,Senegal,0,1,L,International Friendly
+2024-10-27,Qatar,Sweden,1,1,D,World Cup Qualifier
+2024-10-28,Netherlands,Norway,1,1,L,International Friendly
+2024-10-28,Mexico,Ghana,1,3,L,International Friendly
+2024-10-28,Austria,South Africa,1,2,W,World Cup Qualifier
+2024-10-28,France,Jordan,3,1,W,International Friendly
+2024-10-28,France,DR Congo,2,1,W,World Cup Qualifier
+2024-10-28,Mexico,Scotland,2,0,W,Continental Championship
+2024-10-29,Netherlands,Norway,1,0,W,International Friendly
+2024-10-29,Norway,France,1,0,W,World Cup Qualifier
+2024-10-29,Czech Republic,Switzerland,2,1,W,International Friendly
+2024-10-29,Ivory Coast,Norway,2,1,L,Continental Championship
+2024-10-29,Spain,Japan,0,3,L,International Friendly
+2024-10-30,Saudi Arabia,Argentina,0,3,L,Continental Championship
+2024-10-30,Portugal,Uzbekistan,1,1,D,Continental Championship
+2024-10-30,Qatar,Ivory Coast,1,1,L,Continental Championship
+2024-10-30,Iran,Croatia,2,1,L,International Friendly
+2024-10-31,Morocco,Senegal,1,1,D,Continental Championship
+2024-10-31,Czech Republic,Scotland,1,0,W,World Cup Qualifier
+2024-10-31,Switzerland,Sweden,2,0,W,Continental Championship
+2024-10-31,England,Belgium,1,1,D,Continental Championship
+2024-11-01,Portugal,Ecuador,0,1,L,International Friendly
+2024-11-01,Sweden,Cape Verde,1,0,W,World Cup Qualifier
+2024-11-03,Uruguay,Algeria,1,0,W,Continental Championship
+2024-11-03,Cape Verde,Portugal,1,3,L,Continental Championship
+2024-11-03,Haiti,South Korea,3,0,W,World Cup Qualifier
+2024-11-04,Morocco,Netherlands,2,3,L,Continental Championship
+2024-11-04,Türkiye,Sweden,1,1,W,World Cup Qualifier
+2024-11-04,Paraguay,Austria,2,2,D,International Friendly
+2024-11-04,Brazil,Ivory Coast,1,1,D,World Cup Qualifier
+2024-11-04,Brazil,Tunisia,2,2,D,World Cup Qualifier
+2024-11-05,Austria,Curaçao,1,0,W,International Friendly
+2024-11-05,England,United States,2,0,W,Continental Championship
+2024-11-06,Australia,Netherlands,1,1,W,Continental Championship
+2024-11-06,Germany,Colombia,1,1,W,International Friendly
+2024-11-06,Austria,Tunisia,1,3,L,International Friendly
+2024-11-06,Uruguay,Austria,2,2,D,Continental Championship
+2024-11-07,Cape Verde,Mexico,2,0,W,Continental Championship
+2024-11-08,Iraq,Panama,1,0,W,Continental Championship
+2024-11-09,Tunisia,Uzbekistan,0,3,L,Continental Championship
+2024-11-09,Bosnia and Herzegovina,Ghana,1,1,L,Continental Championship
+2024-11-09,Paraguay,Bosnia and Herzegovina,1,0,W,International Friendly
+2024-11-09,New Zealand,Portugal,1,1,D,Continental Championship
+2024-11-10,Jordan,Czech Republic,2,1,W,International Friendly
+2024-11-10,Canada,Morocco,0,0,D,World Cup Qualifier
+2024-11-10,Iraq,Ghana,0,1,L,International Friendly
+2024-11-10,Ecuador,Germany,3,3,D,Continental Championship
+2024-11-10,United States,Argentina,0,3,L,Continental Championship
+2024-11-10,Cape Verde,Ivory Coast,0,2,L,International Friendly
+2024-11-11,Tunisia,Brazil,1,0,W,Continental Championship
+2024-11-12,Egypt,Canada,3,0,W,International Friendly
+2024-11-12,Croatia,Senegal,1,1,W,World Cup Qualifier
+2024-11-12,Brazil,Colombia,0,2,L,World Cup Qualifier
+2024-11-12,Germany,Iran,1,3,L,Continental Championship
+2024-11-12,Ecuador,England,1,3,L,World Cup Qualifier
+2024-11-13,Switzerland,Scotland,2,2,L,World Cup Qualifier
+2024-11-13,Morocco,Panama,3,1,W,Continental Championship
+2024-11-13,Scotland,Uruguay,0,3,L,Continental Championship
+2024-11-13,Portugal,England,3,1,W,International Friendly
+2024-11-14,Canada,Saudi Arabia,1,1,D,Continental Championship
+2024-11-14,Jordan,Morocco,0,0,D,International Friendly
+2024-11-14,Sweden,Croatia,0,2,L,Continental Championship
+2024-11-14,Spain,Jordan,2,2,D,Continental Championship
+2024-11-15,Türkiye,Belgium,1,1,D,International Friendly
+2024-11-15,Haiti,Türkiye,1,0,W,International Friendly
+2024-11-15,Iran,Mexico,1,0,W,International Friendly
+2024-11-15,Saudi Arabia,Portugal,1,1,D,International Friendly
+2024-11-15,Morocco,Argentina,0,0,D,Continental Championship
+2024-11-15,Croatia,South Korea,0,2,L,International Friendly
+2024-11-15,Tunisia,Uruguay,0,1,L,Continental Championship
+2024-11-16,DR Congo,Switzerland,1,2,L,Continental Championship
+2024-11-16,Mexico,Jordan,1,1,D,World Cup Qualifier
+2024-11-16,Iraq,Uzbekistan,3,3,D,International Friendly
+2024-11-16,Czech Republic,France,0,0,D,World Cup Qualifier
+2024-11-16,Curaçao,Türkiye,3,1,W,International Friendly
+2024-11-16,Panama,Japan,1,0,W,International Friendly
+2024-11-17,Tunisia,Sweden,3,0,W,World Cup Qualifier
+2024-11-17,Uzbekistan,Curaçao,3,0,W,Continental Championship
+2024-11-17,Algeria,Scotland,2,2,D,World Cup Qualifier
+2024-11-18,Japan,Uruguay,0,1,L,International Friendly
+2024-11-18,Ecuador,Canada,1,1,W,International Friendly
+2024-11-18,Algeria,Colombia,0,3,L,Continental Championship
+2024-11-19,Ecuador,United States,0,0,D,Continental Championship
+2024-11-19,Ecuador,Haiti,1,0,W,World Cup Qualifier
+2024-11-19,New Zealand,Haiti,1,0,W,International Friendly
+2024-11-19,Jordan,Senegal,1,0,W,World Cup Qualifier
+2024-11-19,Egypt,Algeria,1,1,D,International Friendly
+2024-11-20,Curaçao,Bosnia and Herzegovina,1,2,W,World Cup Qualifier
+2024-11-20,Brazil,Czech Republic,1,0,W,Continental Championship
+2024-11-21,Spain,Scotland,3,0,W,World Cup Qualifier
+2024-11-21,Belgium,France,0,0,D,International Friendly
+2024-11-21,Uzbekistan,DR Congo,0,1,L,World Cup Qualifier
+2024-11-21,Uzbekistan,Argentina,1,1,D,Continental Championship
+2024-11-22,South Africa,Uzbekistan,1,1,L,World Cup Qualifier
+2024-11-23,South Africa,Paraguay,1,1,D,World Cup Qualifier
+2024-11-23,Saudi Arabia,Canada,1,1,D,Continental Championship
+2024-11-23,Paraguay,South Africa,2,2,D,Continental Championship
+2024-11-24,Saudi Arabia,Sweden,2,0,W,Continental Championship
+2024-11-24,Ecuador,Türkiye,2,2,W,Continental Championship
+2024-11-25,Mexico,Spain,1,1,D,Continental Championship
+2024-11-25,Norway,New Zealand,1,1,D,International Friendly
+2024-11-26,Mexico,Jordan,2,0,W,Continental Championship
+2024-11-26,Australia,Canada,0,0,D,World Cup Qualifier
+2024-11-27,Curaçao,Panama,0,0,D,Continental Championship
+2024-11-28,Panama,Iraq,1,1,W,World Cup Qualifier
+2024-11-28,Austria,Paraguay,2,2,W,Continental Championship
+2024-11-28,Ivory Coast,Netherlands,1,1,D,Continental Championship
+2024-11-29,Haiti,Japan,3,0,W,Continental Championship
+2024-11-29,Iran,Spain,1,1,L,Continental Championship
+2024-11-29,Netherlands,Cape Verde,1,1,W,International Friendly
+2024-11-30,Austria,Saudi Arabia,1,1,D,World Cup Qualifier
+2024-11-30,Qatar,Algeria,1,2,W,World Cup Qualifier
+2024-11-30,Saudi Arabia,Panama,1,1,D,Continental Championship
+2024-11-30,Australia,France,1,4,L,Continental Championship
+2024-11-30,Algeria,United States,0,1,L,International Friendly
+2024-11-30,Paraguay,Morocco,3,0,W,Continental Championship
+2024-12-01,Panama,Qatar,1,1,L,World Cup Qualifier
+2024-12-01,Panama,Uzbekistan,0,2,L,World Cup Qualifier
+2024-12-02,Uzbekistan,DR Congo,1,2,L,International Friendly
+2024-12-02,Ivory Coast,Spain,3,1,W,Continental Championship
+2024-12-03,Ivory Coast,England,0,0,D,World Cup Qualifier
+2024-12-03,Qatar,Australia,1,2,L,International Friendly
+2024-12-03,Bosnia and Herzegovina,Türkiye,1,2,L,World Cup Qualifier
+2024-12-03,Austria,Bosnia and Herzegovina,0,0,D,International Friendly
+2024-12-04,Czech Republic,Argentina,2,2,D,World Cup Qualifier
+2024-12-04,France,Iraq,2,0,W,Continental Championship
+2024-12-04,United States,Uzbekistan,0,0,D,Continental Championship
+2024-12-04,Ivory Coast,England,0,1,L,World Cup Qualifier
+2024-12-05,Spain,Mexico,1,2,L,International Friendly
+2024-12-05,Austria,Croatia,1,1,W,International Friendly
+2024-12-05,Algeria,England,1,3,L,Continental Championship
+2024-12-06,Mexico,Panama,2,1,W,International Friendly
+2024-12-07,South Africa,Colombia,0,1,L,International Friendly
+2024-12-07,Ivory Coast,France,0,3,L,Continental Championship
+2024-12-08,Paraguay,South Korea,1,2,L,International Friendly
+2024-12-09,Austria,Brazil,3,1,W,Continental Championship
+2024-12-09,Jordan,Bosnia and Herzegovina,0,1,L,World Cup Qualifier
+2024-12-10,Uruguay,Argentina,2,1,W,World Cup Qualifier
+2024-12-10,Scotland,Uruguay,2,2,L,Continental Championship
+2024-12-11,Panama,Brazil,1,1,W,Continental Championship
+2024-12-11,Argentina,Brazil,2,1,W,International Friendly
+2024-12-11,Algeria,Jordan,1,1,D,Continental Championship
+2024-12-13,Türkiye,Japan,0,0,D,World Cup Qualifier
+2024-12-13,Spain,South Africa,1,1,D,International Friendly
+2024-12-15,Mexico,Norway,2,0,W,World Cup Qualifier
+2024-12-15,Uruguay,South Korea,1,0,W,World Cup Qualifier
+2024-12-15,Sweden,Argentina,1,1,W,World Cup Qualifier
+2024-12-15,Morocco,Uzbekistan,2,2,D,Continental Championship
+2024-12-15,England,Haiti,2,2,D,Continental Championship
+2024-12-16,Paraguay,Morocco,2,0,W,Continental Championship
+2024-12-16,Croatia,Jordan,1,1,D,Continental Championship
+2024-12-16,Iraq,Colombia,2,2,D,International Friendly
+2024-12-16,Cape Verde,Croatia,0,1,L,Continental Championship
+2024-12-17,Brazil,Switzerland,2,0,W,World Cup Qualifier
+2024-12-17,Colombia,Norway,0,2,L,Continental Championship
+2024-12-17,Japan,Morocco,1,1,D,Continental Championship
+2024-12-17,Paraguay,England,0,1,L,International Friendly
+2024-12-17,South Africa,Morocco,1,1,D,World Cup Qualifier
+2024-12-18,Iran,Egypt,1,1,D,International Friendly
+2024-12-18,Iraq,Qatar,1,0,W,International Friendly
+2024-12-18,Morocco,Qatar,3,0,W,Continental Championship
+2024-12-18,Portugal,Egypt,2,2,L,International Friendly
+2024-12-18,Scotland,Iran,2,1,W,World Cup Qualifier
+2024-12-18,Jordan,Portugal,0,0,D,World Cup Qualifier
+2024-12-19,Mexico,France,2,2,L,World Cup Qualifier
+2024-12-19,Scotland,Germany,0,1,L,Continental Championship
+2024-12-19,Senegal,Australia,2,0,W,Continental Championship
+2024-12-19,Sweden,Jordan,0,2,L,Continental Championship
+2024-12-19,Haiti,Saudi Arabia,1,1,D,World Cup Qualifier
+2024-12-20,South Africa,Colombia,0,0,D,World Cup Qualifier
+2024-12-20,Japan,Brazil,2,2,L,World Cup Qualifier
+2024-12-20,Paraguay,Switzerland,1,2,L,World Cup Qualifier
+2024-12-20,Panama,Czech Republic,2,4,L,International Friendly
+2024-12-20,Bosnia and Herzegovina,Austria,0,4,L,Continental Championship
+2024-12-21,Czech Republic,Germany,1,2,W,Continental Championship
+2024-12-22,Brazil,Argentina,3,2,W,World Cup Qualifier
+2024-12-22,DR Congo,Paraguay,3,0,W,International Friendly
+2024-12-23,Switzerland,Ecuador,3,0,W,World Cup Qualifier
+2024-12-23,South Korea,Tunisia,0,2,L,International Friendly
+2024-12-23,Iraq,Saudi Arabia,1,0,W,World Cup Qualifier
+2024-12-23,Jordan,Germany,1,2,L,International Friendly
+2024-12-23,Panama,Scotland,0,2,L,Continental Championship
+2024-12-23,Sweden,Uruguay,3,0,W,World Cup Qualifier
+2024-12-23,Japan,Uruguay,4,0,W,International Friendly
+2024-12-24,Colombia,Saudi Arabia,1,1,W,Continental Championship
+2024-12-25,Ghana,Algeria,1,2,W,International Friendly
+2024-12-25,Ecuador,Cape Verde,2,2,L,World Cup Qualifier
+2024-12-25,Saudi Arabia,France,1,1,W,Continental Championship
+2024-12-25,Cape Verde,Egypt,2,1,L,Continental Championship
+2024-12-26,Colombia,Panama,1,1,W,Continental Championship
+2024-12-26,Ghana,Saudi Arabia,1,2,L,Continental Championship
+2024-12-26,Curaçao,England,0,0,D,Continental Championship
+2024-12-26,Germany,Ghana,0,0,D,Continental Championship
+2024-12-27,Uzbekistan,Cape Verde,1,1,L,Continental Championship
+2024-12-27,DR Congo,Japan,0,1,L,Continental Championship
+2024-12-27,Germany,Spain,2,1,W,Continental Championship
+2024-12-28,Bosnia and Herzegovina,Türkiye,1,1,D,Continental Championship
+2024-12-28,Algeria,Scotland,1,1,W,Continental Championship
+2024-12-28,Iran,Curaçao,1,1,D,International Friendly
+2024-12-29,Ivory Coast,Ecuador,2,1,L,World Cup Qualifier
+2024-12-29,Norway,DR Congo,3,1,W,World Cup Qualifier
+2024-12-30,Paraguay,Croatia,2,4,L,World Cup Qualifier
+2024-12-30,Austria,Iran,0,1,L,Continental Championship
+2024-12-30,Croatia,Curaçao,0,0,D,Continental Championship
+2024-12-30,Colombia,Norway,1,1,W,Continental Championship
+2024-12-30,Czech Republic,Japan,1,2,L,International Friendly
+2024-12-31,Curaçao,Saudi Arabia,3,3,D,International Friendly
+2024-12-31,Canada,Haiti,1,0,W,World Cup Qualifier
+2024-12-31,Uzbekistan,Türkiye,1,0,W,International Friendly
+2025-01-01,Senegal,Panama,2,0,W,International Friendly
+2025-01-01,Panama,Switzerland,2,2,D,World Cup Qualifier
+2025-01-01,Qatar,New Zealand,1,1,D,International Friendly
+2025-01-01,Belgium,France,2,2,W,International Friendly
+2025-01-02,South Korea,Austria,1,1,D,Continental Championship
+2025-01-03,Czech Republic,Sweden,0,3,L,World Cup Qualifier
+2025-01-03,Iran,Paraguay,1,1,D,Continental Championship
+2025-01-03,Iran,Algeria,1,1,W,International Friendly
+2025-01-04,Colombia,Bosnia and Herzegovina,1,1,W,Continental Championship
+2025-01-04,Netherlands,Croatia,3,1,W,World Cup Qualifier
+2025-01-04,Ivory Coast,Saudi Arabia,2,1,W,Continental Championship
+2025-01-05,Croatia,South Africa,0,0,D,International Friendly
+2025-01-05,United States,DR Congo,1,1,D,International Friendly
+2025-01-05,New Zealand,Iraq,1,1,D,World Cup Qualifier
+2025-01-05,Uruguay,Iraq,0,1,L,World Cup Qualifier
+2025-01-06,Jordan,Morocco,1,1,W,Continental Championship
+2025-01-06,France,Canada,1,1,W,International Friendly
+2025-01-06,Cape Verde,Scotland,2,2,D,World Cup Qualifier
+2025-01-08,Senegal,Saudi Arabia,0,0,D,International Friendly
+2025-01-08,Croatia,Argentina,2,2,D,World Cup Qualifier
+2025-01-09,Scotland,Switzerland,2,0,W,World Cup Qualifier
+2025-01-09,Iran,Ecuador,1,1,W,World Cup Qualifier
+2025-01-10,Mexico,Iran,0,0,D,Continental Championship
+2025-01-10,Germany,Iran,2,0,W,International Friendly
+2025-01-11,Netherlands,Australia,2,2,W,Continental Championship
+2025-01-11,Tunisia,Senegal,1,1,W,Continental Championship
+2025-01-11,Paraguay,South Africa,2,2,W,International Friendly
+2025-01-11,Iran,Norway,0,3,L,World Cup Qualifier
+2025-01-11,Canada,Uruguay,1,0,W,World Cup Qualifier
+2025-01-12,Morocco,DR Congo,0,2,L,International Friendly
+2025-01-12,New Zealand,Egypt,2,0,W,World Cup Qualifier
+2025-01-13,New Zealand,South Africa,2,1,L,International Friendly
+2025-01-13,Germany,United States,0,0,D,International Friendly
+2025-01-13,Egypt,Uruguay,4,1,W,World Cup Qualifier
+2025-01-13,Iraq,DR Congo,3,0,W,Continental Championship
+2025-01-14,Tunisia,Colombia,1,1,D,International Friendly
+2025-01-14,Czech Republic,New Zealand,0,2,L,International Friendly
+2025-01-14,Iran,Mexico,0,1,L,International Friendly
+2025-01-14,Senegal,Japan,1,1,L,World Cup Qualifier
+2025-01-15,Australia,Jordan,0,0,D,World Cup Qualifier
+2025-01-15,Colombia,Canada,0,0,D,Continental Championship
+2025-01-15,South Africa,Egypt,1,1,D,World Cup Qualifier
+2025-01-15,Panama,Portugal,1,1,W,World Cup Qualifier
+2025-01-15,Spain,Australia,2,0,W,World Cup Qualifier
+2025-01-15,Scotland,Senegal,2,1,W,International Friendly
+2025-01-17,Paraguay,Argentina,1,1,W,World Cup Qualifier
+2025-01-17,Netherlands,Uruguay,2,1,W,World Cup Qualifier
+2025-01-17,Australia,Algeria,0,2,L,Continental Championship
+2025-01-18,Ecuador,Uzbekistan,2,3,L,Continental Championship
+2025-01-18,England,South Africa,2,1,W,Continental Championship
+2025-01-20,Uruguay,Czech Republic,1,1,L,International Friendly
+2025-01-21,Cape Verde,Tunisia,1,0,W,Continental Championship
+2025-01-22,Tunisia,Ghana,2,0,W,World Cup Qualifier
+2025-01-22,Spain,Haiti,1,1,D,World Cup Qualifier
+2025-01-22,Germany,Croatia,1,1,D,World Cup Qualifier
+2025-01-23,Belgium,Switzerland,1,2,L,World Cup Qualifier
+2025-01-24,Paraguay,South Korea,1,1,W,Continental Championship
+2025-01-24,South Africa,Scotland,3,2,W,International Friendly
+2025-01-24,South Africa,Tunisia,0,0,D,International Friendly
+2025-01-25,Belgium,New Zealand,3,0,W,International Friendly
+2025-01-25,Senegal,Austria,3,0,W,International Friendly
+2025-01-25,Curaçao,Haiti,0,1,L,International Friendly
+2025-01-25,Panama,Qatar,2,2,L,International Friendly
+2025-01-25,Spain,Colombia,1,0,W,World Cup Qualifier
+2025-01-25,Scotland,Ecuador,1,1,D,International Friendly
+2025-01-25,Cape Verde,Haiti,0,2,L,International Friendly
+2025-01-26,Portugal,Iraq,0,3,L,Continental Championship
+2025-01-26,Cape Verde,Haiti,3,2,W,Continental Championship
+2025-01-27,DR Congo,Saudi Arabia,2,2,D,Continental Championship
+2025-01-27,Curaçao,Canada,2,1,W,Continental Championship
+2025-01-27,England,Ivory Coast,0,1,L,World Cup Qualifier
+2025-01-28,Netherlands,Panama,1,1,D,Continental Championship
+2025-01-29,Czech Republic,Netherlands,0,3,L,International Friendly
+2025-01-29,Spain,Türkiye,0,1,L,World Cup Qualifier
+2025-01-30,Uzbekistan,Senegal,1,2,W,Continental Championship
+2025-02-01,Uzbekistan,Croatia,2,1,L,International Friendly
+2025-02-01,Uzbekistan,Ivory Coast,0,0,D,International Friendly
+2025-02-01,Austria,Türkiye,2,0,W,World Cup Qualifier
+2025-02-01,Qatar,Austria,0,2,L,World Cup Qualifier
+2025-02-01,United States,Iran,2,2,D,Continental Championship
+2025-02-01,Panama,Uruguay,0,0,D,Continental Championship
+2025-02-02,Saudi Arabia,Colombia,1,2,L,World Cup Qualifier
+2025-02-02,Iran,Sweden,0,2,L,Continental Championship
+2025-02-02,Belgium,Brazil,0,1,L,World Cup Qualifier
+2025-02-02,Canada,Japan,2,0,W,Continental Championship
+2025-02-02,DR Congo,Colombia,0,3,L,International Friendly
+2025-02-03,France,United States,1,1,D,World Cup Qualifier
+2025-02-03,Ivory Coast,Paraguay,3,1,W,Continental Championship
+2025-02-03,New Zealand,Colombia,0,4,L,Continental Championship
+2025-02-04,Senegal,Sweden,1,1,D,World Cup Qualifier
+2025-02-05,Curaçao,Ghana,1,1,D,Continental Championship
+2025-02-05,Switzerland,Iran,2,0,W,World Cup Qualifier
+2025-02-05,Ghana,Morocco,1,0,W,World Cup Qualifier
+2025-02-05,Jordan,Morocco,3,1,W,International Friendly
+2025-02-05,Croatia,Czech Republic,3,0,W,Continental Championship
+2025-02-05,Sweden,Ivory Coast,1,1,W,Continental Championship
+2025-02-05,Colombia,United States,1,2,W,World Cup Qualifier
+2025-02-06,Canada,Switzerland,1,2,L,Continental Championship
+2025-02-06,Ghana,New Zealand,2,2,D,World Cup Qualifier
+2025-02-06,England,Cape Verde,1,2,W,International Friendly
+2025-02-06,Australia,England,1,0,W,World Cup Qualifier
+2025-02-07,Haiti,Mexico,3,1,W,International Friendly
+2025-02-07,Curaçao,Portugal,1,1,D,Continental Championship
+2025-02-07,Ivory Coast,Qatar,2,3,L,World Cup Qualifier
+2025-02-08,Algeria,Morocco,2,2,D,Continental Championship
+2025-02-08,Brazil,Croatia,2,2,L,World Cup Qualifier
+2025-02-08,Colombia,South Korea,0,1,L,International Friendly
+2025-02-08,Senegal,Paraguay,0,2,L,International Friendly
+2025-02-08,Egypt,England,3,1,W,International Friendly
+2025-02-08,Norway,Panama,1,1,D,International Friendly
+2025-02-09,Norway,Australia,0,0,D,World Cup Qualifier
+2025-02-09,Croatia,Canada,1,4,L,World Cup Qualifier
+2025-02-09,Paraguay,Egypt,1,1,D,International Friendly
+2025-02-09,Belgium,Germany,3,0,W,International Friendly
+2025-02-09,England,Brazil,1,1,W,International Friendly
+2025-02-09,Uzbekistan,Türkiye,1,1,D,World Cup Qualifier
+2025-02-09,New Zealand,Netherlands,1,1,D,World Cup Qualifier
+2025-02-10,Morocco,Iraq,0,1,L,World Cup Qualifier
+2025-02-10,Haiti,Qatar,2,2,L,World Cup Qualifier
+2025-02-10,Argentina,Portugal,2,0,W,World Cup Qualifier
+2025-02-11,Paraguay,Uruguay,0,2,L,Continental Championship
+2025-02-12,Egypt,Croatia,2,2,D,Continental Championship
+2025-02-12,Argentina,Iran,1,1,W,Continental Championship
+2025-02-12,Czech Republic,South Africa,3,1,W,World Cup Qualifier
+2025-02-12,Brazil,Bosnia and Herzegovina,0,1,L,World Cup Qualifier
+2025-02-12,Egypt,Senegal,3,0,W,Continental Championship
+2025-02-12,Ghana,DR Congo,1,1,W,World Cup Qualifier
+2025-02-13,DR Congo,Argentina,0,2,L,International Friendly
+2025-02-13,Curaçao,Panama,0,2,L,Continental Championship
+2025-02-13,Colombia,Qatar,1,1,D,World Cup Qualifier
+2025-02-14,Bosnia and Herzegovina,Türkiye,0,1,L,World Cup Qualifier
+2025-02-14,Sweden,Egypt,3,1,W,Continental Championship
+2025-02-14,South Korea,Tunisia,0,0,D,World Cup Qualifier
+2025-02-15,Portugal,Paraguay,3,1,W,World Cup Qualifier
+2025-02-15,Paraguay,Germany,0,2,L,Continental Championship
+2025-02-16,New Zealand,Ghana,1,0,W,Continental Championship
+2025-02-16,Germany,Haiti,2,1,W,Continental Championship
+2025-02-16,Norway,New Zealand,3,0,W,Continental Championship
+2025-02-17,United States,DR Congo,1,3,L,International Friendly
+2025-02-17,Colombia,Argentina,1,2,W,World Cup Qualifier
+2025-02-17,Uzbekistan,Ecuador,2,2,W,World Cup Qualifier
+2025-02-17,Japan,Germany,1,2,L,Continental Championship
+2025-02-18,Cape Verde,Czech Republic,3,1,W,World Cup Qualifier
+2025-02-19,Paraguay,South Africa,1,1,W,International Friendly
+2025-02-19,Czech Republic,Japan,2,0,W,World Cup Qualifier
+2025-02-20,Germany,Norway,2,2,D,World Cup Qualifier
+2025-02-20,Türkiye,Paraguay,2,1,W,International Friendly
+2025-02-20,England,Iraq,1,1,D,World Cup Qualifier
+2025-02-21,New Zealand,Brazil,0,2,L,Continental Championship
+2025-02-22,Haiti,Germany,0,2,L,World Cup Qualifier
+2025-02-22,Switzerland,Netherlands,3,0,W,International Friendly
+2025-02-22,Scotland,Tunisia,2,3,L,Continental Championship
+2025-02-22,Haiti,Tunisia,1,1,L,International Friendly
+2025-02-22,Czech Republic,DR Congo,2,2,W,World Cup Qualifier
+2025-02-22,England,Jordan,0,0,D,Continental Championship
+2025-02-23,Czech Republic,Spain,0,1,L,World Cup Qualifier
+2025-02-23,Scotland,Ecuador,1,1,D,International Friendly
+2025-02-23,Switzerland,Curaçao,2,2,W,International Friendly
+2025-02-23,Panama,New Zealand,2,2,W,Continental Championship
+2025-02-23,Norway,Japan,2,0,W,International Friendly
+2025-02-24,Senegal,Egypt,1,0,W,International Friendly
+2025-02-24,Iraq,United States,1,2,L,World Cup Qualifier
+2025-02-24,Türkiye,Canada,0,0,D,Continental Championship
+2025-02-24,South Africa,South Korea,0,1,L,International Friendly
+2025-02-25,Ivory Coast,Haiti,2,2,D,World Cup Qualifier
+2025-02-25,Ivory Coast,France,1,2,L,International Friendly
+2025-02-25,Bosnia and Herzegovina,Austria,2,1,L,World Cup Qualifier
+2025-02-25,Uruguay,Uzbekistan,1,0,W,World Cup Qualifier
+2025-02-26,Germany,Argentina,0,2,L,International Friendly
+2025-02-26,Saudi Arabia,Türkiye,1,1,D,International Friendly
+2025-02-26,Scotland,Canada,1,1,D,International Friendly
+2025-02-26,Colombia,Spain,0,2,L,International Friendly
+2025-02-27,Switzerland,Bosnia and Herzegovina,4,1,W,World Cup Qualifier
+2025-02-27,Egypt,Japan,3,1,W,International Friendly
+2025-02-27,Netherlands,Qatar,0,0,D,World Cup Qualifier
+2025-02-27,France,United States,1,0,W,World Cup Qualifier
+2025-02-28,Portugal,Scotland,1,1,D,International Friendly
+2025-02-28,Uruguay,Norway,2,1,W,International Friendly
+2025-03-01,Saudi Arabia,Haiti,0,0,D,World Cup Qualifier
+2025-03-02,Czech Republic,South Korea,1,0,W,Continental Championship
+2025-03-02,South Korea,Uruguay,0,1,L,International Friendly
+2025-03-02,Mexico,Egypt,2,0,W,International Friendly
+2025-03-03,Switzerland,Haiti,0,1,L,International Friendly
+2025-03-03,Jordan,Qatar,1,1,D,International Friendly
+2025-03-03,Uzbekistan,Egypt,2,0,W,Continental Championship
+2025-03-04,Iran,Australia,2,0,W,World Cup Qualifier
+2025-03-04,Senegal,Czech Republic,1,1,D,World Cup Qualifier
+2025-03-05,Australia,Paraguay,2,0,W,World Cup Qualifier
+2025-03-06,Senegal,Colombia,1,3,L,World Cup Qualifier
+2025-03-06,England,Austria,0,4,L,World Cup Qualifier
+2025-03-06,Netherlands,Australia,0,0,D,International Friendly
+2025-03-07,New Zealand,Norway,1,1,W,International Friendly
+2025-03-07,Germany,Scotland,0,2,L,World Cup Qualifier
+2025-03-08,Croatia,Austria,2,1,W,World Cup Qualifier
+2025-03-08,South Korea,United States,0,0,D,Continental Championship
+2025-03-08,Curaçao,Panama,0,1,L,Continental Championship
+2025-03-08,England,Belgium,3,0,W,International Friendly
+2025-03-08,Tunisia,Egypt,0,2,L,World Cup Qualifier
+2025-03-08,Ghana,Saudi Arabia,2,0,W,International Friendly
+2025-03-09,Jordan,Brazil,0,0,D,International Friendly
+2025-03-09,Canada,New Zealand,2,1,W,World Cup Qualifier
+2025-03-09,South Korea,Portugal,1,1,W,Continental Championship
+2025-03-10,South Africa,Austria,3,1,W,Continental Championship
+2025-03-10,Bosnia and Herzegovina,Egypt,1,1,D,International Friendly
+2025-03-10,Brazil,Ghana,4,0,W,Continental Championship
+2025-03-10,Austria,Iran,1,1,D,International Friendly
+2025-03-11,Cape Verde,United States,2,2,L,Continental Championship
+2025-03-11,Brazil,New Zealand,1,1,D,Continental Championship
+2025-03-11,Ecuador,Uruguay,2,2,W,World Cup Qualifier
+2025-03-11,Sweden,Canada,2,2,W,Continental Championship
+2025-03-12,Bosnia and Herzegovina,Paraguay,0,3,L,Continental Championship
+2025-03-12,Curaçao,Czech Republic,0,3,L,World Cup Qualifier
+2025-03-12,Belgium,Argentina,0,3,L,International Friendly
+2025-03-12,France,Czech Republic,3,2,W,World Cup Qualifier
+2025-03-13,France,Senegal,1,1,D,International Friendly
+2025-03-13,Brazil,Iraq,4,1,W,International Friendly
+2025-03-14,Iran,Uzbekistan,3,0,W,International Friendly
+2025-03-15,Iran,Czech Republic,1,0,W,International Friendly
+2025-03-15,Saudi Arabia,Ivory Coast,2,0,W,International Friendly
+2025-03-15,Scotland,France,0,0,D,World Cup Qualifier
+2025-03-16,Belgium,Haiti,1,1,D,Continental Championship
+2025-03-17,Czech Republic,Jordan,4,0,W,Continental Championship
+2025-03-17,Netherlands,Brazil,3,2,W,Continental Championship
+2025-03-17,France,Croatia,2,2,D,World Cup Qualifier
+2025-03-17,Saudi Arabia,Uzbekistan,2,1,W,Continental Championship
+2025-03-18,Ivory Coast,Japan,2,1,L,International Friendly
+2025-03-18,Colombia,Ivory Coast,2,0,W,World Cup Qualifier
+2025-03-18,Mexico,Türkiye,1,0,W,International Friendly
+2025-03-18,Argentina,Australia,1,1,W,International Friendly
+2025-03-19,New Zealand,Scotland,1,2,L,World Cup Qualifier
+2025-03-21,DR Congo,Czech Republic,1,4,L,Continental Championship
+2025-03-21,Haiti,Scotland,1,0,W,World Cup Qualifier
+2025-03-21,Japan,South Korea,0,2,L,Continental Championship
+2025-03-21,United States,Sweden,1,4,L,World Cup Qualifier
+2025-03-22,Netherlands,France,2,0,W,International Friendly
+2025-03-23,Norway,Iran,0,2,L,International Friendly
+2025-03-23,Czech Republic,Uzbekistan,2,2,W,Continental Championship
+2025-03-23,Germany,Panama,1,1,D,World Cup Qualifier
+2025-03-24,England,Senegal,1,1,D,World Cup Qualifier
+2025-03-24,Mexico,DR Congo,3,1,W,Continental Championship
+2025-03-24,Ecuador,Cape Verde,1,1,D,International Friendly
+2025-03-24,Ivory Coast,Panama,1,2,W,Continental Championship
+2025-03-25,Uzbekistan,Jordan,2,0,W,International Friendly
+2025-03-25,Mexico,Sweden,0,1,L,International Friendly
+2025-03-26,Iran,Sweden,2,0,W,World Cup Qualifier
+2025-03-26,Sweden,Portugal,3,0,W,International Friendly
+2025-03-26,Morocco,Algeria,4,1,W,World Cup Qualifier
+2025-03-27,Türkiye,Uzbekistan,3,0,W,Continental Championship
+2025-03-27,Japan,Qatar,2,0,W,Continental Championship
+2025-03-28,Canada,DR Congo,2,1,L,World Cup Qualifier
+2025-03-28,Australia,Iran,2,2,D,Continental Championship
+2025-03-28,Portugal,Japan,1,0,W,World Cup Qualifier
+2025-03-28,France,Brazil,1,2,W,Continental Championship
+2025-03-28,Mexico,Scotland,0,3,L,Continental Championship
+2025-03-28,Algeria,Portugal,2,0,W,World Cup Qualifier
+2025-03-29,Scotland,Argentina,1,1,L,Continental Championship
+2025-03-29,Mexico,Spain,4,2,W,World Cup Qualifier
+2025-03-29,Austria,Colombia,1,2,L,International Friendly
+2025-03-30,Portugal,Morocco,4,1,W,International Friendly
+2025-03-31,South Korea,Mexico,1,1,D,Continental Championship
+2025-03-31,Brazil,New Zealand,2,2,D,Continental Championship
+2025-04-01,Argentina,Ghana,1,0,W,International Friendly
+2025-04-01,DR Congo,Ghana,1,1,W,World Cup Qualifier
+2025-04-01,Paraguay,Curaçao,3,0,W,World Cup Qualifier
+2025-04-02,Paraguay,Türkiye,2,0,W,World Cup Qualifier
+2025-04-02,Norway,Switzerland,1,1,L,Continental Championship
+2025-04-02,England,Spain,1,1,D,Continental Championship
+2025-04-02,Ivory Coast,Morocco,1,2,L,World Cup Qualifier
+2025-04-03,United States,Egypt,1,1,D,World Cup Qualifier
+2025-04-03,Netherlands,South Africa,2,0,W,International Friendly
+2025-04-03,Germany,Ghana,1,2,W,International Friendly
+2025-04-03,Australia,Curaçao,1,1,W,World Cup Qualifier
+2025-04-04,Iraq,Australia,2,0,W,World Cup Qualifier
+2025-04-04,Croatia,Jordan,2,1,W,World Cup Qualifier
+2025-04-04,Panama,Japan,0,0,D,Continental Championship
+2025-04-05,Morocco,Panama,1,3,L,Continental Championship
+2025-04-06,New Zealand,Egypt,3,2,W,Continental Championship
+2025-04-06,Colombia,Portugal,0,1,L,International Friendly
+2025-04-07,Algeria,Senegal,1,2,L,World Cup Qualifier
+2025-04-07,Netherlands,Panama,1,1,D,Continental Championship
+2025-04-07,South Africa,Bosnia and Herzegovina,1,0,W,World Cup Qualifier
+2025-04-08,Norway,Netherlands,2,1,W,International Friendly
+2025-04-08,Cape Verde,Egypt,1,1,D,International Friendly
+2025-04-08,Croatia,Germany,1,0,W,International Friendly
+2025-04-08,United States,Croatia,1,0,W,International Friendly
+2025-04-09,Bosnia and Herzegovina,Algeria,2,2,W,International Friendly
+2025-04-09,United States,Türkiye,4,1,W,World Cup Qualifier
+2025-04-09,Iraq,Sweden,0,0,D,World Cup Qualifier
+2025-04-10,Spain,Portugal,0,0,D,World Cup Qualifier
+2025-04-10,Belgium,Scotland,2,0,W,Continental Championship
+2025-04-10,Ecuador,Curaçao,1,2,W,International Friendly
+2025-04-10,Haiti,France,1,1,D,Continental Championship
+2025-04-11,Japan,Paraguay,1,0,W,Continental Championship
+2025-04-12,Algeria,Morocco,2,2,D,International Friendly
+2025-04-12,Jordan,Scotland,0,2,L,World Cup Qualifier
+2025-04-13,Iran,Sweden,1,1,L,International Friendly
+2025-04-13,Tunisia,France,0,0,D,International Friendly
+2025-04-14,Scotland,France,1,1,D,International Friendly
+2025-04-14,Argentina,Saudi Arabia,2,1,W,International Friendly
+2025-04-14,Colombia,Jordan,0,0,D,International Friendly
+2025-04-15,Jordan,Portugal,2,1,W,World Cup Qualifier
+2025-04-15,Ecuador,Colombia,1,2,L,Continental Championship
+2025-04-15,Portugal,Spain,2,0,W,International Friendly
+2025-04-16,Czech Republic,Austria,1,3,L,Continental Championship
+2025-04-16,Uruguay,Iraq,2,0,W,World Cup Qualifier
+2025-04-16,Cape Verde,Haiti,1,1,L,Continental Championship
+2025-04-17,Panama,Scotland,1,1,D,World Cup Qualifier
+2025-04-17,Japan,Curaçao,1,2,L,Continental Championship
+2025-04-17,Canada,South Korea,1,1,W,World Cup Qualifier
+2025-04-17,Spain,Japan,0,1,L,World Cup Qualifier
+2025-04-17,Saudi Arabia,Curaçao,1,1,W,International Friendly
+2025-04-18,Haiti,Scotland,2,0,W,Continental Championship
+2025-04-18,Cape Verde,Algeria,0,0,D,World Cup Qualifier
+2025-04-18,Iran,Qatar,0,2,L,International Friendly
+2025-04-18,France,Croatia,2,1,W,International Friendly
+2025-04-19,Mexico,Bosnia and Herzegovina,1,1,W,World Cup Qualifier
+2025-04-19,Uruguay,Iraq,2,3,L,World Cup Qualifier
+2025-04-19,Ecuador,Türkiye,1,0,W,Continental Championship
+2025-04-20,Sweden,Qatar,1,0,W,Continental Championship
+2025-04-20,Paraguay,Algeria,0,0,D,World Cup Qualifier
+2025-04-21,Panama,Scotland,0,2,L,Continental Championship
+2025-04-22,Iraq,Bosnia and Herzegovina,2,0,W,World Cup Qualifier
+2025-04-22,France,Croatia,1,0,W,International Friendly
+2025-04-23,Spain,Panama,3,1,W,International Friendly
+2025-04-23,United States,France,2,3,L,International Friendly
+2025-04-24,Australia,Spain,1,1,L,Continental Championship
+2025-04-24,South Korea,Czech Republic,1,1,L,Continental Championship
+2025-04-24,Portugal,United States,1,0,W,World Cup Qualifier
+2025-04-25,England,Germany,2,2,D,World Cup Qualifier
+2025-04-26,England,Spain,0,1,L,Continental Championship
+2025-04-26,Japan,Norway,1,0,W,International Friendly
+2025-04-26,Morocco,Uzbekistan,0,2,L,World Cup Qualifier
+2025-04-26,Norway,Curaçao,3,1,W,Continental Championship
+2025-04-27,Bosnia and Herzegovina,Uzbekistan,1,0,W,World Cup Qualifier
+2025-04-27,Türkiye,Mexico,0,1,L,Continental Championship
+2025-04-27,Germany,Qatar,1,1,W,Continental Championship
+2025-04-28,Ivory Coast,South Africa,3,2,W,International Friendly
+2025-04-28,Croatia,Uzbekistan,0,0,D,International Friendly
+2025-04-29,South Korea,Türkiye,1,0,W,World Cup Qualifier
+2025-04-29,Ghana,Brazil,2,2,D,Continental Championship
+2025-04-29,Algeria,Curaçao,2,0,W,International Friendly
+2025-04-30,Sweden,South Korea,1,1,D,World Cup Qualifier
+2025-04-30,Ghana,Croatia,1,1,D,International Friendly
+2025-05-01,Jordan,Australia,1,1,D,World Cup Qualifier
+2025-05-01,Haiti,Uzbekistan,1,2,L,World Cup Qualifier
+2025-05-01,Egypt,Algeria,1,1,D,World Cup Qualifier
+2025-05-02,South Africa,Switzerland,1,1,D,International Friendly
+2025-05-02,Netherlands,Canada,1,1,W,Continental Championship
+2025-05-03,Senegal,South Korea,0,1,L,World Cup Qualifier
+2025-05-03,Panama,South Korea,0,2,L,International Friendly
+2025-05-03,Croatia,Jordan,1,1,D,Continental Championship
+2025-05-04,United States,Tunisia,1,2,W,World Cup Qualifier
+2025-05-04,Jordan,Curaçao,3,0,W,International Friendly
+2025-05-04,Croatia,Tunisia,1,1,W,Continental Championship
+2025-05-04,Curaçao,Saudi Arabia,2,3,L,World Cup Qualifier
+2025-05-04,DR Congo,Türkiye,2,1,W,World Cup Qualifier
+2025-05-05,Scotland,Colombia,2,1,W,World Cup Qualifier
+2025-05-05,Portugal,Spain,1,1,L,International Friendly
+2025-05-05,Croatia,Iraq,1,2,L,International Friendly
+2025-05-05,Egypt,Qatar,2,0,W,International Friendly
+2025-05-06,Australia,Paraguay,2,0,W,International Friendly
+2025-05-06,Austria,Switzerland,2,1,W,Continental Championship
+2025-05-06,Germany,South Korea,4,0,W,World Cup Qualifier
+2025-05-06,Switzerland,South Africa,0,3,L,Continental Championship
+2025-05-07,Senegal,Iraq,1,0,W,World Cup Qualifier
+2025-05-08,Czech Republic,Croatia,1,1,D,Continental Championship
+2025-05-08,Portugal,Japan,0,1,L,World Cup Qualifier
+2025-05-08,Algeria,Canada,2,1,W,International Friendly
+2025-05-08,Egypt,DR Congo,2,0,W,World Cup Qualifier
+2025-05-09,Morocco,Canada,0,0,D,World Cup Qualifier
+2025-05-09,Iran,Bosnia and Herzegovina,1,1,D,Continental Championship
+2025-05-09,Germany,Croatia,2,2,D,Continental Championship
+2025-05-10,Australia,Ghana,1,1,D,Continental Championship
+2025-05-10,Türkiye,Uzbekistan,1,1,D,International Friendly
+2025-05-10,Scotland,France,1,1,D,International Friendly
+2025-05-11,Sweden,South Africa,1,1,D,World Cup Qualifier
+2025-05-11,Canada,Ivory Coast,2,1,L,Continental Championship
+2025-05-12,France,Paraguay,2,2,W,International Friendly
+2025-05-12,United States,Curaçao,3,1,W,Continental Championship
+2025-05-12,Switzerland,Colombia,4,1,W,World Cup Qualifier
+2025-05-12,Mexico,Portugal,2,0,W,World Cup Qualifier
+2025-05-12,DR Congo,Mexico,0,0,D,World Cup Qualifier
+2025-05-12,Spain,South Korea,1,1,W,World Cup Qualifier
+2025-05-12,Jordan,South Korea,0,0,D,International Friendly
+2025-05-13,South Africa,Ecuador,2,0,W,World Cup Qualifier
+2025-05-13,Brazil,Ivory Coast,1,1,D,World Cup Qualifier
+2025-05-13,Morocco,Cape Verde,2,2,W,World Cup Qualifier
+2025-05-13,Bosnia and Herzegovina,Ghana,1,1,W,Continental Championship
+2025-05-13,Iraq,Belgium,1,4,L,Continental Championship
+2025-05-14,Saudi Arabia,Spain,0,2,L,World Cup Qualifier
+2025-05-14,Scotland,Netherlands,3,0,W,International Friendly
+2025-05-14,Germany,Jordan,4,0,W,World Cup Qualifier
+2025-05-14,Uzbekistan,Austria,0,2,L,World Cup Qualifier
+2025-05-14,Haiti,Belgium,2,1,W,World Cup Qualifier
+2025-05-14,Norway,DR Congo,1,0,W,International Friendly
+2025-05-15,Croatia,Paraguay,1,0,W,World Cup Qualifier
+2025-05-15,Argentina,Cape Verde,1,1,D,World Cup Qualifier
+2025-05-15,Argentina,Haiti,0,0,D,Continental Championship
+2025-05-15,Cape Verde,Iran,1,0,W,Continental Championship
+2025-05-16,Egypt,Japan,1,2,L,Continental Championship
+2025-05-16,Cape Verde,Paraguay,3,0,W,World Cup Qualifier
+2025-05-16,DR Congo,Paraguay,2,1,L,World Cup Qualifier
+2025-05-17,Ecuador,Bosnia and Herzegovina,3,1,W,International Friendly
+2025-05-17,Panama,Curaçao,1,1,D,Continental Championship
+2025-05-17,Panama,Argentina,2,2,D,International Friendly
+2025-05-17,New Zealand,Germany,2,2,L,International Friendly
+2025-05-18,Panama,Netherlands,2,2,D,World Cup Qualifier
+2025-05-18,Austria,Iran,1,2,W,International Friendly
+2025-05-18,Canada,Egypt,1,1,D,International Friendly
+2025-05-18,Canada,Saudi Arabia,2,2,D,Continental Championship
+2025-05-18,South Africa,Egypt,1,0,W,Continental Championship
+2025-05-19,Paraguay,DR Congo,3,1,W,International Friendly
+2025-05-20,Colombia,Türkiye,1,1,D,International Friendly
+2025-05-21,Panama,Bosnia and Herzegovina,0,2,L,World Cup Qualifier
+2025-05-21,Iran,Germany,1,1,D,International Friendly
+2025-05-22,Switzerland,Curaçao,1,2,W,International Friendly
+2025-05-22,Saudi Arabia,Switzerland,3,0,W,Continental Championship
+2025-05-23,Tunisia,Canada,0,0,D,World Cup Qualifier
+2025-05-23,Ivory Coast,Cape Verde,3,0,W,World Cup Qualifier
+2025-05-24,Cape Verde,Saudi Arabia,2,2,D,International Friendly
+2025-05-24,Uzbekistan,Iran,2,2,D,International Friendly
+2025-05-25,Paraguay,Brazil,2,1,L,International Friendly
+2025-05-25,Egypt,Paraguay,1,1,D,Continental Championship
+2025-05-25,Algeria,Australia,1,1,D,World Cup Qualifier
+2025-05-25,Qatar,Tunisia,1,1,L,International Friendly
+2025-05-26,Haiti,Algeria,3,0,W,World Cup Qualifier
+2025-05-27,DR Congo,Saudi Arabia,0,1,L,International Friendly
+2025-05-27,Spain,Panama,2,0,W,International Friendly
+2025-05-28,Algeria,Saudi Arabia,1,1,D,International Friendly
+2025-05-28,Tunisia,England,0,1,L,World Cup Qualifier
+2025-05-28,Tunisia,Qatar,1,1,W,World Cup Qualifier
+2025-05-29,Germany,Norway,2,0,W,World Cup Qualifier
+2025-05-29,Ecuador,Norway,1,1,L,International Friendly
+2025-05-30,Algeria,South Africa,0,1,L,International Friendly
+2025-05-30,England,Qatar,1,0,W,Continental Championship
+2025-05-30,England,Ivory Coast,2,2,D,Continental Championship
+2025-05-30,Bosnia and Herzegovina,Australia,1,1,D,World Cup Qualifier
+2025-05-30,Ghana,Egypt,2,1,W,International Friendly
+2025-05-30,Haiti,Austria,1,0,W,World Cup Qualifier
+2025-05-31,Jordan,South Africa,1,1,D,International Friendly
+2025-05-31,DR Congo,Colombia,1,1,W,Continental Championship
+2025-05-31,Ivory Coast,Norway,0,1,L,International Friendly
+2025-05-31,DR Congo,Iraq,3,0,W,Continental Championship
+2025-05-31,Croatia,Iran,3,0,W,International Friendly
+2025-06-01,Spain,Senegal,2,1,W,World Cup Qualifier
+2025-06-02,Austria,Paraguay,2,1,W,Continental Championship
+2025-06-02,Algeria,DR Congo,1,1,D,Continental Championship
+2025-06-02,Belgium,Netherlands,1,1,D,World Cup Qualifier
+2025-06-02,Mexico,Panama,3,1,W,International Friendly
+2025-06-02,South Korea,Paraguay,2,1,W,International Friendly
+2025-06-03,Portugal,Ivory Coast,2,1,W,International Friendly
+2025-06-03,Panama,Egypt,0,0,D,International Friendly
+2025-06-03,Jordan,Uruguay,0,3,L,International Friendly
+2025-06-03,Morocco,Portugal,1,1,D,Continental Championship
+2025-06-05,South Korea,Ghana,1,0,W,Continental Championship
+2025-06-05,England,United States,0,1,L,International Friendly
+2025-06-05,Morocco,Egypt,1,1,W,Continental Championship
+2025-06-06,Jordan,Paraguay,1,1,D,World Cup Qualifier
+2025-06-07,Czech Republic,Bosnia and Herzegovina,1,1,D,World Cup Qualifier
+2025-06-07,Brazil,Iraq,3,3,D,World Cup Qualifier
+2025-06-07,France,Mexico,1,2,W,World Cup Qualifier
+2025-06-08,Germany,Ghana,1,4,L,International Friendly
+2025-06-08,Argentina,United States,2,2,D,World Cup Qualifier
+2025-06-08,Mexico,Brazil,1,1,L,Continental Championship
+2025-06-09,Morocco,Austria,1,2,L,International Friendly
+2025-06-09,New Zealand,Australia,1,1,W,Continental Championship
+2025-06-10,Tunisia,Switzerland,0,0,D,International Friendly
+2025-06-10,Cape Verde,Mexico,1,1,D,World Cup Qualifier
+2025-06-10,Uzbekistan,Croatia,0,1,L,Continental Championship
+2025-06-10,Belgium,Bosnia and Herzegovina,2,1,W,World Cup Qualifier
+2025-06-11,Argentina,Czech Republic,2,0,W,World Cup Qualifier
+2025-06-11,Austria,Switzerland,1,1,W,World Cup Qualifier
+2025-06-11,Uzbekistan,DR Congo,1,1,L,Continental Championship
+2025-06-11,Haiti,Algeria,1,2,W,World Cup Qualifier
+2025-06-12,Uruguay,Colombia,0,1,L,World Cup Qualifier
+2025-06-12,Sweden,Spain,1,3,L,World Cup Qualifier
+2025-06-13,Brazil,Ecuador,1,0,W,Continental Championship
+2025-06-13,Japan,Colombia,2,2,D,International Friendly
+2025-06-13,Cape Verde,New Zealand,1,1,D,World Cup Qualifier
+2025-06-13,Qatar,Ecuador,0,1,L,Continental Championship
+2025-06-15,Belgium,Czech Republic,2,0,W,World Cup Qualifier
+2025-06-16,Cape Verde,Scotland,1,1,D,Continental Championship
+2025-06-16,Ivory Coast,Senegal,3,0,W,Continental Championship
+2025-06-16,Switzerland,Uruguay,2,0,W,International Friendly
+2025-06-16,Australia,South Africa,1,1,W,World Cup Qualifier
+2025-06-16,Colombia,Saudi Arabia,0,0,D,World Cup Qualifier
+2025-06-17,Algeria,Belgium,1,0,W,International Friendly
+2025-06-17,Iraq,DR Congo,0,1,L,World Cup Qualifier
+2025-06-17,South Korea,Algeria,4,1,W,World Cup Qualifier
+2025-06-17,Egypt,Algeria,1,1,W,World Cup Qualifier
+2025-06-18,France,Paraguay,1,1,D,World Cup Qualifier
+2025-06-18,Belgium,Curaçao,1,0,W,International Friendly
+2025-06-18,South Korea,Türkiye,1,1,D,Continental Championship
+2025-06-19,New Zealand,Sweden,3,0,W,International Friendly
+2025-06-19,Senegal,Morocco,2,1,W,World Cup Qualifier
+2025-06-19,Curaçao,Senegal,3,0,W,Continental Championship
+2025-06-19,United States,Norway,2,0,W,World Cup Qualifier
+2025-06-21,Mexico,United States,0,0,D,International Friendly
+2025-06-22,DR Congo,France,0,1,L,Continental Championship
+2025-06-22,Senegal,Ghana,1,0,W,International Friendly
+2025-06-23,Belgium,Haiti,0,1,L,Continental Championship
+2025-06-23,Canada,Portugal,1,1,D,International Friendly
+2025-06-23,Curaçao,Saudi Arabia,3,3,D,Continental Championship
+2025-06-24,Qatar,Argentina,2,2,L,World Cup Qualifier
+2025-06-24,Australia,Czech Republic,1,3,L,Continental Championship
+2025-06-24,Colombia,Sweden,0,4,L,World Cup Qualifier
+2025-06-24,Scotland,New Zealand,0,1,L,Continental Championship
+2025-06-25,Bosnia and Herzegovina,New Zealand,0,0,D,Continental Championship
+2025-06-26,Brazil,France,1,3,L,International Friendly
+2025-06-26,Iraq,Jordan,1,1,D,Continental Championship
+2025-06-26,Mexico,Spain,1,1,W,World Cup Qualifier
+2025-06-26,Spain,Austria,2,0,W,International Friendly
+2025-06-26,Jordan,Germany,0,2,L,World Cup Qualifier
+2025-06-26,England,Netherlands,2,2,D,World Cup Qualifier
+2025-06-27,Paraguay,Netherlands,1,1,D,International Friendly
+2025-06-27,Germany,Czech Republic,1,0,W,World Cup Qualifier
+2025-06-28,Portugal,Bosnia and Herzegovina,0,0,D,World Cup Qualifier
+2025-06-29,Algeria,Haiti,1,1,D,World Cup Qualifier
+2025-06-29,Canada,Ivory Coast,0,0,D,World Cup Qualifier
+2025-06-30,Morocco,Iraq,0,2,L,International Friendly
+2025-06-30,Czech Republic,Ecuador,1,0,W,Continental Championship
+2025-06-30,Japan,Spain,1,3,L,International Friendly
+2025-06-30,South Africa,Norway,1,1,W,Continental Championship
+2025-07-01,Iraq,Türkiye,0,1,L,World Cup Qualifier
+2025-07-01,Argentina,Czech Republic,1,0,W,Continental Championship
+2025-07-01,Senegal,Ivory Coast,0,3,L,International Friendly
+2025-07-01,Saudi Arabia,Switzerland,0,2,L,World Cup Qualifier
+2025-07-02,Australia,Egypt,1,0,W,International Friendly
+2025-07-02,Haiti,Sweden,3,0,W,International Friendly
+2025-07-03,Belgium,Germany,1,1,D,International Friendly
+2025-07-04,New Zealand,Paraguay,0,0,D,International Friendly
+2025-07-04,Norway,Panama,1,1,D,International Friendly
+2025-07-05,Argentina,France,3,1,W,International Friendly
+2025-07-06,Argentina,England,3,2,W,World Cup Qualifier
+2025-07-06,England,Australia,2,2,D,World Cup Qualifier
+2025-07-06,Panama,Iraq,1,0,W,International Friendly
+2025-07-06,Uzbekistan,Portugal,0,1,L,International Friendly
+2025-07-06,Germany,Cape Verde,1,2,L,International Friendly
+2025-07-06,Haiti,Tunisia,1,0,W,Continental Championship
+2025-07-06,Mexico,Argentina,1,1,D,World Cup Qualifier
+2025-07-07,South Africa,Tunisia,2,2,D,World Cup Qualifier
+2025-07-07,England,Ivory Coast,2,0,W,Continental Championship
+2025-07-07,DR Congo,Germany,2,2,W,World Cup Qualifier
+2025-07-07,Brazil,Iran,1,1,W,International Friendly
+2025-07-07,Switzerland,France,0,0,D,International Friendly
+2025-07-08,Algeria,Switzerland,1,0,W,Continental Championship
+2025-07-08,Canada,Japan,0,1,L,International Friendly
+2025-07-09,Brazil,Curaçao,1,0,W,International Friendly
+2025-07-09,Netherlands,United States,2,0,W,International Friendly
+2025-07-10,Algeria,United States,1,1,W,World Cup Qualifier
+2025-07-10,Curaçao,Brazil,1,1,D,World Cup Qualifier
+2025-07-10,Austria,Curaçao,1,2,W,World Cup Qualifier
+2025-07-11,Algeria,Colombia,2,0,W,World Cup Qualifier
+2025-07-11,Belgium,Uzbekistan,2,0,W,World Cup Qualifier
+2025-07-12,Cape Verde,Spain,0,2,L,Continental Championship
+2025-07-12,Tunisia,Ecuador,3,3,D,International Friendly
+2025-07-12,Senegal,Portugal,1,1,W,World Cup Qualifier
+2025-07-12,Cape Verde,Japan,2,0,W,World Cup Qualifier
+2025-07-12,Czech Republic,Iran,0,3,L,World Cup Qualifier
+2025-07-13,Scotland,Spain,3,0,W,International Friendly
+2025-07-14,Ivory Coast,Uruguay,2,0,W,World Cup Qualifier
+2025-07-14,Paraguay,Colombia,2,0,W,International Friendly
+2025-07-14,Uzbekistan,Spain,0,2,L,World Cup Qualifier
+2025-07-15,Panama,South Africa,0,1,L,International Friendly
+2025-07-15,Portugal,Panama,1,1,W,International Friendly
+2025-07-15,Austria,Brazil,1,1,D,International Friendly
+2025-07-16,Scotland,Cape Verde,1,2,L,International Friendly
+2025-07-16,France,Jordan,1,1,D,International Friendly
+2025-07-16,Portugal,Morocco,1,2,W,World Cup Qualifier
+2025-07-17,United States,Panama,2,0,W,International Friendly
+2025-07-18,Germany,Argentina,0,0,D,Continental Championship
+2025-07-18,Jordan,Argentina,1,2,L,Continental Championship
+2025-07-18,Iraq,Bosnia and Herzegovina,3,2,W,International Friendly
+2025-07-18,Germany,Uruguay,3,2,W,World Cup Qualifier
+2025-07-19,Egypt,Scotland,0,2,L,World Cup Qualifier
+2025-07-19,Bosnia and Herzegovina,Senegal,1,0,W,World Cup Qualifier
+2025-07-19,Ghana,Ivory Coast,1,3,L,Continental Championship
+2025-07-20,Portugal,Australia,1,1,L,International Friendly
+2025-07-20,Mexico,Ecuador,4,1,W,International Friendly
+2025-07-20,Qatar,Panama,1,0,W,World Cup Qualifier
+2025-07-20,Saudi Arabia,Senegal,0,1,L,Continental Championship
+2025-07-21,Argentina,Canada,2,2,D,Continental Championship
+2025-07-21,Jordan,Cape Verde,2,2,D,Continental Championship
+2025-07-22,Austria,Ivory Coast,1,2,W,International Friendly
+2025-07-22,Senegal,Uruguay,0,1,L,World Cup Qualifier
+2025-07-22,Iran,Germany,0,0,D,Continental Championship
+2025-07-23,Canada,Haiti,0,0,D,World Cup Qualifier
+2025-07-23,Jordan,Haiti,1,2,W,Continental Championship
+2025-07-23,Qatar,DR Congo,1,1,D,International Friendly
+2025-07-23,Ivory Coast,Czech Republic,1,1,W,International Friendly
+2025-07-24,Panama,United States,2,0,W,Continental Championship
+2025-07-24,Japan,Netherlands,0,0,D,International Friendly
+2025-07-24,Japan,Brazil,3,0,W,International Friendly
+2025-07-25,Norway,Senegal,3,0,W,International Friendly
+2025-07-25,Argentina,Croatia,1,1,W,Continental Championship
+2025-07-25,Czech Republic,Norway,3,0,W,International Friendly
+2025-07-26,Colombia,Cape Verde,0,0,D,International Friendly
+2025-07-26,Ecuador,Switzerland,1,0,W,World Cup Qualifier
+2025-07-26,Qatar,United States,1,1,D,International Friendly
+2025-07-27,Netherlands,Panama,0,0,D,Continental Championship
+2025-07-27,Australia,Canada,0,2,L,International Friendly
+2025-07-27,Canada,New Zealand,1,1,W,World Cup Qualifier
+2025-07-27,Mexico,Spain,2,0,W,World Cup Qualifier
+2025-07-28,Türkiye,Uruguay,1,1,D,International Friendly
+2025-07-28,Colombia,Canada,1,2,W,International Friendly
+2025-07-28,Colombia,England,1,1,L,International Friendly
+2025-07-28,Tunisia,Uzbekistan,0,3,L,Continental Championship
+2025-07-28,United States,Argentina,1,1,L,World Cup Qualifier
+2025-07-28,Belgium,Ecuador,3,3,D,World Cup Qualifier
+2025-07-28,Norway,Saudi Arabia,2,2,W,International Friendly
+2025-07-29,South Africa,Mexico,2,0,W,World Cup Qualifier
+2025-07-29,England,Saudi Arabia,2,0,W,Continental Championship
+2025-07-29,Senegal,Belgium,3,3,D,Continental Championship
+2025-07-30,Haiti,Bosnia and Herzegovina,2,0,W,International Friendly
+2025-07-30,Croatia,Argentina,0,3,L,International Friendly
+2025-07-30,Uzbekistan,Egypt,3,1,W,Continental Championship
+2025-07-30,Morocco,France,1,2,W,World Cup Qualifier
+2025-07-30,Cape Verde,United States,1,0,W,Continental Championship
+2025-07-30,Egypt,Senegal,0,0,D,International Friendly
+2025-07-31,Austria,Tunisia,1,0,W,World Cup Qualifier
+2025-07-31,Croatia,Morocco,0,2,L,World Cup Qualifier
+2025-08-01,Tunisia,Qatar,0,1,L,World Cup Qualifier
+2025-08-01,United States,Japan,3,0,W,International Friendly
+2025-08-01,Paraguay,Uzbekistan,1,1,D,World Cup Qualifier
+2025-08-02,Japan,France,2,3,L,World Cup Qualifier
+2025-08-02,Argentina,Iran,1,1,D,World Cup Qualifier
+2025-08-03,Senegal,South Korea,0,1,L,Continental Championship
+2025-08-03,Cape Verde,Czech Republic,0,0,D,Continental Championship
+2025-08-03,Haiti,Curaçao,0,1,L,World Cup Qualifier
+2025-08-03,Canada,Ivory Coast,2,2,W,World Cup Qualifier
+2025-08-04,Egypt,Türkiye,1,0,W,Continental Championship
+2025-08-04,Argentina,Ecuador,0,4,L,International Friendly
+2025-08-04,Australia,Qatar,1,3,L,Continental Championship
+2025-08-05,Norway,Spain,4,1,W,World Cup Qualifier
+2025-08-05,South Korea,Saudi Arabia,1,1,W,World Cup Qualifier
+2025-08-05,Algeria,Türkiye,1,2,L,International Friendly
+2025-08-05,Brazil,Ghana,1,0,W,International Friendly
+2025-08-06,Mexico,DR Congo,1,0,W,World Cup Qualifier
+2025-08-06,Scotland,Germany,2,2,L,International Friendly
+2025-08-06,Morocco,Ecuador,0,2,L,Continental Championship
+2025-08-07,Iraq,Netherlands,0,1,L,World Cup Qualifier
+2025-08-07,Sweden,Ecuador,3,3,D,World Cup Qualifier
+2025-08-07,South Africa,Sweden,0,0,D,Continental Championship
+2025-08-08,Jordan,Panama,1,1,L,World Cup Qualifier
+2025-08-08,Tunisia,Qatar,0,0,D,Continental Championship
+2025-08-08,Haiti,Sweden,1,1,D,Continental Championship
+2025-08-08,Japan,DR Congo,2,0,W,Continental Championship
+2025-08-08,Tunisia,Belgium,0,2,L,World Cup Qualifier
+2025-08-09,Panama,Canada,2,2,D,World Cup Qualifier
+2025-08-09,Jordan,Saudi Arabia,1,1,D,Continental Championship
+2025-08-10,Panama,Argentina,1,2,L,Continental Championship
+2025-08-10,Qatar,Belgium,0,0,D,World Cup Qualifier
+2025-08-10,Croatia,Uruguay,1,2,L,International Friendly
+2025-08-10,Egypt,Morocco,1,0,W,Continental Championship
+2025-08-10,Switzerland,Canada,2,1,W,International Friendly
+2025-08-11,Australia,United States,1,2,L,Continental Championship
+2025-08-11,Tunisia,Curaçao,1,1,D,Continental Championship
+2025-08-12,Australia,Sweden,3,0,W,Continental Championship
+2025-08-12,Türkiye,Morocco,2,3,L,World Cup Qualifier
+2025-08-13,Ecuador,DR Congo,1,3,L,Continental Championship
+2025-08-13,Türkiye,Norway,0,1,L,International Friendly
+2025-08-15,Algeria,New Zealand,1,2,L,International Friendly
+2025-08-15,Canada,Austria,2,1,W,Continental Championship
+2025-08-15,Japan,Qatar,1,3,L,International Friendly
+2025-08-15,Türkiye,Sweden,1,3,L,World Cup Qualifier
+2025-08-16,DR Congo,Ecuador,1,1,W,International Friendly
+2025-08-16,Colombia,Iraq,3,0,W,International Friendly
+2025-08-16,Sweden,Senegal,1,2,W,Continental Championship
+2025-08-16,Germany,Curaçao,0,1,L,Continental Championship
+2025-08-17,Senegal,Tunisia,2,1,L,World Cup Qualifier
+2025-08-17,Sweden,England,2,2,L,World Cup Qualifier
+2025-08-17,Morocco,Uruguay,1,2,L,International Friendly
+2025-08-18,Switzerland,Brazil,2,2,L,Continental Championship
+2025-08-18,Sweden,Belgium,1,1,L,International Friendly
+2025-08-18,Australia,DR Congo,1,1,D,International Friendly
+2025-08-18,Ivory Coast,South Africa,4,0,W,World Cup Qualifier
+2025-08-19,Haiti,Senegal,0,4,L,International Friendly
+2025-08-19,Ivory Coast,Switzerland,1,2,W,International Friendly
+2025-08-19,Portugal,Germany,0,2,L,International Friendly
+2025-08-20,United States,Curaçao,3,0,W,Continental Championship
+2025-08-20,Colombia,Qatar,1,1,W,World Cup Qualifier
+2025-08-21,Argentina,Uruguay,1,1,D,Continental Championship
+2025-08-21,Czech Republic,Morocco,3,1,W,International Friendly
+2025-08-21,Haiti,Curaçao,1,1,D,World Cup Qualifier
+2025-08-21,Spain,Australia,1,0,W,Continental Championship
+2025-08-21,Morocco,Ghana,1,0,W,Continental Championship
+2025-08-22,United States,Germany,1,1,L,World Cup Qualifier
+2025-08-22,Curaçao,Cape Verde,0,0,D,International Friendly
+2025-08-22,Australia,Japan,1,1,W,Continental Championship
+2025-08-22,Czech Republic,Argentina,2,0,W,International Friendly
+2025-08-23,Iran,France,0,1,L,World Cup Qualifier
+2025-08-23,United States,Portugal,2,1,W,Continental Championship
+2025-08-23,Norway,Belgium,2,1,W,International Friendly
+2025-08-23,Norway,Portugal,1,1,L,Continental Championship
+2025-08-24,Norway,Ivory Coast,1,1,D,World Cup Qualifier
+2025-08-25,Norway,Egypt,1,1,D,World Cup Qualifier
+2025-08-25,Panama,Saudi Arabia,1,1,D,World Cup Qualifier
+2025-08-25,Ghana,Haiti,0,0,D,Continental Championship
+2025-08-25,Argentina,Türkiye,2,0,W,International Friendly
+2025-08-25,Portugal,Croatia,3,2,W,Continental Championship
+2025-08-26,Jordan,Argentina,0,1,L,International Friendly
+2025-08-26,Ecuador,Jordan,2,2,L,International Friendly
+2025-08-27,Ghana,Ivory Coast,1,0,W,International Friendly
+2025-08-28,Ghana,Iran,2,0,W,International Friendly
+2025-08-28,United States,Jordan,1,1,W,World Cup Qualifier
+2025-08-29,Türkiye,Spain,0,1,L,Continental Championship
+2025-08-29,Scotland,Uruguay,2,2,D,International Friendly
+2025-08-29,Netherlands,Ghana,3,1,W,Continental Championship
+2025-08-29,Austria,Haiti,0,0,D,Continental Championship
+2025-08-29,Iran,Paraguay,1,1,D,Continental Championship
+2025-08-30,Australia,South Africa,3,0,W,World Cup Qualifier
+2025-08-31,Canada,Mexico,1,0,W,World Cup Qualifier
+2025-08-31,Spain,Netherlands,0,3,L,International Friendly
+2025-08-31,Germany,Switzerland,1,1,D,International Friendly
+2025-08-31,Czech Republic,England,1,1,D,Continental Championship
+2025-09-01,Norway,Paraguay,1,1,D,Continental Championship
+2025-09-01,Netherlands,Ivory Coast,3,0,W,International Friendly
+2025-09-02,Morocco,Uzbekistan,1,3,L,World Cup Qualifier
+2025-09-03,Senegal,Australia,1,2,W,Continental Championship
+2025-09-03,Spain,Sweden,1,2,W,International Friendly
+2025-09-04,Paraguay,Jordan,0,1,L,Continental Championship
+2025-09-04,Iran,New Zealand,1,2,L,World Cup Qualifier
+2025-09-05,Ecuador,Panama,1,2,W,World Cup Qualifier
+2025-09-05,Panama,Scotland,1,1,D,International Friendly
+2025-09-05,Iran,Uzbekistan,0,1,L,Continental Championship
+2025-09-06,Iraq,Belgium,1,2,L,Continental Championship
+2025-09-06,England,Scotland,3,1,W,World Cup Qualifier
+2025-09-06,Saudi Arabia,Jordan,3,0,W,Continental Championship
+2025-09-07,Cape Verde,Argentina,1,0,W,International Friendly
+2025-09-07,Belgium,Qatar,1,1,D,World Cup Qualifier
+2025-09-07,England,Haiti,3,1,W,Continental Championship
+2025-09-08,Sweden,Ghana,1,0,W,International Friendly
+2025-09-08,New Zealand,Switzerland,3,3,D,Continental Championship
+2025-09-08,Belgium,New Zealand,1,1,D,World Cup Qualifier
+2025-09-08,Austria,Uzbekistan,3,1,W,International Friendly
+2025-09-09,South Korea,Spain,0,0,D,World Cup Qualifier
+2025-09-09,France,Japan,1,2,L,Continental Championship
+2025-09-09,Tunisia,Norway,1,1,L,World Cup Qualifier
+2025-09-10,England,Sweden,1,1,D,World Cup Qualifier
+2025-09-10,Czech Republic,Curaçao,0,0,D,World Cup Qualifier
+2025-09-10,Switzerland,Algeria,1,1,L,World Cup Qualifier
+2025-09-11,Austria,Egypt,2,0,W,International Friendly
+2025-09-11,Ecuador,Japan,0,1,L,International Friendly
+2025-09-12,Bosnia and Herzegovina,Spain,0,2,L,International Friendly
+2025-09-12,Belgium,New Zealand,3,0,W,Continental Championship
+2025-09-13,Mexico,Iran,1,1,D,World Cup Qualifier
+2025-09-13,England,Brazil,1,2,W,International Friendly
+2025-09-13,Croatia,Morocco,0,2,L,Continental Championship
+2025-09-13,Brazil,Morocco,1,1,L,World Cup Qualifier
+2025-09-13,Ecuador,Canada,1,1,D,World Cup Qualifier
+2025-09-14,Curaçao,Colombia,1,1,W,International Friendly
+2025-09-14,Uzbekistan,Czech Republic,1,1,D,Continental Championship
+2025-09-14,Japan,Senegal,2,1,W,World Cup Qualifier
+2025-09-14,Ivory Coast,United States,2,2,D,International Friendly
+2025-09-14,United States,Uruguay,1,1,D,International Friendly
+2025-09-15,Netherlands,Senegal,1,1,D,International Friendly
+2025-09-15,South Korea,Spain,2,3,L,World Cup Qualifier
+2025-09-16,Switzerland,Curaçao,1,0,W,International Friendly
+2025-09-16,Senegal,Japan,3,0,W,Continental Championship
+2025-09-16,Uzbekistan,Ivory Coast,1,0,W,Continental Championship
+2025-09-16,Uzbekistan,Mexico,2,0,W,International Friendly
+2025-09-17,Ghana,Croatia,0,0,D,International Friendly
+2025-09-17,Argentina,Saudi Arabia,2,2,W,International Friendly
+2025-09-18,Colombia,Panama,2,0,W,International Friendly
+2025-09-18,Switzerland,Senegal,2,0,W,World Cup Qualifier
+2025-09-18,Norway,Uzbekistan,1,0,W,International Friendly
+2025-09-18,France,Panama,3,1,W,World Cup Qualifier
+2025-09-18,Uruguay,Netherlands,2,2,D,World Cup Qualifier
+2025-09-19,Ivory Coast,Brazil,0,0,D,Continental Championship
+2025-09-19,Sweden,Algeria,1,3,L,World Cup Qualifier
+2025-09-20,DR Congo,England,1,1,D,International Friendly
+2025-09-20,Netherlands,Iraq,2,2,W,International Friendly
+2025-09-21,South Korea,France,2,2,D,World Cup Qualifier
+2025-09-21,Qatar,Colombia,1,3,L,World Cup Qualifier
+2025-09-22,Austria,Australia,1,0,W,World Cup Qualifier
+2025-09-22,Scotland,Saudi Arabia,2,2,D,Continental Championship
+2025-09-22,Ivory Coast,Algeria,1,1,D,Continental Championship
+2025-09-22,Türkiye,Paraguay,3,0,W,Continental Championship
+2025-09-22,Uruguay,Spain,2,1,W,International Friendly
+2025-09-23,Egypt,United States,2,2,W,International Friendly
+2025-09-23,Croatia,Egypt,1,3,L,International Friendly
+2025-09-24,Czech Republic,Croatia,3,3,D,International Friendly
+2025-09-25,Jordan,Scotland,2,4,L,Continental Championship
+2025-09-25,Norway,Ivory Coast,0,0,D,Continental Championship
+2025-09-26,Cape Verde,Ghana,2,1,W,World Cup Qualifier
+2025-09-26,Algeria,Belgium,3,1,W,Continental Championship
+2025-09-26,Haiti,Türkiye,0,0,D,International Friendly
+2025-09-27,Türkiye,Morocco,0,0,D,Continental Championship
+2025-09-27,Germany,Iran,1,0,W,International Friendly
+2025-09-27,Spain,Australia,1,1,D,International Friendly
+2025-09-27,Ivory Coast,Cape Verde,2,0,W,World Cup Qualifier
+2025-09-28,Belgium,United States,1,1,W,Continental Championship
+2025-09-28,Switzerland,Curaçao,1,1,D,World Cup Qualifier
+2025-09-28,Curaçao,Croatia,0,1,L,World Cup Qualifier
+2025-09-28,Iraq,Cape Verde,3,1,W,World Cup Qualifier
+2025-09-29,Tunisia,Japan,0,2,L,Continental Championship
+2025-09-29,Sweden,Australia,1,1,W,World Cup Qualifier
+2025-09-29,Canada,Mexico,1,1,D,International Friendly
+2025-09-30,DR Congo,Saudi Arabia,1,1,D,World Cup Qualifier
+2025-09-30,Portugal,Uzbekistan,1,0,W,World Cup Qualifier
+2025-09-30,Belgium,Sweden,1,3,L,International Friendly
+2025-10-01,Belgium,Bosnia and Herzegovina,0,3,L,World Cup Qualifier
+2025-10-01,Czech Republic,Cape Verde,1,3,L,World Cup Qualifier
+2025-10-01,Egypt,Qatar,2,1,W,Continental Championship
+2025-10-01,Sweden,Netherlands,1,1,W,Continental Championship
+2025-10-01,Mexico,Iran,1,0,W,International Friendly
+2025-10-01,Germany,Argentina,1,2,W,Continental Championship
+2025-10-02,Morocco,Australia,0,3,L,World Cup Qualifier
+2025-10-03,France,Uzbekistan,0,0,D,International Friendly
+2025-10-03,Jordan,Haiti,2,2,D,World Cup Qualifier
+2025-10-03,Uzbekistan,DR Congo,1,2,W,International Friendly
+2025-10-04,Mexico,Netherlands,2,1,W,World Cup Qualifier
+2025-10-05,Ghana,Argentina,2,2,D,Continental Championship
+2025-10-06,Canada,Algeria,1,1,D,International Friendly
+2025-10-06,Curaçao,Paraguay,1,2,W,World Cup Qualifier
+2025-10-07,Uruguay,Saudi Arabia,3,0,W,World Cup Qualifier
+2025-10-07,Switzerland,England,1,1,L,Continental Championship
+2025-10-07,Brazil,Bosnia and Herzegovina,2,0,W,International Friendly
+2025-10-07,Mexico,Croatia,1,0,W,International Friendly
+2025-10-07,Uruguay,Morocco,1,1,W,World Cup Qualifier
+2025-10-07,Ecuador,Ivory Coast,3,2,W,International Friendly
+2025-10-07,Germany,Qatar,1,1,D,Continental Championship
+2025-10-07,Ivory Coast,South Africa,1,1,W,Continental Championship
+2025-10-07,Norway,Qatar,1,1,D,Continental Championship
+2025-10-08,Ghana,Australia,1,1,D,World Cup Qualifier
+2025-10-08,Iraq,DR Congo,1,1,D,Continental Championship
+2025-10-08,France,Uruguay,0,2,L,World Cup Qualifier
+2025-10-09,New Zealand,Jordan,0,3,L,World Cup Qualifier
+2025-10-09,South Africa,South Korea,2,0,W,International Friendly
+2025-10-09,Portugal,Algeria,2,2,L,World Cup Qualifier
+2025-10-09,Haiti,Qatar,1,1,W,World Cup Qualifier
+2025-10-09,Sweden,Brazil,1,1,D,World Cup Qualifier
+2025-10-09,South Korea,Germany,0,1,L,International Friendly
+2025-10-10,Ghana,Iran,1,1,D,Continental Championship
+2025-10-11,Brazil,Spain,1,1,D,International Friendly
+2025-10-11,South Korea,Saudi Arabia,1,1,D,World Cup Qualifier
+2025-10-12,Brazil,Morocco,1,0,W,World Cup Qualifier
+2025-10-12,Ecuador,Iraq,3,1,W,International Friendly
+2025-10-12,Austria,Egypt,3,0,W,Continental Championship
+2025-10-12,Uruguay,Qatar,1,1,D,Continental Championship
+2025-10-12,United States,Saudi Arabia,2,1,L,World Cup Qualifier
+2025-10-13,Bosnia and Herzegovina,Ivory Coast,0,0,D,International Friendly
+2025-10-13,Bosnia and Herzegovina,DR Congo,0,2,L,World Cup Qualifier
+2025-10-13,Jordan,Uruguay,1,2,L,Continental Championship
+2025-10-14,England,Austria,1,0,W,International Friendly
+2025-10-14,Switzerland,Spain,2,2,W,World Cup Qualifier
+2025-10-14,DR Congo,Ivory Coast,0,0,D,Continental Championship
+2025-10-15,Paraguay,Austria,1,2,L,World Cup Qualifier
+2025-10-15,Colombia,Curaçao,1,0,W,World Cup Qualifier
+2025-10-16,Austria,Cape Verde,2,2,D,International Friendly
+2025-10-16,DR Congo,England,1,1,W,International Friendly
+2025-10-16,Cape Verde,Colombia,3,0,W,International Friendly
+2025-10-16,England,Iraq,1,1,W,World Cup Qualifier
+2025-10-18,Colombia,Australia,0,0,D,World Cup Qualifier
+2025-10-18,Spain,Argentina,2,1,W,Continental Championship
+2025-10-19,France,Brazil,2,3,L,World Cup Qualifier
+2025-10-19,Paraguay,New Zealand,1,0,W,International Friendly
+2025-10-19,Argentina,Curaçao,0,0,D,International Friendly
+2025-10-20,Mexico,Czech Republic,2,0,W,World Cup Qualifier
+2025-10-20,Argentina,Egypt,0,0,D,Continental Championship
+2025-10-20,Germany,Paraguay,1,2,L,World Cup Qualifier
+2025-10-21,Cape Verde,Saudi Arabia,3,3,D,World Cup Qualifier
+2025-10-21,England,New Zealand,1,1,W,International Friendly
+2025-10-22,DR Congo,Portugal,0,0,D,World Cup Qualifier
+2025-10-22,South Africa,Curaçao,3,0,W,Continental Championship
+2025-10-23,England,Mexico,1,1,D,World Cup Qualifier
+2025-10-23,Morocco,Senegal,1,1,D,Continental Championship
+2025-10-23,Japan,Jordan,2,1,L,International Friendly
+2025-10-23,Germany,Canada,1,1,D,International Friendly
+2025-10-24,United States,Australia,1,1,L,International Friendly
+2025-10-24,Portugal,Switzerland,3,1,W,International Friendly
+2025-10-24,Algeria,Norway,3,0,W,International Friendly
+2025-10-25,Netherlands,Paraguay,2,2,D,International Friendly
+2025-10-26,Uruguay,Croatia,0,1,L,World Cup Qualifier
+2025-10-26,Sweden,South Korea,2,0,W,Continental Championship
+2025-10-26,Colombia,Qatar,1,1,W,World Cup Qualifier
+2025-10-27,Algeria,Ecuador,3,0,W,International Friendly
+2025-10-27,Spain,Czech Republic,3,1,W,International Friendly
+2025-10-27,Portugal,Canada,2,0,W,Continental Championship
+2025-10-28,Paraguay,Spain,1,0,W,World Cup Qualifier
+2025-10-28,Germany,Qatar,1,1,D,Continental Championship
+2025-10-29,Japan,Canada,2,0,W,International Friendly
+2025-10-29,Czech Republic,Egypt,1,1,L,International Friendly
+2025-10-30,Uruguay,England,0,1,L,World Cup Qualifier
+2025-10-30,Uzbekistan,United States,2,1,W,World Cup Qualifier
+2025-10-30,South Africa,Egypt,1,1,W,International Friendly
+2025-10-31,South Korea,Czech Republic,1,1,W,Continental Championship
+2025-10-31,Haiti,Switzerland,1,2,L,Continental Championship
+2025-10-31,Cape Verde,Tunisia,1,0,W,Continental Championship
+2025-11-02,Brazil,South Korea,2,1,W,World Cup Qualifier
+2025-11-02,Senegal,Japan,3,1,W,World Cup Qualifier
+2025-11-02,South Korea,Haiti,2,1,W,World Cup Qualifier
+2025-11-02,Japan,Cape Verde,0,0,D,International Friendly
+2025-11-02,Uruguay,Argentina,0,1,L,World Cup Qualifier
+2025-11-03,Mexico,Iran,2,1,W,World Cup Qualifier
+2025-11-03,Mexico,Colombia,1,0,W,Continental Championship
+2025-11-03,Cape Verde,Türkiye,2,0,W,International Friendly
+2025-11-03,Sweden,Netherlands,2,0,W,Continental Championship
+2025-11-03,Mexico,England,1,1,D,International Friendly
+2025-11-04,South Africa,Belgium,2,2,L,World Cup Qualifier
+2025-11-04,Switzerland,Paraguay,2,0,W,Continental Championship
+2025-11-04,Paraguay,Qatar,3,0,W,World Cup Qualifier
+2025-11-04,Qatar,Croatia,2,1,L,World Cup Qualifier
+2025-11-04,Iran,Brazil,1,1,L,Continental Championship
+2025-11-04,Haiti,France,2,2,L,Continental Championship
+2025-11-05,Netherlands,Spain,0,0,D,Continental Championship
+2025-11-05,DR Congo,Colombia,0,0,D,International Friendly
+2025-11-06,United States,Paraguay,1,0,W,World Cup Qualifier
+2025-11-06,Spain,Haiti,3,0,W,International Friendly
+2025-11-07,Uzbekistan,South Africa,1,1,W,Continental Championship
+2025-11-08,Sweden,Germany,1,0,W,Continental Championship
+2025-11-08,Iraq,Ivory Coast,3,1,W,International Friendly
+2025-11-08,Scotland,Iraq,2,2,W,World Cup Qualifier
+2025-11-08,Japan,Ecuador,2,1,L,International Friendly
+2025-11-09,Argentina,Canada,3,0,W,International Friendly
+2025-11-10,Scotland,Curaçao,2,0,W,Continental Championship
+2025-11-12,Norway,Algeria,1,1,W,World Cup Qualifier
+2025-11-12,Spain,Ecuador,2,0,W,International Friendly
+2025-11-12,Bosnia and Herzegovina,Mexico,0,0,D,Continental Championship
+2025-11-14,Ghana,United States,1,2,W,World Cup Qualifier
+2025-11-14,Argentina,Morocco,2,0,W,International Friendly
+2025-11-14,Curaçao,DR Congo,1,1,W,World Cup Qualifier
+2025-11-15,Mexico,Türkiye,0,0,D,Continental Championship
+2025-11-15,New Zealand,DR Congo,0,1,L,World Cup Qualifier
+2025-11-16,Japan,Canada,1,1,D,World Cup Qualifier
+2025-11-16,Paraguay,Croatia,2,2,W,World Cup Qualifier
+2025-11-16,Saudi Arabia,Ivory Coast,1,0,W,Continental Championship
+2025-11-17,South Korea,Haiti,1,1,L,World Cup Qualifier
+2025-11-17,Brazil,DR Congo,2,0,W,Continental Championship
+2025-11-17,Netherlands,Colombia,1,1,D,World Cup Qualifier
+2025-11-18,Senegal,Türkiye,2,2,D,Continental Championship
+2025-11-18,Colombia,Austria,2,2,D,World Cup Qualifier
+2025-11-18,Colombia,Morocco,0,0,D,World Cup Qualifier
+2025-11-19,Jordan,Argentina,1,3,L,Continental Championship
+2025-11-19,Türkiye,Algeria,1,0,W,Continental Championship
+2025-11-20,Netherlands,Bosnia and Herzegovina,0,2,L,World Cup Qualifier
+2025-11-20,Scotland,Belgium,1,2,L,International Friendly
+2025-11-20,New Zealand,Senegal,2,2,D,International Friendly
+2025-11-21,Czech Republic,Sweden,2,2,D,International Friendly
+2025-11-21,Argentina,Tunisia,2,0,W,World Cup Qualifier
+2025-11-21,New Zealand,Austria,1,2,L,International Friendly
+2025-11-22,Argentina,Ivory Coast,2,0,W,World Cup Qualifier
+2025-11-22,Curaçao,Spain,0,3,L,International Friendly
+2025-11-23,Bosnia and Herzegovina,France,1,1,L,World Cup Qualifier
+2025-11-23,Spain,Canada,2,2,D,World Cup Qualifier
+2025-11-23,Belgium,Uruguay,3,0,W,International Friendly
+2025-11-24,Iraq,Czech Republic,1,1,W,International Friendly
+2025-11-24,Austria,Egypt,1,1,D,Continental Championship
+2025-11-24,Uruguay,Germany,1,1,D,World Cup Qualifier
+2025-11-24,Qatar,DR Congo,1,1,D,Continental Championship
+2025-11-25,Norway,Iran,1,1,D,World Cup Qualifier
+2025-11-25,Algeria,United States,1,1,W,World Cup Qualifier
+2025-11-25,Ivory Coast,Haiti,2,0,W,International Friendly
+2025-11-25,Scotland,Iraq,3,0,W,Continental Championship
+2025-11-25,Cape Verde,Portugal,0,3,L,World Cup Qualifier
+2025-11-26,Uruguay,Austria,0,3,L,Continental Championship
+2025-11-26,South Korea,Uruguay,1,1,L,World Cup Qualifier
+2025-11-26,Curaçao,Australia,2,0,W,Continental Championship
+2025-11-26,Sweden,Spain,1,0,W,Continental Championship
+2025-11-27,Panama,Jordan,1,1,D,World Cup Qualifier
+2025-11-27,DR Congo,Panama,4,0,W,International Friendly
+2025-11-27,Canada,Sweden,1,1,D,Continental Championship
+2025-11-28,United States,DR Congo,3,1,W,World Cup Qualifier
+2025-11-29,Ghana,France,0,0,D,International Friendly
+2025-11-29,Norway,Czech Republic,2,2,W,Continental Championship
+2025-11-29,Mexico,Brazil,2,0,W,International Friendly
+2025-11-30,Senegal,Colombia,1,1,W,International Friendly
+2025-11-30,Ghana,Jordan,1,0,W,World Cup Qualifier
+2025-11-30,South Africa,South Korea,3,0,W,Continental Championship
+2025-12-01,France,Haiti,2,2,D,Continental Championship
+2025-12-02,Ecuador,Egypt,0,2,L,World Cup Qualifier
+2025-12-03,Norway,DR Congo,2,2,W,International Friendly
+2025-12-03,Netherlands,Türkiye,1,0,W,World Cup Qualifier
+2025-12-03,Uruguay,Tunisia,1,1,D,Continental Championship
+2025-12-03,Senegal,Belgium,2,1,L,International Friendly
+2025-12-03,New Zealand,Iraq,1,1,W,International Friendly
+2025-12-03,Egypt,Haiti,1,1,D,International Friendly
+2025-12-03,Egypt,Haiti,1,1,D,World Cup Qualifier
+2025-12-03,New Zealand,Canada,3,0,W,World Cup Qualifier
+2025-12-04,Panama,Australia,0,4,L,World Cup Qualifier
+2025-12-04,DR Congo,Qatar,2,0,W,World Cup Qualifier
+2025-12-05,Cape Verde,Belgium,2,2,D,International Friendly
+2025-12-05,Iraq,Iran,1,2,L,Continental Championship
+2025-12-05,Colombia,Australia,1,1,D,World Cup Qualifier
+2025-12-06,Sweden,Ghana,2,2,W,World Cup Qualifier
+2025-12-06,Brazil,Iran,3,0,W,World Cup Qualifier
+2025-12-06,Algeria,Norway,0,0,D,World Cup Qualifier
+2025-12-06,Ivory Coast,Switzerland,2,3,L,International Friendly
+2025-12-07,Scotland,Austria,0,1,L,World Cup Qualifier
+2025-12-08,Jordan,Haiti,2,1,L,World Cup Qualifier
+2025-12-08,Scotland,South Korea,0,1,L,World Cup Qualifier
+2025-12-08,Australia,Netherlands,1,0,W,World Cup Qualifier
+2025-12-10,Colombia,Türkiye,2,2,W,World Cup Qualifier
+2025-12-10,Iran,Panama,1,1,W,World Cup Qualifier
+2025-12-10,Panama,Switzerland,0,0,D,Continental Championship
+2025-12-11,Belgium,Ivory Coast,3,1,W,International Friendly
+2025-12-11,Türkiye,Tunisia,1,0,W,World Cup Qualifier
+2025-12-12,Egypt,Argentina,1,0,W,International Friendly
+2025-12-12,Spain,DR Congo,0,0,D,Continental Championship
+2025-12-12,Qatar,Iraq,0,0,D,International Friendly
+2025-12-12,Bosnia and Herzegovina,Curaçao,1,1,W,World Cup Qualifier
+2025-12-13,Argentina,Qatar,1,0,W,World Cup Qualifier
+2025-12-13,Scotland,Ecuador,1,2,W,World Cup Qualifier
+2025-12-14,Haiti,Colombia,0,1,L,Continental Championship
+2025-12-14,Bosnia and Herzegovina,Senegal,1,1,D,World Cup Qualifier
+2025-12-14,Japan,Mexico,2,2,D,Continental Championship
+2025-12-15,Japan,Jordan,2,1,W,International Friendly
+2025-12-15,DR Congo,Brazil,0,2,L,Continental Championship
+2025-12-15,Saudi Arabia,Paraguay,2,2,D,International Friendly
+2025-12-16,Bosnia and Herzegovina,Australia,3,2,W,Continental Championship
+2025-12-16,Türkiye,Colombia,0,2,L,International Friendly
+2025-12-16,Paraguay,Saudi Arabia,1,2,L,World Cup Qualifier
+2025-12-17,Bosnia and Herzegovina,Netherlands,1,1,L,World Cup Qualifier
+2025-12-17,Cape Verde,Ecuador,0,0,D,World Cup Qualifier
+2025-12-17,Portugal,Australia,3,0,W,Continental Championship
+2025-12-18,England,Mexico,1,1,D,World Cup Qualifier
+2025-12-18,Netherlands,Scotland,1,1,D,International Friendly
+2025-12-18,Morocco,Panama,1,1,D,Continental Championship
+2025-12-18,New Zealand,England,1,1,D,Continental Championship
+2025-12-19,Paraguay,Netherlands,1,1,W,Continental Championship
+2025-12-19,Ghana,Sweden,2,2,D,International Friendly
+2025-12-19,Panama,Türkiye,1,0,W,Continental Championship
+2025-12-19,Algeria,Morocco,1,3,L,Continental Championship
+2025-12-19,Tunisia,Senegal,2,2,D,International Friendly
+2025-12-19,Austria,Morocco,1,1,D,World Cup Qualifier
+2025-12-19,Germany,Austria,2,0,W,World Cup Qualifier
+2025-12-21,Ghana,Brazil,1,1,L,Continental Championship
+2025-12-21,South Africa,Colombia,1,1,D,International Friendly
+2025-12-21,Croatia,Belgium,1,0,W,Continental Championship
+2025-12-21,Croatia,Ghana,1,1,D,International Friendly
+2025-12-22,Tunisia,Qatar,2,0,W,World Cup Qualifier
+2025-12-23,Ghana,Spain,0,1,L,World Cup Qualifier
+2025-12-24,DR Congo,Colombia,1,1,W,Continental Championship
+2025-12-24,Austria,Mexico,1,3,L,World Cup Qualifier
+2025-12-24,Austria,Switzerland,1,1,D,Continental Championship
+2025-12-24,Portugal,DR Congo,2,1,W,Continental Championship
+2025-12-24,Canada,Argentina,1,1,D,Continental Championship
+2025-12-25,Spain,Portugal,2,0,W,Continental Championship
+2025-12-25,Cape Verde,Algeria,1,0,W,International Friendly
+2025-12-26,Czech Republic,Croatia,0,3,L,International Friendly
+2025-12-27,Netherlands,Norway,2,0,W,World Cup Qualifier
+2025-12-27,Iraq,Czech Republic,2,2,D,World Cup Qualifier
+2025-12-27,Spain,Iran,0,4,L,World Cup Qualifier
+2025-12-27,United States,Uzbekistan,2,1,W,Continental Championship
+2025-12-27,Türkiye,France,0,2,L,World Cup Qualifier
+2025-12-28,Jordan,Czech Republic,1,1,L,International Friendly
+2025-12-28,DR Congo,New Zealand,1,2,W,World Cup Qualifier
+2025-12-28,Austria,Spain,2,2,D,World Cup Qualifier
+2025-12-29,Germany,Spain,2,2,W,World Cup Qualifier
+2025-12-30,England,Iran,2,1,W,World Cup Qualifier
+2025-12-31,Japan,Scotland,2,3,L,Continental Championship
+2025-12-31,Czech Republic,Iran,2,0,W,World Cup Qualifier
+2025-12-31,Netherlands,Ecuador,2,0,W,International Friendly
+2025-12-31,Netherlands,Mexico,3,1,W,Continental Championship
+2026-01-01,Switzerland,Saudi Arabia,1,1,W,World Cup Qualifier
+2026-01-01,Tunisia,Paraguay,0,3,L,Continental Championship
+2026-01-02,Uruguay,Australia,0,0,D,Continental Championship
+2026-01-02,Ivory Coast,Türkiye,1,1,D,World Cup Qualifier
+2026-01-02,Saudi Arabia,Norway,2,2,D,World Cup Qualifier
+2026-01-02,South Africa,Colombia,3,0,W,World Cup Qualifier
+2026-01-03,Belgium,France,2,2,L,Continental Championship
+2026-01-03,Sweden,Belgium,1,0,W,World Cup Qualifier
+2026-01-04,Czech Republic,Colombia,0,4,L,Continental Championship
+2026-01-04,Mexico,Spain,3,3,D,International Friendly
+2026-01-04,Austria,South Africa,2,1,W,International Friendly
+2026-01-04,South Africa,Austria,2,0,W,World Cup Qualifier
+2026-01-05,Morocco,Paraguay,1,1,D,International Friendly
+2026-01-05,Canada,Germany,1,1,D,World Cup Qualifier
+2026-01-06,Senegal,Portugal,1,0,W,Continental Championship
+2026-01-06,Brazil,England,2,0,W,World Cup Qualifier
+2026-01-06,Portugal,Germany,1,1,D,Continental Championship
+2026-01-07,Germany,South Korea,3,0,W,World Cup Qualifier
+2026-01-07,Portugal,Egypt,1,2,L,World Cup Qualifier
+2026-01-07,Canada,Iran,1,0,W,Continental Championship
+2026-01-07,Brazil,Jordan,1,0,W,International Friendly
+2026-01-07,Uruguay,Norway,1,2,L,Continental Championship
+2026-01-07,Uzbekistan,United States,0,2,L,Continental Championship
+2026-01-07,Curaçao,Haiti,1,1,W,Continental Championship
+2026-01-08,Norway,Portugal,2,2,W,International Friendly
+2026-01-08,Austria,Portugal,1,4,L,World Cup Qualifier
+2026-01-08,Qatar,Canada,1,1,D,World Cup Qualifier
+2026-01-08,Bosnia and Herzegovina,Mexico,0,0,D,International Friendly
+2026-01-08,South Africa,Australia,1,1,D,Continental Championship
+2026-01-09,Paraguay,Mexico,1,3,L,International Friendly
+2026-01-09,United States,Ecuador,0,3,L,World Cup Qualifier
+2026-01-10,Czech Republic,Curaçao,2,2,W,Continental Championship
+2026-01-11,Cape Verde,Austria,2,2,D,International Friendly
+2026-01-11,Qatar,Panama,1,1,D,World Cup Qualifier
+2026-01-11,DR Congo,Spain,1,1,L,International Friendly
+2026-01-11,Scotland,Spain,1,1,W,World Cup Qualifier
+2026-01-12,Qatar,Australia,1,0,W,International Friendly
+2026-01-12,Canada,France,1,2,W,World Cup Qualifier
+2026-01-13,Bosnia and Herzegovina,Iraq,2,1,L,Continental Championship
+2026-01-13,Uruguay,DR Congo,1,1,D,World Cup Qualifier
+2026-01-14,DR Congo,Egypt,0,2,L,Continental Championship
+2026-01-14,Argentina,Australia,1,1,W,Continental Championship
+2026-01-15,Panama,Curaçao,2,2,W,Continental Championship
+2026-01-15,Canada,DR Congo,0,2,L,World Cup Qualifier
+2026-01-15,Mexico,United States,1,0,W,Continental Championship
+2026-01-17,Brazil,Saudi Arabia,2,0,W,World Cup Qualifier
+2026-01-17,Senegal,Czech Republic,2,1,W,Continental Championship
+2026-01-18,Tunisia,Türkiye,1,1,D,World Cup Qualifier
+2026-01-19,Spain,Saudi Arabia,1,1,D,International Friendly
+2026-01-19,Ghana,Iraq,1,1,L,Continental Championship
+2026-01-19,South Korea,Argentina,3,0,W,Continental Championship
+2026-01-19,Uzbekistan,England,1,1,W,World Cup Qualifier
+2026-01-20,Türkiye,Belgium,1,2,L,World Cup Qualifier
+2026-01-20,South Africa,Norway,2,0,W,Continental Championship
+2026-01-21,Türkiye,Argentina,1,0,W,Continental Championship
+2026-01-21,Iraq,South Korea,1,1,L,Continental Championship
+2026-01-21,Tunisia,Curaçao,1,1,D,Continental Championship
+2026-01-21,Algeria,Croatia,1,1,L,International Friendly
+2026-01-22,Iraq,Morocco,0,3,L,World Cup Qualifier
+2026-01-23,Saudi Arabia,Paraguay,3,0,W,Continental Championship
+2026-01-23,Portugal,Iran,0,1,L,International Friendly
+2026-01-23,Ivory Coast,Mexico,2,1,W,World Cup Qualifier
+2026-01-23,Australia,Panama,2,1,W,World Cup Qualifier
+2026-01-23,Australia,Cape Verde,2,2,D,International Friendly
+2026-01-23,New Zealand,Sweden,0,0,D,World Cup Qualifier
+2026-01-23,Egypt,Curaçao,1,1,D,World Cup Qualifier
+2026-01-24,Mexico,South Africa,3,2,W,World Cup Qualifier
+2026-01-24,Qatar,France,0,3,L,Continental Championship
+2026-01-24,New Zealand,Czech Republic,0,1,L,Continental Championship
+2026-01-24,Scotland,Qatar,1,1,L,International Friendly
+2026-01-24,South Korea,Jordan,3,3,D,Continental Championship
+2026-01-24,Algeria,Cape Verde,1,1,D,Continental Championship
+2026-01-24,South Korea,Croatia,2,3,L,World Cup Qualifier
+2026-01-24,Paraguay,Scotland,0,2,L,International Friendly
+2026-01-24,Panama,Norway,1,3,L,World Cup Qualifier
+2026-01-25,France,Tunisia,1,0,W,World Cup Qualifier
+2026-01-25,Cape Verde,Japan,1,0,W,International Friendly
+2026-01-26,Cape Verde,Senegal,2,1,W,World Cup Qualifier
+2026-01-26,Australia,Iran,0,1,L,International Friendly
+2026-01-26,Paraguay,Iran,1,1,D,International Friendly
+2026-01-27,Switzerland,Belgium,1,0,W,World Cup Qualifier
+2026-01-27,Uruguay,Algeria,3,1,W,Continental Championship
+2026-01-27,Jordan,Austria,0,0,D,World Cup Qualifier
+2026-01-27,New Zealand,Egypt,1,1,D,World Cup Qualifier
+2026-01-28,Brazil,Norway,2,1,W,Continental Championship
+2026-01-28,Türkiye,United States,1,1,L,International Friendly
+2026-01-28,Ecuador,Mexico,0,1,L,World Cup Qualifier
+2026-01-28,Curaçao,Uzbekistan,0,1,L,Continental Championship
+2026-01-29,Norway,Curaçao,3,0,W,International Friendly
+2026-01-29,France,United States,0,3,L,Continental Championship
+2026-01-29,Sweden,Türkiye,1,1,D,Continental Championship
+2026-01-29,Netherlands,Ivory Coast,1,0,W,Continental Championship
+2026-01-29,United States,Paraguay,1,3,L,World Cup Qualifier
+2026-01-30,South Korea,Tunisia,3,0,W,World Cup Qualifier
+2026-01-30,Croatia,Ivory Coast,1,2,W,International Friendly
+2026-01-30,Qatar,Canada,1,0,W,Continental Championship
+2026-01-31,Türkiye,Haiti,1,2,W,World Cup Qualifier
+2026-01-31,Austria,Uruguay,2,1,W,Continental Championship
+2026-01-31,France,Curaçao,1,0,W,World Cup Qualifier
+2026-01-31,Tunisia,Paraguay,1,2,W,Continental Championship
+2026-02-01,Brazil,Egypt,2,2,W,World Cup Qualifier
+2026-02-02,Norway,Belgium,0,0,D,Continental Championship
+2026-02-02,DR Congo,Uzbekistan,3,0,W,International Friendly
+2026-02-03,Ecuador,Scotland,0,2,L,International Friendly
+2026-02-03,Iran,Belgium,0,4,L,Continental Championship
+2026-02-03,DR Congo,South Africa,2,2,D,World Cup Qualifier
+2026-02-03,Australia,Scotland,2,0,W,Continental Championship
+2026-02-03,Croatia,Colombia,1,1,D,International Friendly
+2026-02-05,Switzerland,Cape Verde,1,0,W,World Cup Qualifier
+2026-02-05,Algeria,Saudi Arabia,2,0,W,International Friendly
+2026-02-05,Bosnia and Herzegovina,Netherlands,4,1,W,Continental Championship
+2026-02-06,Netherlands,Australia,1,0,W,International Friendly
+2026-02-06,South Korea,England,1,2,W,Continental Championship
+2026-02-06,Belgium,Portugal,1,1,L,International Friendly
+2026-02-06,Switzerland,Belgium,3,1,W,World Cup Qualifier
+2026-02-07,Netherlands,Germany,1,1,L,Continental Championship
+2026-02-07,DR Congo,Colombia,3,0,W,World Cup Qualifier
+2026-02-07,Spain,Norway,2,0,W,International Friendly
+2026-02-08,Morocco,South Korea,3,0,W,Continental Championship
+2026-02-08,Austria,Ecuador,2,1,W,Continental Championship
+2026-02-09,New Zealand,Paraguay,0,1,L,International Friendly
+2026-02-09,Iraq,France,1,0,W,International Friendly
+2026-02-09,Bosnia and Herzegovina,Senegal,1,2,L,Continental Championship
+2026-02-10,Ecuador,Ghana,0,2,L,World Cup Qualifier
+2026-02-10,Ecuador,Czech Republic,1,1,D,Continental Championship
+2026-02-10,Haiti,Uruguay,2,1,W,International Friendly
+2026-02-11,Curaçao,Ecuador,1,0,W,International Friendly
+2026-02-11,Belgium,Austria,3,3,D,International Friendly
+2026-02-11,Curaçao,Spain,0,1,L,International Friendly
+2026-02-11,Mexico,Haiti,2,0,W,International Friendly
+2026-02-11,Sweden,Argentina,1,0,W,International Friendly
+2026-02-12,Iran,Iraq,3,0,W,International Friendly
+2026-02-12,Egypt,Uzbekistan,1,2,L,World Cup Qualifier
+2026-02-12,Ghana,Jordan,2,2,W,International Friendly
+2026-02-12,Curaçao,Panama,1,1,D,Continental Championship
+2026-02-12,Bosnia and Herzegovina,Curaçao,1,1,D,Continental Championship
+2026-02-12,France,DR Congo,3,0,W,International Friendly
+2026-02-13,Canada,Mexico,2,0,W,Continental Championship
+2026-02-13,New Zealand,Ecuador,1,1,D,Continental Championship
+2026-02-14,Paraguay,South Korea,2,0,W,Continental Championship
+2026-02-15,Iran,Uruguay,0,2,L,International Friendly
+2026-02-16,Paraguay,Scotland,3,0,W,Continental Championship
+2026-02-16,New Zealand,Cape Verde,1,1,D,Continental Championship
+2026-02-16,Czech Republic,Sweden,1,0,W,International Friendly
+2026-02-17,New Zealand,Cape Verde,1,1,W,World Cup Qualifier
+2026-02-17,Haiti,Tunisia,0,0,D,Continental Championship
+2026-02-18,Egypt,Germany,1,1,D,Continental Championship
+2026-02-18,Jordan,New Zealand,1,0,W,International Friendly
+2026-02-19,Scotland,Egypt,2,0,W,World Cup Qualifier
+2026-02-19,Portugal,Argentina,0,0,D,Continental Championship
+2026-02-19,Cape Verde,Morocco,3,1,W,World Cup Qualifier
+2026-02-19,Spain,Iraq,0,0,D,World Cup Qualifier
+2026-02-19,Canada,Paraguay,1,1,L,International Friendly
+2026-02-19,Panama,Cape Verde,4,0,W,Continental Championship
+2026-02-20,England,Ivory Coast,2,1,W,International Friendly
+2026-02-20,Netherlands,Iran,1,0,W,World Cup Qualifier
+2026-02-20,Curaçao,Bosnia and Herzegovina,3,3,D,International Friendly
+2026-02-20,Sweden,France,3,3,D,International Friendly
+2026-02-21,Egypt,Algeria,0,0,D,World Cup Qualifier
+2026-02-21,Argentina,Ghana,1,0,W,International Friendly
+2026-02-21,Mexico,Tunisia,2,2,D,World Cup Qualifier
+2026-02-21,Jordan,Spain,1,1,D,Continental Championship
+2026-02-22,Morocco,Iraq,1,0,W,World Cup Qualifier
+2026-02-23,Morocco,Mexico,1,0,W,World Cup Qualifier
+2026-02-23,Japan,Qatar,1,1,W,Continental Championship
+2026-02-23,Ivory Coast,Qatar,1,1,D,World Cup Qualifier
+2026-02-23,Canada,Australia,2,1,W,Continental Championship
+2026-02-24,Panama,Qatar,0,3,L,International Friendly
+2026-02-24,Senegal,Austria,1,2,L,International Friendly
+2026-02-25,Saudi Arabia,Germany,0,3,L,World Cup Qualifier
+2026-02-26,Algeria,Bosnia and Herzegovina,1,1,W,International Friendly
+2026-02-26,England,Canada,0,3,L,World Cup Qualifier
+2026-02-27,Jordan,Japan,1,0,W,World Cup Qualifier
+2026-02-27,Germany,Norway,0,2,L,World Cup Qualifier
+2026-02-28,Japan,Spain,1,1,D,World Cup Qualifier
+2026-03-01,South Africa,Scotland,3,1,W,World Cup Qualifier
+2026-03-01,Colombia,Bosnia and Herzegovina,2,1,W,World Cup Qualifier
+2026-03-01,Ecuador,Iraq,1,2,L,Continental Championship
+2026-03-01,Austria,Belgium,1,2,L,International Friendly
+2026-03-02,Bosnia and Herzegovina,Colombia,1,0,W,International Friendly
+2026-03-02,South Korea,Portugal,0,3,L,World Cup Qualifier
+2026-03-02,Cape Verde,Ghana,2,2,D,Continental Championship
+2026-03-02,Austria,France,2,0,W,World Cup Qualifier
+2026-03-02,Scotland,Norway,2,2,D,International Friendly
+2026-03-03,Japan,France,1,1,D,International Friendly
+2026-03-03,Japan,Ivory Coast,0,2,L,Continental Championship
+2026-03-03,Saudi Arabia,Tunisia,0,0,D,International Friendly
+2026-03-03,Jordan,Croatia,1,1,L,Continental Championship
+2026-03-03,Australia,Argentina,3,2,W,Continental Championship
+2026-03-03,Panama,Curaçao,1,1,D,Continental Championship
+2026-03-05,Belgium,Panama,1,2,W,World Cup Qualifier
+2026-03-05,Belgium,Saudi Arabia,2,2,D,International Friendly
+2026-03-05,England,Haiti,4,0,W,World Cup Qualifier
+2026-03-06,Bosnia and Herzegovina,Tunisia,1,1,D,World Cup Qualifier
+2026-03-07,Netherlands,New Zealand,1,1,W,Continental Championship
+2026-03-07,Brazil,Qatar,1,0,W,Continental Championship
+2026-03-07,Netherlands,Tunisia,1,1,D,International Friendly
+2026-03-07,New Zealand,South Korea,2,2,D,International Friendly
+2026-03-07,Uzbekistan,Egypt,2,0,W,World Cup Qualifier
+2026-03-08,Paraguay,Tunisia,2,0,W,World Cup Qualifier
+2026-03-08,Bosnia and Herzegovina,Ecuador,2,1,W,International Friendly
+2026-03-09,Cape Verde,Croatia,0,2,L,Continental Championship
+2026-03-09,Tunisia,Curaçao,0,0,D,Continental Championship
+2026-03-09,Austria,South Africa,2,2,D,World Cup Qualifier
+2026-03-10,Colombia,Jordan,1,1,W,Continental Championship
+2026-03-11,DR Congo,Panama,2,2,W,World Cup Qualifier
+2026-03-11,Jordan,Morocco,1,2,L,Continental Championship
+2026-03-11,Senegal,Iraq,2,1,W,World Cup Qualifier
+2026-03-11,Qatar,Portugal,1,1,D,Continental Championship
+2026-03-12,Japan,Spain,2,1,W,Continental Championship
+2026-03-12,Portugal,Uruguay,1,0,W,World Cup Qualifier
+2026-03-12,New Zealand,Japan,2,0,W,Continental Championship
+2026-03-12,Bosnia and Herzegovina,Türkiye,3,0,W,Continental Championship
+2026-03-12,Colombia,Qatar,2,2,W,World Cup Qualifier
+2026-03-13,England,Austria,2,0,W,World Cup Qualifier
+2026-03-13,Croatia,Colombia,2,2,W,World Cup Qualifier
+2026-03-13,Ghana,Uzbekistan,1,1,D,International Friendly
+2026-03-13,South Korea,Ecuador,2,0,W,International Friendly
+2026-03-13,Uzbekistan,Sweden,1,3,L,World Cup Qualifier
+2026-03-14,England,New Zealand,0,0,D,Continental Championship
+2026-03-14,Mexico,Ivory Coast,1,1,D,World Cup Qualifier
+2026-03-14,Switzerland,France,2,2,L,International Friendly
+2026-03-14,Ecuador,DR Congo,1,1,D,Continental Championship
+2026-03-15,Senegal,Belgium,3,0,W,Continental Championship
+2026-03-15,Uzbekistan,Austria,3,0,W,Continental Championship
+2026-03-15,Qatar,Panama,1,1,W,Continental Championship
+2026-03-15,Australia,Saudi Arabia,1,0,W,Continental Championship
+2026-03-16,Mexico,Switzerland,0,0,D,World Cup Qualifier
+2026-03-17,Canada,Croatia,3,3,D,Continental Championship
+2026-03-17,Ghana,Jordan,0,0,D,International Friendly
+2026-03-17,Croatia,Morocco,2,0,W,World Cup Qualifier
+2026-03-18,Germany,Colombia,1,1,W,International Friendly
+2026-03-18,Japan,Germany,2,0,W,World Cup Qualifier
+2026-03-18,Portugal,Qatar,2,1,W,World Cup Qualifier
+2026-03-18,Algeria,Iran,3,0,W,International Friendly
+2026-03-18,South Korea,Uruguay,2,2,L,International Friendly
+2026-03-18,Norway,Brazil,3,0,W,Continental Championship
+2026-03-18,Netherlands,Iran,0,0,D,Continental Championship
+2026-03-18,Portugal,Germany,2,2,D,World Cup Qualifier
+2026-03-18,Belgium,Panama,0,1,L,World Cup Qualifier
+2026-03-19,South Africa,Haiti,3,1,W,International Friendly
+2026-03-19,Canada,Algeria,0,3,L,World Cup Qualifier
+2026-03-19,Austria,Cape Verde,0,0,D,World Cup Qualifier
+2026-03-19,Senegal,Brazil,0,1,L,Continental Championship
+2026-03-20,Germany,Uzbekistan,1,0,W,International Friendly
+2026-03-20,Portugal,Norway,1,1,L,International Friendly
+2026-03-20,Switzerland,DR Congo,2,1,L,Continental Championship
+2026-03-21,Sweden,Colombia,0,0,D,International Friendly
+2026-03-21,Belgium,England,1,0,W,International Friendly
+2026-03-21,Norway,DR Congo,1,1,W,World Cup Qualifier
+2026-03-21,Mexico,Australia,1,0,W,International Friendly
+2026-03-22,Uzbekistan,Egypt,2,2,D,World Cup Qualifier
+2026-03-22,Canada,Algeria,1,1,D,International Friendly
+2026-03-23,Sweden,France,3,1,W,International Friendly
+2026-03-24,Paraguay,DR Congo,1,0,W,Continental Championship
+2026-03-24,Germany,Canada,3,0,W,International Friendly
+2026-03-25,Czech Republic,Colombia,2,1,W,Continental Championship
+2026-03-25,South Africa,Belgium,4,0,W,International Friendly
+2026-03-25,Netherlands,Iran,2,0,W,Continental Championship
+2026-03-26,South Korea,Netherlands,1,0,W,World Cup Qualifier
+2026-03-26,Saudi Arabia,Bosnia and Herzegovina,0,0,D,International Friendly
+2026-03-26,Portugal,Qatar,2,1,W,World Cup Qualifier
+2026-03-27,Saudi Arabia,Norway,0,0,D,World Cup Qualifier
+2026-03-27,England,Czech Republic,0,1,L,Continental Championship
+2026-03-28,Paraguay,Saudi Arabia,0,0,D,Continental Championship
+2026-03-28,Netherlands,Paraguay,4,0,W,International Friendly
+2026-03-28,Qatar,United States,0,1,L,World Cup Qualifier
+2026-03-29,Scotland,Uzbekistan,1,1,D,Continental Championship
+2026-03-29,Paraguay,Australia,0,0,D,World Cup Qualifier
+2026-03-29,Algeria,United States,2,1,W,Continental Championship
+2026-03-29,Scotland,Egypt,1,2,L,Continental Championship
+2026-03-29,England,Algeria,3,0,W,Continental Championship
+2026-03-30,Uruguay,Germany,1,0,W,World Cup Qualifier
+2026-03-30,Haiti,Portugal,0,3,L,Continental Championship
+2026-03-30,Bosnia and Herzegovina,Belgium,0,0,D,World Cup Qualifier
+2026-03-31,Uruguay,Japan,1,1,W,International Friendly
+2026-03-31,South Korea,Netherlands,0,0,D,World Cup Qualifier
+2026-03-31,South Korea,Qatar,1,0,W,Continental Championship
+2026-03-31,Egypt,United States,1,3,L,World Cup Qualifier
+2026-04-01,Saudi Arabia,Switzerland,1,2,L,Continental Championship
+2026-04-01,Egypt,Croatia,1,3,L,Continental Championship
+2026-04-01,Czech Republic,England,1,1,D,International Friendly
+2026-04-02,Spain,Sweden,0,2,L,World Cup Qualifier
+2026-04-02,Scotland,Panama,2,0,W,Continental Championship
+2026-04-03,Qatar,France,0,3,L,International Friendly
+2026-04-03,France,Scotland,1,1,W,International Friendly
+2026-04-03,Curaçao,Senegal,3,0,W,World Cup Qualifier
+2026-04-03,Uzbekistan,Morocco,0,0,D,Continental Championship
+2026-04-05,Sweden,New Zealand,2,1,W,International Friendly
+2026-04-05,Tunisia,Norway,0,0,D,World Cup Qualifier
+2026-04-06,Jordan,Czech Republic,1,0,W,Continental Championship
+2026-04-06,Ivory Coast,Algeria,2,1,W,Continental Championship
+2026-04-07,Egypt,Paraguay,1,1,D,World Cup Qualifier
+2026-04-07,Norway,DR Congo,1,1,L,World Cup Qualifier
+2026-04-07,Uzbekistan,Australia,1,3,L,Continental Championship
+2026-04-08,South Africa,New Zealand,0,0,D,Continental Championship
+2026-04-08,Morocco,Canada,1,1,D,Continental Championship
+2026-04-09,Uruguay,Saudi Arabia,3,1,W,World Cup Qualifier
+2026-04-09,Ghana,Ivory Coast,1,1,D,International Friendly
+2026-04-09,England,Brazil,2,2,D,Continental Championship
+2026-04-10,Algeria,Ecuador,1,1,W,Continental Championship
+2026-04-10,United States,Scotland,2,2,D,Continental Championship
+2026-04-10,Czech Republic,Portugal,1,1,D,Continental Championship
+2026-04-11,Switzerland,Czech Republic,1,1,D,World Cup Qualifier
+2026-04-11,Belgium,Curaçao,1,1,D,Continental Championship
+2026-04-11,Ghana,Iran,2,0,W,Continental Championship
+2026-04-11,Uruguay,Qatar,2,2,W,Continental Championship
+2026-04-12,United States,Brazil,1,3,L,World Cup Qualifier
+2026-04-12,Türkiye,Germany,1,0,W,International Friendly
+2026-04-12,Belgium,Scotland,1,1,L,Continental Championship
+2026-04-13,South Africa,South Korea,2,1,W,World Cup Qualifier
+2026-04-13,Algeria,New Zealand,2,1,L,Continental Championship
+2026-04-13,Switzerland,Colombia,3,3,D,International Friendly
+2026-04-14,Egypt,Sweden,1,1,D,Continental Championship
+2026-04-14,Iran,Saudi Arabia,0,0,D,International Friendly
+2026-04-14,Netherlands,Austria,2,0,W,Continental Championship
+2026-04-14,Japan,Netherlands,1,1,D,International Friendly
+2026-04-14,Iraq,Ghana,1,1,D,International Friendly
+2026-04-15,United States,Spain,1,1,D,Continental Championship
+2026-04-15,Ivory Coast,Scotland,0,3,L,International Friendly
+2026-04-15,Brazil,Paraguay,3,0,W,World Cup Qualifier
+2026-04-15,South Africa,Colombia,3,0,W,Continental Championship
+2026-04-15,Scotland,Uruguay,3,2,W,World Cup Qualifier
+2026-04-16,England,France,1,0,W,Continental Championship
+2026-04-16,Argentina,Iran,2,0,W,Continental Championship
+2026-04-17,Netherlands,United States,1,1,L,World Cup Qualifier
+2026-04-18,Scotland,Bosnia and Herzegovina,1,1,L,Continental Championship
+2026-04-18,France,Senegal,1,1,D,International Friendly
+2026-04-18,Sweden,France,0,1,L,World Cup Qualifier
+2026-04-18,Cape Verde,Colombia,1,3,L,International Friendly
+2026-04-18,Canada,Iran,3,3,D,Continental Championship
+2026-04-19,Panama,Curaçao,1,2,W,World Cup Qualifier
+2026-04-19,Canada,New Zealand,0,2,L,International Friendly
+2026-04-19,Brazil,Senegal,1,0,W,International Friendly
+2026-04-19,Japan,Panama,1,2,W,International Friendly
+2026-04-19,Tunisia,England,1,2,L,Continental Championship
+2026-04-20,Ivory Coast,Austria,3,3,D,Continental Championship
+2026-04-20,Argentina,Senegal,1,1,D,International Friendly
+2026-04-20,Haiti,Norway,1,2,W,International Friendly
+2026-04-21,Spain,Paraguay,2,0,W,International Friendly
+2026-04-21,Curaçao,Ivory Coast,1,2,L,World Cup Qualifier
+2026-04-22,DR Congo,Croatia,1,1,L,Continental Championship
+2026-04-22,Iraq,Ecuador,1,2,W,World Cup Qualifier
+2026-04-24,New Zealand,Sweden,2,0,W,International Friendly
+2026-04-24,Portugal,DR Congo,1,1,D,World Cup Qualifier
+2026-04-24,Tunisia,Curaçao,3,0,W,World Cup Qualifier
+2026-04-25,Portugal,Uruguay,1,1,L,World Cup Qualifier
+2026-04-25,Uzbekistan,United States,4,0,W,Continental Championship
+2026-04-26,Croatia,Türkiye,3,0,W,International Friendly
+2026-04-26,Paraguay,Netherlands,1,1,D,Continental Championship
+2026-04-26,Jordan,Netherlands,2,1,W,World Cup Qualifier
+2026-04-26,France,Paraguay,2,0,W,International Friendly
+2026-04-26,Uzbekistan,Ecuador,0,0,D,International Friendly
+2026-04-27,South Korea,Iran,1,0,W,Continental Championship
+2026-04-27,Czech Republic,Portugal,1,1,D,International Friendly
+2026-04-28,Mexico,Australia,0,0,D,World Cup Qualifier
+2026-04-28,Mexico,Haiti,1,2,L,Continental Championship
+2026-04-28,Brazil,France,0,1,L,International Friendly
+2026-04-29,Ecuador,Mexico,1,1,D,International Friendly
+2026-04-29,Australia,Türkiye,0,2,L,World Cup Qualifier
+2026-04-29,Scotland,Tunisia,0,0,D,International Friendly
+2026-04-29,DR Congo,Senegal,2,2,W,World Cup Qualifier
+2026-04-30,Egypt,France,2,0,W,International Friendly
+2026-04-30,Ghana,Senegal,0,0,D,World Cup Qualifier
+2026-04-30,Jordan,United States,4,1,W,Continental Championship
+2026-04-30,Iran,Canada,0,3,L,World Cup Qualifier
+2026-04-30,Japan,Argentina,0,1,L,World Cup Qualifier
+2026-05-01,England,Haiti,1,1,D,World Cup Qualifier
+2026-05-01,England,France,2,2,W,World Cup Qualifier
+2026-05-02,Brazil,Qatar,2,0,W,International Friendly
+2026-05-02,Spain,Saudi Arabia,2,0,W,International Friendly
+2026-05-02,Bosnia and Herzegovina,Austria,2,2,W,International Friendly
+2026-05-03,Uruguay,Egypt,1,1,D,International Friendly
+2026-05-03,Colombia,Canada,3,0,W,International Friendly
+2026-05-03,Switzerland,Australia,3,1,W,Continental Championship
+2026-05-03,Ecuador,Sweden,2,0,W,Continental Championship
+2026-05-03,Ecuador,Jordan,0,3,L,Continental Championship
+2026-05-03,Senegal,Ecuador,3,1,W,International Friendly
+2026-05-03,Panama,Scotland,1,2,W,Continental Championship
+2026-05-04,Türkiye,Iran,0,0,D,International Friendly
+2026-05-04,Egypt,Panama,1,0,W,Continental Championship
+2026-05-04,Qatar,Canada,1,1,L,International Friendly
+2026-05-04,Haiti,Iran,0,3,L,World Cup Qualifier
+2026-05-05,Qatar,Saudi Arabia,1,1,L,Continental Championship
+2026-05-05,Canada,Scotland,1,2,W,World Cup Qualifier
+2026-05-05,Netherlands,Cape Verde,1,1,W,World Cup Qualifier
+2026-05-06,United States,Mexico,1,1,D,Continental Championship
+2026-05-06,Australia,Bosnia and Herzegovina,1,1,D,Continental Championship
+2026-05-06,Haiti,Brazil,0,0,D,International Friendly
+2026-05-06,Norway,Austria,0,0,D,Continental Championship
+2026-05-07,Ghana,Egypt,3,0,W,Continental Championship
+2026-05-07,Argentina,Scotland,0,0,D,Continental Championship
+2026-05-07,France,Bosnia and Herzegovina,1,0,W,World Cup Qualifier
+2026-05-07,Norway,Panama,1,1,D,Continental Championship
+2026-05-08,Croatia,France,0,0,D,World Cup Qualifier
+2026-05-09,Ivory Coast,Switzerland,3,0,W,Continental Championship
+2026-05-09,Curaçao,Japan,1,1,D,World Cup Qualifier
+2026-05-09,Saudi Arabia,Senegal,2,2,L,Continental Championship
+2026-05-09,Japan,Canada,2,0,W,Continental Championship
+2026-05-10,Uzbekistan,DR Congo,1,1,L,International Friendly
+2026-05-10,Australia,Ivory Coast,1,1,L,World Cup Qualifier
+2026-05-10,Brazil,Ghana,3,3,D,World Cup Qualifier
+2026-05-10,Qatar,Panama,3,0,W,International Friendly
+2026-05-10,Norway,Uzbekistan,1,1,D,International Friendly
+2026-05-11,Saudi Arabia,United States,0,0,D,Continental Championship
+2026-05-11,Saudi Arabia,Iraq,0,2,L,International Friendly
+2026-05-11,Paraguay,Ghana,2,2,W,World Cup Qualifier
+2026-05-11,Haiti,Paraguay,2,1,W,International Friendly
+2026-05-12,Austria,Spain,2,1,W,Continental Championship
+2026-05-12,Morocco,Argentina,0,0,D,Continental Championship
+2026-05-14,Ecuador,Belgium,1,0,W,International Friendly
+2026-05-14,Saudi Arabia,England,1,1,D,International Friendly
+2026-05-15,Belgium,Panama,1,2,L,International Friendly
+2026-05-15,Austria,Saudi Arabia,0,1,L,International Friendly
+2026-05-15,Algeria,Curaçao,1,0,W,World Cup Qualifier
+2026-05-16,Paraguay,Iraq,0,3,L,International Friendly
+2026-05-17,Australia,Uruguay,1,1,D,World Cup Qualifier
+2026-05-17,Qatar,Tunisia,0,3,L,International Friendly
+2026-05-17,Croatia,Scotland,2,4,L,World Cup Qualifier
+2026-05-18,Ghana,Saudi Arabia,2,0,W,World Cup Qualifier
+2026-05-18,Canada,Paraguay,1,3,L,World Cup Qualifier
+2026-05-18,Curaçao,New Zealand,0,0,D,Continental Championship
+2026-05-18,Czech Republic,Belgium,2,0,W,International Friendly
+2026-05-18,Jordan,Qatar,1,1,D,Continental Championship
+2026-05-19,Qatar,Saudi Arabia,3,1,W,International Friendly
+2026-05-19,Paraguay,Czech Republic,1,1,D,World Cup Qualifier
+2026-05-19,Argentina,Croatia,4,2,W,World Cup Qualifier
+2026-05-19,Norway,Japan,1,1,W,International Friendly
+2026-05-19,Tunisia,Brazil,0,3,L,International Friendly
+2026-05-20,South Korea,England,1,1,L,International Friendly
+2026-05-20,New Zealand,Tunisia,1,0,W,World Cup Qualifier
+2026-05-20,Qatar,South Korea,0,2,L,International Friendly
+2026-05-20,Türkiye,Croatia,0,0,D,World Cup Qualifier
+2026-05-20,Switzerland,Netherlands,2,2,D,World Cup Qualifier
+2026-05-20,South Korea,Australia,1,1,D,World Cup Qualifier
+2026-05-20,Czech Republic,Ivory Coast,0,0,D,Continental Championship
+2026-05-20,South Africa,Cape Verde,1,1,D,World Cup Qualifier
+2026-05-21,New Zealand,Uzbekistan,0,2,L,International Friendly
+2026-05-21,Senegal,Scotland,0,1,L,International Friendly
+2026-05-21,Morocco,Sweden,2,3,L,International Friendly
+2026-05-21,Brazil,Algeria,1,0,W,International Friendly
+2026-05-21,Tunisia,Austria,1,2,W,Continental Championship
+2026-05-21,South Africa,Curaçao,2,0,W,World Cup Qualifier
+2026-05-22,Scotland,Germany,1,1,D,Continental Championship
+2026-05-23,Ecuador,Ghana,1,1,L,World Cup Qualifier
+2026-05-23,Uruguay,Spain,0,0,D,International Friendly
+2026-05-23,Czech Republic,Netherlands,1,2,L,World Cup Qualifier
+2026-05-23,Qatar,Norway,0,4,L,International Friendly
+2026-05-24,France,South Africa,1,1,L,World Cup Qualifier
+2026-05-24,Türkiye,Uruguay,0,4,L,International Friendly
+2026-05-24,Brazil,Mexico,2,2,W,World Cup Qualifier
+2026-05-24,Belgium,France,4,0,W,International Friendly
+2026-05-25,Ecuador,Uruguay,1,1,D,World Cup Qualifier
+2026-05-25,Panama,Algeria,0,2,L,International Friendly
+2026-05-26,Senegal,Czech Republic,2,2,W,World Cup Qualifier
+2026-05-26,Qatar,Norway,1,0,W,World Cup Qualifier
+2026-05-27,DR Congo,Austria,0,2,L,World Cup Qualifier
+2026-05-27,Austria,Switzerland,3,2,W,World Cup Qualifier
+2026-05-27,Portugal,Colombia,0,0,D,International Friendly
+2026-05-27,Iran,Netherlands,1,2,L,World Cup Qualifier
+2026-05-28,South Africa,Ecuador,3,1,W,International Friendly
+2026-05-28,Portugal,Australia,3,0,W,World Cup Qualifier
+2026-05-28,South Africa,Colombia,1,1,D,World Cup Qualifier
+2026-05-28,France,Spain,2,0,W,Continental Championship
+2026-05-28,Tunisia,Mexico,1,4,L,World Cup Qualifier
+2026-05-28,Uzbekistan,South Korea,0,1,L,International Friendly
+2026-05-28,DR Congo,Morocco,3,1,W,International Friendly
+2026-05-28,New Zealand,Ivory Coast,1,1,D,World Cup Qualifier
+2026-05-28,Saudi Arabia,South Africa,1,1,W,International Friendly
+2026-05-29,United States,Paraguay,3,0,W,Continental Championship
+2026-05-29,Mexico,Iran,0,0,D,World Cup Qualifier
+2026-05-30,Iraq,Morocco,3,0,W,Continental Championship
+2026-05-30,Curaçao,South Korea,0,0,D,World Cup Qualifier
+2026-05-30,Ecuador,Norway,1,1,D,International Friendly
+2026-05-30,Netherlands,Uzbekistan,1,2,W,International Friendly
+2026-05-31,South Korea,France,1,1,D,International Friendly
+2026-05-31,Senegal,Sweden,0,1,L,International Friendly
+2026-05-31,Austria,Bosnia and Herzegovina,1,0,W,World Cup Qualifier
+2026-05-31,Panama,Iran,1,0,W,International Friendly
+2026-06-01,Curaçao,Sweden,0,2,L,International Friendly
+2026-06-01,Senegal,Germany,0,1,L,Continental Championship
+2026-06-02,South Africa,Iran,1,2,L,International Friendly
+2026-06-02,Paraguay,Portugal,0,4,L,World Cup Qualifier
+2026-06-02,Iraq,Tunisia,1,1,D,World Cup Qualifier
+2026-06-02,Croatia,Qatar,0,2,L,World Cup Qualifier
+2026-06-02,Brazil,Japan,0,0,D,World Cup Qualifier
+2026-06-02,Croatia,Austria,2,1,W,Continental Championship
+2026-06-03,Netherlands,Switzerland,3,2,W,International Friendly
+2026-06-03,Netherlands,Croatia,3,0,W,World Cup Qualifier
+2026-06-03,Türkiye,Ecuador,2,2,L,Continental Championship
+2026-06-03,Japan,Canada,1,1,W,International Friendly
+2026-06-04,France,Iran,3,3,D,International Friendly
+2026-06-04,Ecuador,Ghana,1,3,L,World Cup Qualifier

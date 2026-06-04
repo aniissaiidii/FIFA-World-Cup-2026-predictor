@@ -1,0 +1,122 @@
+:host {
+  display: block;
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at 15% 10%, rgba(255, 215, 0, 0.22), transparent 30%),
+    radial-gradient(circle at 85% 18%, rgba(0, 184, 148, 0.24), transparent 30%),
+    linear-gradient(135deg, #03152e 0%, #041e42 42%, #063b2f 100%);
+  font-family: "Segoe UI", Arial, sans-serif;
+  color: #ffffff;
+}
+
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background: rgba(3, 21, 46, 0.92);
+  backdrop-filter: blur(18px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35);
+}
+
+.nav-container {
+  max-width: 1280px;
+  height: 84px;
+  margin: 0 auto;
+  padding: 0 32px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.logo-icon {
+  width: 48px;
+  height: 48px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #ffd700, #ff9f1c);
+  box-shadow: 0 0 28px rgba(255, 215, 0, 0.45);
+}
+
+.logo strong {
+  display: block;
+  font-size: 1.3rem;
+  font-weight: 900;
+}
+
+.logo small {
+  display: block;
+  margin-top: 2px;
+  color: #ffd700;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 0 18px;
+  border-radius: 999px;
+  color: rgba(255, 255, 255, 0.8);
+  text-decoration: none;
+  font-weight: 800;
+  transition: 0.25s ease;
+}
+
+.nav-links a:hover,
+.nav-links a.active {
+  color: #041e42;
+  background: #ffd700;
+  box-shadow: 0 10px 28px rgba(255, 215, 0, 0.28);
+}
+
+.app-shell {
+  min-height: calc(100vh - 150px);
+}
+
+.footer {
+  padding: 24px 16px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.72);
+  background: rgba(2, 18, 38, 0.72);
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.footer p {
+  margin: 0;
+}
+
+@media (max-width: 768px) {
+  .nav-container {
+    height: auto;
+    padding: 18px;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .nav-links {
+    width: 100%;
+    justify-content: center;
+  }
+}

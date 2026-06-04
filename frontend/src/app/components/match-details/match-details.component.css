@@ -1,0 +1,7 @@
+.match-details-card { padding:16px; background: var(--card-bg); border-radius:12px; box-shadow: 0 12px 30px rgba(2,6,23,0.08); }
+.match-details-header { display:flex; align-items:center; gap:12px; margin-bottom:10px; }
+.team-crest { width:44px; height:44px; border-radius:8px; background: linear-gradient(90deg,var(--primary-2),var(--primary)); color:#fff; display:flex; align-items:center; justify-content:center; font-weight:800; }
+.match-meta { color:var(--muted); font-size:13px; }
+.detail-row { display:flex; justify-content:space-between; gap:12px; margin-top:10px; }
+.detail-box { flex:1; padding:10px; border-radius:8px; background:#fff; box-shadow: 0 6px 18px rgba(2,6,23,0.04); }
+.detail-box h4 { margin:0 0 8px; color:var(--primary-2); }

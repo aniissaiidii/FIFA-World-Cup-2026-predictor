@@ -1,0 +1,115 @@
+<section class="predictor-container">
+  <div class="hero">
+    <div class="hero-content">
+      <span class="badge">FIFA World Cup 2026</span>
+      <h1>World Cup Match Predictor</h1>
+      <p>Choisis un groupe, sélectionne un match et lance la prédiction du score.</p>
+    </div>
+
+    <div class="hero-board">
+      <span>{{ prediction?.team1 || 'Team A' }}</span>
+      <strong>{{ prediction?.predicted_score || '0 - 0' }}</strong>
+      <span>{{ prediction?.team2 || 'Team B' }}</span>
+    </div>
+  </div>
+
+  <div class="prediction-card">
+    <div class="group-zone">
+      <div class="group-title">
+        <span class="section-label">Group stage</span>
+        <h2>Group {{ selectedGroup }}</h2>
+        <p>Choose one of the 12 official World Cup groups</p>
+      </div>
+
+      <div class="group-selector">
+        <button
+          type="button"
+          *ngFor="let g of ['A','B','C','D','E','F','G','H','I','J','K','L']"
+          [class.active]="selectedGroup === g"
+          (click)="selectedGroup = g; onGroupChange()"
+        >
+          {{ g }}
+        </button>
+      </div>
+    </div>
+
+    <div class="matches-header">
+      <span class="section-label">Fixtures</span>
+      <h3>Matches - Group {{ selectedGroup }}</h3>
+    </div>
+
+    <div class="matches-grid">
+      <button
+        type="button"
+        class="match-card"
+        *ngFor="let match of matches; let i = index"
+        [class.selected]="i === selectedMatchIndex"
+        (click)="selectedMatchIndex = i"
+      >
+        <small>{{ match.stage }}</small>
+
+        <div class="teams">
+          <span>{{ match.team1 }}</span>
+          <b>VS</b>
+          <span>{{ match.team2 }}</span>
+        </div>
+      </button>
+    </div>
+
+    <button class="predict-button" (click)="predictMatch()" [disabled]="loading">
+      {{ loading ? 'Prediction en cours...' : 'Predict Match' }}
+    </button>
+
+    <p *ngIf="error" class="error-message">{{ error }}</p>
+
+    <div *ngIf="prediction" class="prediction-result">
+      <div class="result-title">
+        <span>Match Prediction</span>
+        <strong>{{ prediction.prediction }}</strong>
+      </div>
+
+      <div class="result-score">
+        <div class="result-team">
+          <small>Team 1</small>
+          <h4>{{ prediction.team1 }}</h4>
+        </div>
+
+        <div class="score-box">
+          {{ prediction.predicted_score }}
+        </div>
+
+        <div class="result-team">
+          <small>Team 2</small>
+          <h4>{{ prediction.team2 }}</h4>
+        </div>
+      </div>
+
+      <div class="confidence-box">
+        <div class="confidence-top">
+          <span>Confidence</span>
+          <strong>{{ prediction.confidence }}%</strong>
+        </div>
+
+        <div class="confidence-bar">
+          <div class="confidence-fill" [style.width.%]="prediction.confidence"></div>
+        </div>
+      </div>
+
+      <div class="stats-grid" *ngIf="prediction.team1_stats && prediction.team2_stats">
+        <div class="stat-card">
+          <h4>{{ prediction.team1 }}</h4>
+          <p>Win rate <b>{{ prediction.team1_stats.win_rate }}%</b></p>
+          <p>Goals for <b>{{ prediction.team1_stats.avg_goals_for }}</b></p>
+          <p>Goals against <b>{{ prediction.team1_stats.avg_goals_against }}</b></p>
+        </div>
+
+        <div class="stat-card">
+          <h4>{{ prediction.team2 }}</h4>
+          <p>Win rate <b>{{ prediction.team2_stats.win_rate }}%</b></p>
+          <p>Goals for <b>{{ prediction.team2_stats.avg_goals_for }}</b></p>
+          <p>Goals against <b>{{ prediction.team2_stats.avg_goals_against }}</b></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

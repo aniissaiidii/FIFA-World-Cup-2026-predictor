@@ -1,0 +1,27 @@
+.ranking-container { max-width: 1100px; margin: 18px auto; padding: 18px; }
+.ranking-container h2 { font-size: 1.9rem; margin-bottom: 12px; color: white; text-align:center; }
+.loading, .no-data { color: rgba(255,255,255,0.95); text-align:center; padding:18px; }
+
+.ranking-table { background: var(--card-bg); border-radius:12px; overflow:hidden; box-shadow: 0 12px 36px rgba(2,6,23,0.12); }
+table { width:100%; border-collapse:collapse; }
+thead { background: linear-gradient(90deg,var(--primary-2),var(--primary)); color:white; font-weight:700; }
+th { padding:12px 14px; text-align:left; }
+tbody tr { border-bottom:1px solid rgba(2,6,23,0.04); transition: background .18s ease; }
+tbody tr:hover { background: #fbfbfe; }
+tbody tr.top3 { background: linear-gradient(90deg,#fffaf0,#fff6e5); }
+td { padding:12px 14px; color:#0b1220; }
+.rank { font-weight:800; color:var(--primary-2); }
+.medal { margin-right:8px; }
+.team-name { font-weight:700; }
+.code { color:var(--muted); font-family:monospace; }
+.wins { color:var(--success); font-weight:700; }
+.goals { text-align:center; }
+.positive { color:var(--success); font-weight:700; }
+.negative { color:#ff6b6b; font-weight:700; }
+.points { font-weight:800; color:var(--accent); text-align:center; }
+
+@media (max-width:768px) {
+  table { font-size:0.86rem; }
+  th, td { padding:8px 6px; }
+  .ranking-container { padding:12px; }
+}

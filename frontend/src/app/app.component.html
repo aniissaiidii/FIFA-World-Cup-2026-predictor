@@ -1,0 +1,32 @@
+<nav class="navbar">
+  <div class="nav-container">
+    <a class="logo" routerLink="/">
+      <span class="logo-icon">🏆</span>
+      <span>
+        <strong>World Cup 2026</strong>
+        <small>Prediction Center</small>
+      </span>
+    </a>
+
+    <ul class="nav-links">
+      <li>
+        <a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">
+          Prédicteur
+        </a>
+      </li>
+      <li>
+        <a routerLink="/ranking" routerLinkActive="active">
+          Classement
+        </a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+<main class="app-shell">
+  <router-outlet></router-outlet>
+</main>
+
+<footer class="footer">
+  <p>© 2026 World Cup Prediction | Données basées sur les 2 dernières années</p>
+</footer>
