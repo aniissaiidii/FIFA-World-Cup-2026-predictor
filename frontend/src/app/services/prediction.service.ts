@@ -6,8 +6,7 @@ import { Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class PredictionService {
-  private apiUrl = 'http://localhost:3000/api';
-
+private apiUrl = 'https://wc-2026-backend-ebtk.onrender.com';
   constructor(private http: HttpClient) {}
 
   getMatches(): Observable<any[]> {
