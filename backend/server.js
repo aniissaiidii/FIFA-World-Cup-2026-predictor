@@ -7,7 +7,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 const MODEL_VERSION = 'world-cup-v4-fixed';
 
 let matchesData = [];
@@ -574,6 +574,6 @@ app.get('/api/group-standings', (req, res) => {
 loadData();
 
 app.listen(PORT, () => {
-  console.log(`Server running on http://localhost:${PORT}`);
+  console.log(`Server running on port ${PORT}`);
   console.log(`Model version: ${MODEL_VERSION}`);
 });
