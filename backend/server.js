@@ -8,7 +8,6 @@ app.use(cors());
 app.use(express.json());
 
 const PORT = 3000;
-
 const MODEL_VERSION = 'world-cup-v4-fixed';
 
 let matchesData = [];
@@ -30,66 +29,66 @@ const groups = {
 };
 
 const ratings = {
-  'Argentina': 96,
-  'France': 95,
-  'Brazil': 94,
-  'England': 92,
-  'Spain': 92,
-  'Portugal': 91,
-  'Germany': 90,
-  'Netherlands': 90,
-  'Belgium': 88,
-  'Uruguay': 87,
-  'Croatia': 86,
-  'Colombia': 85,
-  'Morocco': 84,
-  'Switzerland': 83,
-  'Japan': 82,
-  'Senegal': 82,
-  'Austria': 81,
-  'Ecuador': 80,
-  'Sweden': 80,
-  'Iran': 79,
+  Argentina: 96,
+  France: 95,
+  Brazil: 94,
+  England: 92,
+  Spain: 92,
+  Portugal: 91,
+  Germany: 90,
+  Netherlands: 90,
+  Belgium: 88,
+  Uruguay: 87,
+  Croatia: 86,
+  Colombia: 85,
+  Morocco: 84,
+  Switzerland: 83,
+  Japan: 82,
+  Senegal: 82,
+  Austria: 81,
+  Ecuador: 80,
+  Sweden: 80,
+  Iran: 79,
   'South Korea': 79,
-  'Mexico': 78,
+  Mexico: 78,
   'United States': 78,
-  'Australia': 76,
-  'Tunisia': 76,
+  Australia: 76,
+  Tunisia: 76,
   'Ivory Coast': 75,
-  'Egypt': 75,
-  'Algeria': 74,
-  'Ghana': 74,
+  Egypt: 75,
+  Algeria: 74,
+  Ghana: 74,
   'Czech Republic': 73,
-  'Norway': 73,
-  'Scotland': 72,
-  'Canada': 72,
-  'Paraguay': 72,
-  'Turkiye': 71,
+  Norway: 73,
+  Scotland: 72,
+  Canada: 72,
+  Paraguay: 72,
+  Turkiye: 71,
   'South Africa': 69,
-  'Qatar': 68,
+  Qatar: 68,
   'Saudi Arabia': 68,
-  'Uzbekistan': 67,
-  'Iraq': 66,
-  'Jordan': 64,
-  'Panama': 63,
+  Uzbekistan: 67,
+  Iraq: 66,
+  Jordan: 64,
+  Panama: 63,
   'Bosnia and Herzegovina': 63,
   'DR Congo': 62,
   'Cape Verde': 61,
   'New Zealand': 60,
-  'Haiti': 57,
-  'Curacao': 55
+  Haiti: 57,
+  Curacao: 55
 };
 
 const displayNames = {
   'United States': 'USA',
   'Czech Republic': 'Czechia',
   'South Korea': 'Korea Republic',
-  'Iran': 'IR Iran',
+  Iran: 'IR Iran',
   'Cape Verde': 'Cabo Verde',
   'Ivory Coast': "Côte d'Ivoire",
   'DR Congo': 'Congo DR',
-  'Turkiye': 'Türkiye',
-  'Curacao': 'Curaçao'
+  Turkiye: 'Türkiye',
+  Curacao: 'Curaçao'
 };
 
 function normalizeTeamName(name) {
@@ -98,23 +97,26 @@ function normalizeTeamName(name) {
   const clean = String(name).trim();
 
   const aliases = {
-    'USA': 'United States',
-    'Czechia': 'Czech Republic',
+    USA: 'United States',
+    Czechia: 'Czech Republic',
     'Korea Republic': 'South Korea',
     'IR Iran': 'Iran',
     'Cabo Verde': 'Cape Verde',
     "Côte d'Ivoire": 'Ivory Coast',
     "Cote d'Ivoire": 'Ivory Coast',
+    "CÃ´te d'Ivoire": 'Ivory Coast',
     'Ivory Coast': 'Ivory Coast',
     'Congo DR': 'DR Congo',
     'Bosnia & Herzegovina': 'Bosnia and Herzegovina',
     'Bosnia and Herzegovina': 'Bosnia and Herzegovina',
-    'Türkiye': 'Turkiye',
-    'Turkiye': 'Turkiye',
+    Türkiye: 'Turkiye',
+    Turkiye: 'Turkiye',
     'TÃ¼rkiye': 'Turkiye',
-    'Curaçao': 'Curacao',
-    'Curacao': 'Curacao',
-    'CuraÃ§ao': 'Curacao'
+    'TÃƒÂ¼rkiye': 'Turkiye',
+    Curaçao: 'Curacao',
+    Curacao: 'Curacao',
+    'CuraÃ§ao': 'Curacao',
+    'CuraÃƒÂ§ao': 'Curacao'
   };
 
   return aliases[clean] || clean;
@@ -126,6 +128,10 @@ function showName(team) {
 
 function getRating(team) {
   return ratings[normalizeTeamName(team)] || 65;
+}
+
+function clamp(value, min, max) {
+  return Math.max(min, Math.min(max, value));
 }
 
 function getTeamStats(teamName) {
@@ -176,7 +182,6 @@ function getTeamStats(teamName) {
 
 function makeScore(ratingDiff, team1Attack, team2Attack) {
   const abs = Math.abs(ratingDiff);
-
   let strongGoals;
   let weakGoals;
 
@@ -207,11 +212,7 @@ function makeScore(ratingDiff, team1Attack, team2Attack) {
     strongGoals += 1;
   }
 
-  if (ratingDiff >= 0) {
-    return [strongGoals, weakGoals];
-  }
-
-  return [weakGoals, strongGoals];
+  return ratingDiff >= 0 ? [strongGoals, weakGoals] : [weakGoals, strongGoals];
 }
 
 function predictMatch(team1Input, team2Input) {
@@ -224,9 +225,7 @@ function predictMatch(team1Input, team2Input) {
   const form1 = s1.rating + s1.winRate * 8 + s1.avgGoalsFor * 2 - s1.avgGoalsAgainst * 2;
   const form2 = s2.rating + s2.winRate * 8 + s2.avgGoalsFor * 2 - s2.avgGoalsAgainst * 2;
 
-  const diff = form1 - form2;
   const ratingDiff = s1.rating - s2.rating;
-
   const [goals1, goals2] = makeScore(ratingDiff, s1.avgGoalsFor, s2.avgGoalsFor);
 
   let prediction = 'Draw';
@@ -240,9 +239,9 @@ function predictMatch(team1Input, team2Input) {
     winner = showName(team2);
   }
 
-  const confidence = Math.round(Math.max(45, Math.min(94, 48 + Math.abs(ratingDiff) * 1.25)));
+  const confidence = Math.round(clamp(48 + Math.abs(ratingDiff) * 1.25, 45, 94));
 
-  const result = {
+  return {
     model_version: MODEL_VERSION,
     team1: showName(team1),
     team2: showName(team2),
@@ -253,7 +252,7 @@ function predictMatch(team1Input, team2Input) {
     strength: {
       team1: Math.round(form1),
       team2: Math.round(form2),
-      difference: Math.round(diff),
+      difference: Math.round(form1 - form2),
       rating_difference: ratingDiff
     },
     team1_stats: {
@@ -269,9 +268,114 @@ function predictMatch(team1Input, team2Input) {
       win_rate: (s2.winRate * 100).toFixed(1)
     }
   };
+}
 
-  console.log('PREDICT:', result);
-  return result;
+function makeKnockoutScore(s1, s2) {
+  const form1 =
+    s1.rating +
+    s1.winRate * 14 +
+    s1.avgGoalsFor * 5 -
+    s1.avgGoalsAgainst * 2.5;
+
+  const form2 =
+    s2.rating +
+    s2.winRate * 14 +
+    s2.avgGoalsFor * 5 -
+    s2.avgGoalsAgainst * 2.5;
+
+  const diff = form1 - form2;
+  const absDiff = Math.abs(diff);
+
+  const tempo =
+    s1.avgGoalsFor +
+    s2.avgGoalsFor +
+    s1.winRate +
+    s2.winRate -
+    (s1.avgGoalsAgainst + s2.avgGoalsAgainst) * 0.25;
+
+  let favGoals = 1;
+  let underdogGoals = 0;
+
+  if (absDiff >= 42) {
+    favGoals = tempo >= 4 ? 4 : 3;
+    underdogGoals = tempo >= 4 ? 1 : 0;
+  } else if (absDiff >= 30) {
+    favGoals = tempo >= 3.7 ? 3 : 2;
+    underdogGoals = tempo >= 3.7 ? 1 : 0;
+  } else if (absDiff >= 18) {
+    favGoals = tempo >= 3.5 ? 3 : 2;
+    underdogGoals = tempo >= 3.5 ? 1 : 0;
+  } else if (absDiff >= 9) {
+    favGoals = tempo >= 3.4 ? 2 : 1;
+    underdogGoals = 1;
+  } else {
+    favGoals = tempo >= 3.5 ? 2 : 1;
+    underdogGoals = tempo >= 3.5 ? 2 : 1;
+  }
+
+  let goals1 = diff >= 0 ? favGoals : underdogGoals;
+  let goals2 = diff >= 0 ? underdogGoals : favGoals;
+
+  if (goals1 === goals2 && absDiff >= 5) {
+    if (diff > 0) goals1 += 1;
+    else goals2 += 1;
+  }
+
+  goals1 = clamp(goals1, 0, 4);
+  goals2 = clamp(goals2, 0, 4);
+
+  return [goals1, goals2, form1, form2];
+}
+function predictKnockoutMatch(team1Input, team2Input) {
+  const team1 = normalizeTeamName(team1Input);
+  const team2 = normalizeTeamName(team2Input);
+
+  const s1 = getTeamStats(team1);
+  const s2 = getTeamStats(team2);
+
+  const [goals1, goals2, form1, form2] = makeKnockoutScore(s1, s2);
+  const ratingDiff = s1.rating - s2.rating;
+
+  let winner = null;
+  let note = '';
+
+  if (goals1 > goals2) {
+    winner = showName(team1);
+  } else if (goals2 > goals1) {
+    winner = showName(team2);
+  } else {
+    winner = form1 >= form2 ? showName(team1) : showName(team2);
+    note = 'Winner after extra time / penalties';
+  }
+
+  return {
+    model_version: `${MODEL_VERSION}-knockout-varied`,
+    team1: showName(team1),
+    team2: showName(team2),
+    predicted_score: `${goals1} - ${goals2}`,
+    prediction: `${winner} Win`,
+    winner,
+    confidence: Math.round(clamp(52 + Math.abs(form1 - form2) * 0.75, 50, 93)),
+    note,
+    strength: {
+      team1: Math.round(form1),
+      team2: Math.round(form2),
+      difference: Math.round(form1 - form2),
+      rating_difference: ratingDiff
+    },
+    team1_stats: {
+      rating: s1.rating,
+      avg_goals_for: s1.avgGoalsFor.toFixed(2),
+      avg_goals_against: s1.avgGoalsAgainst.toFixed(2),
+      win_rate: (s1.winRate * 100).toFixed(1)
+    },
+    team2_stats: {
+      rating: s2.rating,
+      avg_goals_for: s2.avgGoalsFor.toFixed(2),
+      avg_goals_against: s2.avgGoalsAgainst.toFixed(2),
+      win_rate: (s2.winRate * 100).toFixed(1)
+    }
+  };
 }
 
 function generateGroupMatches() {
@@ -311,10 +415,7 @@ function loadData() {
 }
 
 app.get('/api/health', (req, res) => {
-  res.json({
-    ok: true,
-    model_version: MODEL_VERSION
-  });
+  res.json({ ok: true, model_version: MODEL_VERSION });
 });
 
 app.get('/api/matches', (req, res) => {
@@ -337,30 +438,27 @@ app.get('/api/teams', (req, res) => {
 });
 
 app.get('/api/stats/:team', (req, res) => {
-  const stats = getTeamStats(req.params.team);
-  res.json(stats);
+  res.json(getTeamStats(req.params.team));
 });
 
 app.post('/api/predict', (req, res) => {
+  const { team1, team2 } = req.body;
+  if (!team1 || !team2) return res.status(400).json({ error: 'Teams required' });
+  res.json(predictMatch(team1, team2));
+});
+
+app.post('/api/predict-knockout', (req, res) => {
   const { team1, team2 } = req.body;
 
   if (!team1 || !team2) {
     return res.status(400).json({ error: 'Teams required' });
   }
 
-  res.json(predictMatch(team1, team2));
+  res.json(predictKnockoutMatch(team1, team2));
 });
-
 app.get('/api/generate-predictions', (req, res) => {
-  const predictions = generateGroupMatches().map(match =>
-    predictMatch(match.team1, match.team2)
-  );
-
-  res.json({
-    model_version: MODEL_VERSION,
-    count: predictions.length,
-    data: predictions
-  });
+  const predictions = generateGroupMatches().map(match => predictMatch(match.team1, match.team2));
+  res.json({ model_version: MODEL_VERSION, count: predictions.length, data: predictions });
 });
 
 app.get('/api/ranking', (req, res) => {
@@ -368,7 +466,6 @@ app.get('/api/ranking', (req, res) => {
     .flat()
     .map(team => {
       const stats = getTeamStats(team);
-
       return {
         team: showName(stats.team),
         rating: stats.rating,
@@ -382,11 +479,7 @@ app.get('/api/ranking', (req, res) => {
         points: stats.wins * 3 + stats.draws
       };
     })
-    .sort((a, b) =>
-      b.rating - a.rating ||
-      b.points - a.points ||
-      b.goal_difference - a.goal_difference
-    )
+    .sort((a, b) => b.rating - a.rating || b.points - a.points || b.goal_difference - a.goal_difference)
     .map((team, index) => ({
       rank: index + 1,
       code: team.team.slice(0, 3).toUpperCase(),
@@ -397,10 +490,8 @@ app.get('/api/ranking', (req, res) => {
 });
 
 app.get('/api/group-standings', (req, res) => {
-  const matches = generateGroupMatches();
-  const predictions = matches.map(match => predictMatch(match.team1, match.team2));
+  const predictions = generateGroupMatches().map(match => predictMatch(match.team1, match.team2));
 
-  // Initialize group standings
   const groupStandings = {};
   Object.keys(groups).forEach(groupLetter => {
     groupStandings[groupLetter] = {
@@ -418,10 +509,9 @@ app.get('/api/group-standings', (req, res) => {
     };
   });
 
-  // Process predictions to build standings
   predictions.forEach(pred => {
-    // Find which group this match belongs to
     let matchGroup = null;
+
     Object.entries(groups).forEach(([letter, teams]) => {
       const displayTeams = teams.map(t => showName(t));
       if (displayTeams.includes(pred.team1) && displayTeams.includes(pred.team2)) {
@@ -437,20 +527,15 @@ app.get('/api/group-standings', (req, res) => {
 
     if (!team1 || !team2) return;
 
-    // Parse score
     const [goals1, goals2] = pred.predicted_score.split(' - ').map(Number);
 
-    // Update played matches
     team1.played++;
     team2.played++;
-
-    // Update goals
     team1.goals_for += goals1;
     team1.goals_against += goals2;
     team2.goals_for += goals2;
     team2.goals_against += goals1;
 
-    // Update result
     if (goals1 > goals2) {
       team1.wins++;
       team1.points += 3;
@@ -467,15 +552,13 @@ app.get('/api/group-standings', (req, res) => {
     }
   });
 
-  // Sort teams in each group by points, then by goal difference
   Object.keys(groupStandings).forEach(groupLetter => {
     groupStandings[groupLetter].teams.sort((a, b) => {
       const aDiff = a.goals_for - a.goals_against;
       const bDiff = b.goals_for - b.goals_against;
-      return b.points - a.points || bDiff - aDiff;
+      return b.points - a.points || bDiff - aDiff || b.goals_for - a.goals_for;
     });
 
-    // Add rank
     groupStandings[groupLetter].teams.forEach((team, index) => {
       team.rank = index + 1;
     });
@@ -488,12 +571,6 @@ app.get('/api/group-standings', (req, res) => {
   });
 });
 
-app.get('/api/health', (req, res) => {
-  res.json({
-    ok: true,
-    model_version: MODEL_VERSION
-  });
-});
 loadData();
 
 app.listen(PORT, () => {

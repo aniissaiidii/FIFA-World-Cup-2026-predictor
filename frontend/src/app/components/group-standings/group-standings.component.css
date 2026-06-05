@@ -9,19 +9,21 @@
   color: #102033;
 }
 
+/* HERO */
+
 .standings-hero {
-  min-height: 220px;
-  margin-bottom: 26px;
-  padding: 34px;
+  min-height: 230px;
+  margin-bottom: 28px;
+  padding: 36px;
   display: grid;
   grid-template-columns: 1fr auto;
   align-items: end;
-  gap: 24px;
+  gap: 28px;
   border-radius: 28px;
   color: #ffffff;
   background:
-    linear-gradient(120deg, rgba(3, 21, 46, 0.94), rgba(4, 54, 48, 0.86)),
-    repeating-linear-gradient(90deg, rgba(255,255,255,.06) 0 2px, transparent 2px 82px);
+    linear-gradient(120deg, rgba(3, 21, 46, 0.95), rgba(5, 63, 56, 0.85)),
+    repeating-linear-gradient(90deg, rgba(255,255,255,.055) 0 2px, transparent 2px 82px);
   border: 1px solid rgba(255,255,255,.14);
   box-shadow: 0 28px 80px rgba(0,0,0,.32);
 }
@@ -44,7 +46,7 @@
 }
 
 .standings-hero p {
-  max-width: 620px;
+  max-width: 650px;
   margin: 0;
   color: rgba(255,255,255,.8);
   font-size: 1.03rem;
@@ -57,7 +59,7 @@
   place-items: center;
   align-content: center;
   border-radius: 24px;
-  background: rgba(255,255,255,.1);
+  background: rgba(255,255,255,.11);
   border: 1px solid rgba(255,255,255,.18);
 }
 
@@ -73,6 +75,8 @@
   font-weight: 900;
   text-transform: uppercase;
 }
+
+/* STATES */
 
 .state-card {
   max-width: 640px;
@@ -103,6 +107,8 @@
   background: #fff1f3;
 }
 
+/* GROUP CARDS */
+
 .groups-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(520px, 1fr));
@@ -113,7 +119,7 @@
 .third-ranking-card {
   overflow: hidden;
   border-radius: 24px;
-  background: #eef3f7;
+  background: #f3f7fb;
   box-shadow: 0 22px 58px rgba(0,0,0,.18);
 }
 
@@ -124,7 +130,7 @@
   justify-content: space-between;
   align-items: center;
   gap: 14px;
-  color: #fff;
+  color: #ffffff;
   background: linear-gradient(135deg, #041e42, #073b35);
 }
 
@@ -133,11 +139,6 @@
   margin: 6px 0 0;
   font-size: 1.36rem;
   font-weight: 950;
-}
-
-.third-ranking-header p {
-  margin: 6px 0 0;
-  color: rgba(255,255,255,.76);
 }
 
 .group-header b {
@@ -150,15 +151,6 @@
   color: #041e42;
   font-size: 1.25rem;
   box-shadow: 0 0 20px rgba(255,215,0,.28);
-}
-
-.third-ranking-header > strong {
-  padding: 11px 15px;
-  border-radius: 999px;
-  background: #ffd700;
-  color: #041e42;
-  font-weight: 950;
-  white-space: nowrap;
 }
 
 .standings-list {
@@ -303,7 +295,7 @@
   min-height: 24px;
   padding: 0 9px;
   border-radius: 999px;
-  color: #fff;
+  color: #ffffff;
   font-size: .7rem;
   font-weight: 950;
   text-transform: uppercase;
@@ -317,8 +309,24 @@
   background: #ffad1f;
 }
 
+/* THIRD TABLE AT THE END */
+
 .third-ranking-card {
   margin-top: 28px;
+}
+
+.third-ranking-header p {
+  margin: 6px 0 0;
+  color: rgba(255,255,255,.76);
+}
+
+.third-ranking-header > strong {
+  padding: 11px 15px;
+  border-radius: 999px;
+  background: #ffd700;
+  color: #041e42;
+  font-weight: 950;
+  white-space: nowrap;
 }
 
 .third-table {
@@ -363,6 +371,8 @@
   background: #00a78a;
   color: #ffffff;
 }
+
+/* RESPONSIVE */
 
 @media (max-width: 900px) {
   .standings-hero,

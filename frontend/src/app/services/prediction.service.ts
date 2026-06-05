@@ -30,6 +30,10 @@ export class PredictionService {
     return this.http.post(`${this.apiUrl}/predict`, { team1, team2 });
   }
 
+  predictKnockoutMatch(team1: string, team2: string): Observable<any> {
+    return this.http.post(`${this.apiUrl}/predict-knockout`, { team1, team2 });
+  }
+
   getRanking(): Observable<any[]> {
     return this.http.get<any[]>(`${this.apiUrl}/ranking`);
   }
