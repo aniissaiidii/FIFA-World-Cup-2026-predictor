@@ -3,7 +3,7 @@
     <div class="hero-content">
       <span class="badge">FIFA World Cup 2026</span>
       <h1>World Cup Match Predictor</h1>
-      <p>Choisis un groupe, sélectionne un match et lance la prédiction du score.</p>
+      <p>Choose a group, select a match, and start the score prediction.</p>
     </div>
 
     <div class="hero-board">
@@ -57,7 +57,7 @@
     </div>
 
     <button class="predict-button" (click)="predictMatch()" [disabled]="loading">
-      {{ loading ? 'Prediction en cours...' : 'Predict Match' }}
+      {{ loading ? 'Predicting...' : 'Predict Match' }}
     </button>
 
     <p *ngIf="error" class="error-message">{{ error }}</p>
@@ -99,15 +99,13 @@
         <div class="stat-card">
           <h4>{{ prediction.team1 }}</h4>
           <p>Win rate <b>{{ prediction.team1_stats.win_rate }}%</b></p>
-          <p>Goals for <b>{{ prediction.team1_stats.avg_goals_for }}</b></p>
-          <p>Goals against <b>{{ prediction.team1_stats.avg_goals_against }}</b></p>
+         
         </div>
 
         <div class="stat-card">
           <h4>{{ prediction.team2 }}</h4>
           <p>Win rate <b>{{ prediction.team2_stats.win_rate }}%</b></p>
-          <p>Goals for <b>{{ prediction.team2_stats.avg_goals_for }}</b></p>
-          <p>Goals against <b>{{ prediction.team2_stats.avg_goals_against }}</b></p>
+          
         </div>
       </div>
     </div>

@@ -38,6 +38,9 @@ interface BestThirdCandidate {
 export class KnockoutBracketComponent implements OnInit {
   loading = false;
   error = '';
+
+  selectedRound = 'final';
+
   roundOf32: KnockoutMatch[] = [];
   roundOf16: KnockoutMatch[] = [];
   quarterFinals: KnockoutMatch[] = [];
@@ -46,10 +49,35 @@ export class KnockoutBracketComponent implements OnInit {
   champion: string | null = null;
   bestThirdTeams: BestThirdCandidate[] = [];
 
+  rounds = [
+  { key: 'r32', label: 'Round of 32' },
+  { key: 'r16', label: 'Round of 16' },
+  { key: 'quarter', label: 'Quarter-finals' },
+  { key: 'semi', label: 'Semi-finals' },
+  { key: 'final', label: 'Final' }
+];
+
   constructor(private predictionService: PredictionService) {}
 
   ngOnInit() {
     this.loadKnockoutBracket();
+  }
+
+  selectRound(round: string) {
+    this.selectedRound = round;
+  }
+
+  getSelectedRoundTitle() {
+    const found = this.rounds.find(round => round.key === this.selectedRound);
+    return found?.label || 'Final';
+  }
+
+  getSelectedMatches(): KnockoutMatch[] {
+    if (this.selectedRound === 'semi') return this.semiFinals;
+    if (this.selectedRound === 'quarter') return this.quarterFinals;
+    if (this.selectedRound === 'r16') return this.roundOf16;
+    if (this.selectedRound === 'r32') return this.roundOf32;
+    return this.finalMatch ? [this.finalMatch] : [];
   }
 
   async loadKnockoutBracket() {
@@ -110,6 +138,7 @@ export class KnockoutBracketComponent implements OnInit {
 
       this.finalMatch = finalMatches[0] || null;
       this.champion = this.finalMatch?.winner || null;
+      this.selectedRound = 'final';
     } catch (err: any) {
       console.error(err);
       this.error = err?.message || 'Unable to build knockout bracket.';
@@ -277,9 +306,7 @@ export class KnockoutBracketComponent implements OnInit {
   }
 
   getPenaltyNote(pred: any, winner: string | undefined) {
-    if (pred?.note) {
-      return pred.note;
-    }
+    if (pred?.note) return pred.note;
 
     const score = String(pred?.predicted_score || '');
     const [g1, g2] = score.split(' - ').map(Number);
@@ -292,9 +319,7 @@ export class KnockoutBracketComponent implements OnInit {
   }
 
   resolveWinner(pred: any) {
-    if (pred?.winner) {
-      return pred.winner;
-    }
+    if (pred?.winner) return pred.winner;
 
     const rating1 = Number(pred?.team1_stats?.rating || 0);
     const rating2 = Number(pred?.team2_stats?.rating || 0);

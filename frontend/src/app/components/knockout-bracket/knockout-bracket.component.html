@@ -3,7 +3,7 @@
     <div>
       <span>World Cup 2026</span>
       <h1>Knockout Stage</h1>
-      <p>Predicted path from Round of 32 to the champion.</p>
+      <p>Select a round to view its predicted matches. Final is shown by default.</p>
     </div>
 
     <div class="champion-tile">
@@ -22,13 +22,24 @@
   </div>
 
   <ng-container *ngIf="!loading && !error">
-    <section class="final-section" *ngIf="finalMatch">
+    <div class="round-tabs">
+      <button
+        type="button"
+        *ngFor="let round of rounds"
+        [class.active]="selectedRound === round.key"
+        (click)="selectRound(round.key)"
+      >
+        {{ round.label }}
+      </button>
+    </div>
+
+    <section class="round-panel">
       <div class="section-title">
-        <span>Final</span>
-        <h2>World Cup Final</h2>
+        <span>Selected round</span>
+        <h2>{{ getSelectedRoundTitle() }}</h2>
       </div>
 
-      <article class="final-card">
+      <article class="final-card" *ngIf="selectedRound === 'final' && finalMatch">
         <div class="final-team">
           <small>Finalist</small>
           <strong>{{ finalMatch.team1 }}</strong>
@@ -48,100 +59,9 @@
           <span *ngIf="finalMatch.note">{{ finalMatch.note }}</span>
         </div>
       </article>
-    </section>
 
-    <section class="round-section" *ngIf="semiFinals.length">
-      <div class="section-title">
-        <span>Round</span>
-        <h2>Semi-finals</h2>
-      </div>
-
-      <div class="matches-grid two-cols">
-        <article class="match-card" *ngFor="let match of semiFinals">
-          <div class="match-id">{{ match.id }}</div>
-
-          <div class="team-line" [class.winner]="match.winner === match.team1">
-            <span>{{ match.team1 }}</span>
-          </div>
-
-          <div class="team-line" [class.winner]="match.winner === match.team2">
-            <span>{{ match.team2 }}</span>
-          </div>
-
-          <div class="score-line" *ngIf="match.score">
-            <strong>{{ match.score }}</strong>
-            <span>{{ match.winner }}</span>
-          </div>
-
-          <small *ngIf="match.note" class="note">{{ match.note }}</small>
-        </article>
-      </div>
-    </section>
-
-    <section class="round-section" *ngIf="quarterFinals.length">
-      <div class="section-title">
-        <span>Round</span>
-        <h2>Quarter-finals</h2>
-      </div>
-
-      <div class="matches-grid">
-        <article class="match-card" *ngFor="let match of quarterFinals">
-          <div class="match-id">{{ match.id }}</div>
-
-          <div class="team-line" [class.winner]="match.winner === match.team1">
-            <span>{{ match.team1 }}</span>
-          </div>
-
-          <div class="team-line" [class.winner]="match.winner === match.team2">
-            <span>{{ match.team2 }}</span>
-          </div>
-
-          <div class="score-line" *ngIf="match.score">
-            <strong>{{ match.score }}</strong>
-            <span>{{ match.winner }}</span>
-          </div>
-
-          <small *ngIf="match.note" class="note">{{ match.note }}</small>
-        </article>
-      </div>
-    </section>
-
-    <section class="round-section" *ngIf="roundOf16.length">
-      <div class="section-title">
-        <span>Round</span>
-        <h2>Round of 16</h2>
-      </div>
-
-      <div class="matches-grid">
-        <article class="match-card" *ngFor="let match of roundOf16">
-          <div class="match-id">{{ match.id }}</div>
-
-          <div class="team-line" [class.winner]="match.winner === match.team1">
-            <span>{{ match.team1 }}</span>
-          </div>
-
-          <div class="team-line" [class.winner]="match.winner === match.team2">
-            <span>{{ match.team2 }}</span>
-          </div>
-
-          <div class="score-line" *ngIf="match.score">
-            <strong>{{ match.score }}</strong>
-            <span>{{ match.winner }}</span>
-          </div>
-
-          <small *ngIf="match.note" class="note">{{ match.note }}</small>
-        </article>
-      </div>
-    </section>
-
-    <section class="round-section" *ngIf="roundOf32.length">
-      <div class="section-title">
-        <span>Round</span>
-        <h2>Round of 32</h2>
-      </div>
-
-      <div class="matches-grid">
-        <article class="match-card" *ngFor="let match of roundOf32">
+      <div class="matches-grid" [class.two-cols]="selectedRound === 'semi'" *ngIf="selectedRound !== 'final'">
+        <article class="match-card" *ngFor="let match of getSelectedMatches()">
           <div class="match-id">{{ match.id }}</div>
 
           <div class="team-line" [class.winner]="match.winner === match.team1">
