@@ -84,16 +84,7 @@
         </div>
       </div>
 
-      <div class="confidence-box">
-        <div class="confidence-top">
-          <span>Confidence</span>
-          <strong>{{ prediction.confidence }}%</strong>
-        </div>
-
-        <div class="confidence-bar">
-          <div class="confidence-fill" [style.width.%]="prediction.confidence"></div>
-        </div>
-      </div>
+      
 
       <div class="stats-grid" *ngIf="prediction.team1_stats && prediction.team2_stats">
         <div class="stat-card">
